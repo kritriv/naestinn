@@ -2,7 +2,7 @@
 
 <body class="bg-black">
     <!-- Custom Cursor  -->
-    <!-- <div class="custom-cursor">
+    <div class="custom-cursor">
         <div>
             <span></span>
             <svg class="custom-cursor__img" width="119" height="45" viewBox="0 0 119 45" fill="none"
@@ -29,7 +29,7 @@
             </svg>
         </div>
         <div></div>
-    </div> -->
+    </div>
     <!-- /Custom Cursor  -->
     <!-- Header -->
     <header class="header header--1 header--fixed">

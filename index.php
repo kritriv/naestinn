@@ -32,7 +32,7 @@
             <div class="row justify-content-center">
                 <div class="col-xl-10">
                     <div class="position-relative z-1 fadeIn_bottom">
-                        <img src="assets/images/Home/hero_banner_img.png" alt="Trulli"
+                        <img src="assets/images/Home/hero_banner_img1.png" alt="Trulli"
                             class="img-fluid rounded-4 border border-8x border-outline border-opacity-2">
                         <img src="assets/images/Home/hero-cartoon2.png" alt="image"
                             class="img-fluid d-none d-lg-block hero-6__el hero-6__el-1" width="35%">
