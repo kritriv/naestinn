@@ -31385,7 +31385,7 @@ html.lenis {
   position: absolute;
   inset: 0;
   z-index: -1;
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(16, 21, 29, 0.4);
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
   backdrop-filter: blur(5px);
   -webkit-backdrop-filter: blur(5px);
@@ -32295,7 +32295,7 @@ html.lenis {
   background-image: url(../images/Home/grid-shape.png);
   background-repeat: repeat;
   mix-blend-mode: soft-light;
-  opacity: 0.05;
+  opacity: 0.02;
   z-index: -2;
 }
 .hero-6::before {
@@ -32345,7 +32345,8 @@ html.lenis {
   width: 150%;
   aspect-ratio: 1;
   border-radius: 50%;
-  background: hsl(var(--black));
+  /* background: hsl(var(--black)); */
+  background: #10151d;
   z-index: -1;
 }
 @media (min-width: 768px) {
@@ -32956,6 +32957,7 @@ html.lenis {
   inset-block-end: 0;
   z-index: -1;
   pointer-events: none;
+  mix-blend-mode: lighten;
 }
 .footer-2 {
   background-image: url(../img/footer-2-bg.png);
@@ -34816,7 +34818,7 @@ html.lenis {
   z-index: 1;
   border-radius: 0.9375rem;
   border: 1px solid #191c1d;
-  background: rgba(0, 0, 0, 0.4);
+  background: rgb(2 12 27 / 80%);
   width: 350px;
 }
 @media (min-width: 1200px) {
@@ -40784,4 +40786,4 @@ button.bg-grad-6:hover {
   box-shadow: 0 0 2px hsl(var(--shadow) / 0.24),
     20px 20px 40px -4px hsl(var(--shadow) / 0.24);
 }
-/*# sourceMappingURL=style.min.css.map */
+

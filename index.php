@@ -199,7 +199,7 @@
                         <div class="row g-4">
                             <div class="col-sm-6 col-md-4 fadein_bottom_32">
                                 <div
-                                    class="d-flex flex-column align-items-start justify-content-between rounded-1 bg-neutral-10 border border-neutral-17 p-4 px-md-6 h-100">
+                                    class="d-flex flex-column align-items-start justify-content-between rounded-1 bg_back_dark_3 border border-neutral-17 p-4 px-md-6 h-100">
                                     <h3 class="mb-10 clr-neutral-92 fw-extrabold"> 4.2 </h3>
                                     <div class="mt-auto">
                                         <ul class="list list-row gap-1 mb-4">
@@ -235,7 +235,7 @@
                             </div>
                             <div class="col-sm-6 col-md-4 fadein_bottom_32">
                                 <div
-                                    class="d-flex flex-column align-items-start justify-content-between rounded-1 bg-neutral-10 border border-neutral-17 p-4 px-md-6 h-100">
+                                    class="d-flex flex-column align-items-start justify-content-between rounded-1 bg_back_dark_3 border border-neutral-17 p-4 px-md-6 h-100">
                                     <h3 class="mb-10 clr-neutral-92 fw-extrabold"> 4.5 </h3>
                                     <div class="mt-auto">
                                         <ul class="list list-row gap-1 mb-4">
@@ -271,7 +271,7 @@
                             </div>
                             <div class="col-sm-6 col-md-4 fadein_bottom_32">
                                 <div
-                                    class="d-flex flex-column align-items-start justify-content-between rounded-1 bg-neutral-10 border border-neutral-17 p-4 px-md-6 h-100">
+                                    class="d-flex flex-column align-items-start justify-content-between rounded-1 bg_back_dark_3 border border-neutral-17 p-4 px-md-6 h-100">
                                     <h3 class="mb-10 clr-neutral-92 fw-extrabold"> 4.8 </h3>
                                     <div class="mt-auto">
                                         <ul class="list list-row gap-1 mb-4">
@@ -400,7 +400,7 @@
             <div class="col-md-7 order-xl-2">
                 <div data-bs-spy="scroll" data-bs-target="#toDoScrollspy" data-bs-smooth-scroll="true">
                     <div id="softwaredevelopment">
-                        <div class="todo-box position-relative z-1 bg-black  pe-10">
+                        <div class="todo-box position-relative z-1 bg_back_dark_2  pe-10">
                             <h4 class="clr-neutral-90 animate-line-3d"> Software Development </h4>
                             <p class="mb-6 clr-neutral-80 animate-text-from-right"> WExperience the magic of Naestinn's
                                 tech wizards. We turn ideas into digital wonders, making your journey to success smooth
@@ -422,7 +422,7 @@
                         </div>
                     </div>
                     <div id="applicationdevelopment">
-                        <div class="todo-box position-relative z-1 bg-black py-10 pe-10">
+                        <div class="todo-box position-relative z-1 bg_back_dark_2 py-10 pe-10">
                             <h4 class="clr-neutral-90 animate-line-3d"> Application Development </h4>
                             <p class="mb-6 clr-neutral-80 animate-text-from-right"> Step into the world of Naestinn's
                                 app maestros. We create apps that are super easy to use, high-performing, and leave a
@@ -444,7 +444,7 @@
                         </div>
                     </div>
                     <div id="webdevelopment">
-                        <div class="todo-box position-relative z-1 bg-black py-10 pe-10">
+                        <div class="todo-box position-relative z-1 bg_back_dark_2 py-10 pe-10">
                             <h4 class="clr-neutral-90 animate-line-3d"> Web Development </h4>
                             <p class="mb-6 clr-neutral-80 animate-text-from-right"> Let Naestinn weave the web for you.
                                 Your online story is crafted with care, making every click a delightful adventure
@@ -493,7 +493,7 @@
     <div class="container">
         <div class="row g-4">
             <div class="col-12" data-cursor="See Our Work">
-                <div class="bg-neutral-10 border border-neutral-17 rounded-4 p-4 p-md-8 fadeIn_bottom">
+                <div class="bg_back_dark_3 border border-neutral-17 rounded-4 p-4 p-md-8 fadeIn_bottom">
                     <div class="row g-4 align-items-center justify-content-between">
                         <div class="col-md-6 col-xxl-5">
                             <div class="d-flex align-items-center gap-3 mb-2 fadeIn_bottom">
@@ -626,7 +626,7 @@
                 </div>
             </div>
             <div class="col-md-6 col-lg-4">
-                <div class="bg-neutral-10 border border-neutral-17 rounded-4 p-4 p-md-8 h-100 fadeIn_bottom">
+                <div class="bg_back_dark_3 border border-neutral-17 rounded-4 p-4 p-md-8 h-100 fadeIn_bottom">
                     <div class="rounded-4 overflow-hidden mb-7 fadeIn_bottom">
                         <img src="assets/img/ai-featured-video-img-2.png" alt="image"
                             class="img-fluid w-100 h-100 object-fit-cover">
@@ -989,8 +989,8 @@
                     </div>
                 </div>
             </div>
-            <img src="assets/img/ai-application-shape-center.png" alt="image"
-                class="img-fluid ai-application-shape-center">
+            <!-- <img src="assets/img/ai-application-shape-center.png" alt="image"
+                class="img-fluid ai-application-shape-center"> -->
         </div>
     </div>
     <img src="assets/img/ai-application-shape-line-left.png" alt="image"
@@ -1190,7 +1190,7 @@
             </ul>
         </div>
     </div>
-    <img src="assets/img/testimonial-4-shape-circle.png" alt="image"
+    <img src="assets/img/testimonial-4-shape-circle2.png" alt="image"
         class="img-fluid testimonial-4-shape testimonial-4-shape-circle">
     <img src="assets/img/testimonial-4-shape-dots.png" alt="image"
         class="img-fluid testimonial-4-shape testimonial-4-shape-dots">
@@ -1219,7 +1219,7 @@
         <div class="row g-4">
             <div class="col-md-6 col-lg-4" data-cursor="Read Blog">
                 <div
-                    class="blog-card-1 top-shadow px-6 py-10 position-relative z-1 overflow-hidden rounded-3 bg-neutral-10 bg-opacity-6 fadein_bottom_13">
+                    class="blog-card-1 top-shadow px-6 py-10 position-relative z-1 overflow-hidden rounded-3 bg_back_dark_3 bg-opacity-6 fadein_bottom_13">
                     <div class="d-flex align-items-center gap-2">
                         <div class="w-12 h-2px bg-primary-key"></div>
                         <span class="d-block fw-bold clr-primary-key"> AI News </span>
@@ -1242,7 +1242,7 @@
             </div>
             <div class="col-md-6 col-lg-4" data-cursor="Read Blog">
                 <div
-                    class="blog-card-1 top-shadow px-6 py-10 position-relative z-1 overflow-hidden rounded-3 bg-neutral-10 bg-opacity-6 fadein_bottom_13">
+                    class="blog-card-1 top-shadow px-6 py-10 position-relative z-1 overflow-hidden rounded-3 bg_back_dark_3 bg-opacity-6 fadein_bottom_13">
                     <div class="d-flex align-items-center gap-2">
                         <div class="w-12 h-2px bg-primary-key"></div>
                         <span class="d-block fw-bold clr-primary-key"> AI News </span>
@@ -1265,7 +1265,7 @@
             </div>
             <div class="col-md-6 col-lg-4" data-cursor="Read Blog">
                 <div
-                    class="blog-card-1 top-shadow px-6 py-10 position-relative z-1 overflow-hidden rounded-3 bg-neutral-10 bg-opacity-6 fadein_bottom_13">
+                    class="blog-card-1 top-shadow px-6 py-10 position-relative z-1 overflow-hidden rounded-3 bg_back_dark_3 bg-opacity-6 fadein_bottom_13">
                     <div class="d-flex align-items-center gap-2">
                         <div class="w-12 h-2px bg-primary-key"></div>
                         <span class="d-block fw-bold clr-primary-key"> AI News </span>

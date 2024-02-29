@@ -144,8 +144,9 @@
                 <div class="col-md-7 col-lg-6">
                     <ul class="list list-row flex-wrap gap-3 justify-content-md-end">
                         <li>
-                            <a href="https://www.linkedin.com/naestinn"
-                                class="link d-inline-flex align-items-center gap-2 fs-14 clr-neutral-80 :clr-in fw-medium">
+                            <a href="https://www.linkedin.com/company/naestinn"
+                                class="link d-inline-flex align-items-center gap-2 fs-14 clr-neutral-80 :clr-in fw-medium"
+                                target="_blank">
                                 <span class="d-block flex-shrink-0">
                                     <i class="bi bi-linkedin"></i>
                                 </span>
@@ -155,7 +156,8 @@
 
                         <li>
                             <a href="https://www.facebook.com/naestinn"
-                                class="link d-inline-flex align-items-center gap-2 fs-14 clr-neutral-80 :clr-fb fw-medium">
+                                class="link d-inline-flex align-items-center gap-2 fs-14 clr-neutral-80 :clr-fb fw-medium"
+                                target="_blank">
                                 <span class="d-block flex-shrink-0">
                                     <i class="bi bi-facebook"></i>
                                 </span>
@@ -164,7 +166,8 @@
                         </li>
                         <li>
                             <a href="https://www.instagram.com/naestinn"
-                                class="link d-inline-flex align-items-center gap-2 fs-14 clr-neutral-80 :clr-ins fw-medium">
+                                class="link d-inline-flex align-items-center gap-2 fs-14 clr-neutral-80 :clr-ins fw-medium"
+                                target="_blank">
                                 <span class="d-block flex-shrink-0">
                                     <i class="bi bi-instagram"></i>
                                 </span>
@@ -173,7 +176,8 @@
                         </li>
                         <li>
                             <a href="https://www.youtube.com/@naestinn"
-                                class="link d-inline-flex align-items-center gap-2 fs-14 clr-neutral-80 :clr-yt fw-medium">
+                                class="link d-inline-flex align-items-center gap-2 fs-14 clr-neutral-80 :clr-yt fw-medium"
+                                target="_blank">
                                 <span class="d-block flex-shrink-0">
                                     <i class="bi bi-youtube"></i>
                                 </span>
@@ -182,7 +186,8 @@
                         </li>
                         <li>
                             <a href="https://twitter.com/naestinn"
-                                class="link d-inline-flex align-items-center gap-2 fs-14 clr-neutral-80 :clr-tw fw-medium">
+                                class="link d-inline-flex align-items-center gap-2 fs-14 clr-neutral-80 :clr-tw fw-medium"
+                                target="_blank">
                                 <span class="d-block flex-shrink-0">
                                     <i class="bi bi-twitter"></i>
                                 </span>

@@ -1,0 +1,30 @@
+
+/* ========================== New Updated Csss ===================== */
+
+:root {
+    --bg-black-900: #f2f2fc;
+    --bg-black-100: #fdf9ff;
+    --bg-black-50: #e8dfec;
+    --text-black-900: #060b1b;
+    --bg-black-500: #16202de6;
+    --bg-black-700: #10151D;
+  }
+  
+  .bg_back_dark_2 {
+    background-color: var(--bg-black-700);
+  }
+  .bg_back_dark_3 {
+    background: var(--bg-black-500);
+  }
+  .logo .half_logo {
+    display: none !important;
+  }
+  @media (max-width: 500px) {
+    .logo .full_logo {
+        display: none !important;
+    }
+  
+    .logo .half_logo {
+        display: inline-block !important;
+    }
+  }

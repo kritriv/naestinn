@@ -1,8 +1,8 @@
 <?php include_once 'components/head.php'; ?>
 
-<body class="bg-black">
+<body class="bg_back_dark_2">
     <!-- Custom Cursor  -->
-    <div class="custom-cursor">
+    <!-- <div class="custom-cursor">
         <div>
             <span></span>
             <svg class="custom-cursor__img" width="119" height="45" viewBox="0 0 119 45" fill="none"
@@ -29,7 +29,7 @@
             </svg>
         </div>
         <div></div>
-    </div>
+    </div> -->
     <!-- /Custom Cursor  -->
     <!-- Header -->
     <header class="header header--1 header--fixed">
@@ -39,11 +39,13 @@
                     <nav class="menu d-lg-flex justify-content-lg-between align-items-lg-center py-3 py-lg-0">
                         <div class="d-flex align-items-center justify-content-between">
                             <a href="index.php" class="logo link d-inline-flex align-items-center flex-shrink-0">
-                                <img src="assets/images/logo.svg" alt="logo" class="img-fluid object-fit-contain"
-                                    width="40%">
+                                <img src="assets/images/logo.svg" alt="logo"
+                                    class="full_logo img-fluid object-fit-contain" width="40%">
+                                <img src="assets/images/logo2.svg" alt="logo2"
+                                    class="half_logo img-fluid object-fit-contain" width="40%">
                             </a>
                             <button
-                                class="menu-toggle w-10 h-10 p-0 border-0 lh-1 bg-primary-50 clr-neutral-100 :clr-neutral-100 transition :bg-primary-300 rounded flex-shrink-0 d-lg-none order-sm-3 fs-24">
+                                class="menu-toggle w-10 h-10 p-0 border-0 lh-1 bg-grad-6 clr-neutral-100 :clr-neutral-100 transition :bg-primary-300 rounded flex-shrink-0 d-lg-none order-sm-3 fs-24">
                                 <i class="bi bi-list"></i>
                             </button>
                         </div>
