@@ -32,7 +32,7 @@
             <div class="row justify-content-center">
                 <div class="col-xl-10">
                     <div class="position-relative z-1 fadeIn_bottom">
-                        <img src="assets/images/Home/hero_banner_img1.png" alt="Trulli"
+                        <img src="assets/images/Home/hero_banner_img3.png" alt="Trulli"
                             class="img-fluid rounded-4 border border-8x border-outline border-opacity-2">
                         <img src="assets/images/Home/hero-cartoon2.png" alt="image"
                             class="img-fluid d-none d-lg-block hero-6__el hero-6__el-1" width="35%">
@@ -371,7 +371,7 @@
     </div>
     <div class="container">
         <div class="row g-4">
-        <div class="col-md-5 ">
+            <div class="col-md-5 ">
                 <nav class="todo-nav" id="toDoScrollspy">
                     <ul class="list gap-7 todo-nav__menu">
                         <li>
@@ -416,7 +416,7 @@
                             </div>
                         </div>
                         <div class="todo-img">
-                            <img src="assets/img/todo-img.jpg" alt="image" class="img-fluid rounded-1 parallax-image">
+                            <img src="assets/img/todo-img.jpg" alt="image" class="img-fluid rounded-1 parallax-image ">
                             <img src="assets/img/todo-img-1.png" alt="image" class="img-fluid todo-img__1">
                             <img src="assets/img/todo-img-2.png" alt="image" class="img-fluid todo-img__2">
                         </div>
@@ -472,7 +472,7 @@
 </div>
 <!-- /Our Services  -->
 <!-- Featured Section  -->
-<div class="section-space-sm-y">
+<div class="section-space-sm-y mt-5">
     <div class="section-space-sm-bottom">
         <div class="container">
             <div class="row justify-content-center">
@@ -483,8 +483,9 @@
                         </span>
                         <span class="d-inline-block clr-secondary-key ff-1 fw-bold fs-18"> Our Portfolio </span>
                     </div>
-                    <h3 class="mb-0 text-center clr-neutral-90 fw-extrabold animate-line-3d  fs-2"> Showcasing  <span
-                            class="d-inline-block clr-grad-6 ff-4 text-underline">Naestinn: </span> Transformative Solutions in Action.
+                    <h3 class="mb-0 text-center clr-neutral-90 fw-bold animate-line-3d  fs-2"> Showcasing <span
+                            class="d-inline-block clr-grad-6 ff-4 text-underline">Naestinn: </span> Transformative
+                        Solutions in Action.
                     </h3>
                 </div>
             </div>
@@ -502,27 +503,31 @@
                                 </span>
                                 <span class="d-inline-block clr-primary-2 ff-1 fw-bold fs-18"> Our Portfolio </span>
                             </div>
-                            <h5 class="mb-6 clr-neutral-90 animate-text-from-right"> Unlocking Success Stories: Naestinn's Portfolio Spotlight.</h5>
+                            <h5 class="mb-6 clr-neutral-90 animate-text-from-right"> Unlocking Success Stories:
+                                Naestinn's Portfolio Spotlight.</h5>
                             <ul class="list gap-3 mb-8">
                                 <li class="fadeIn_bottom">
                                     <div class="d-flex gap-2 align-items-center">
                                         <span
                                             class="d-inline-block w-1 h-1 rounded-circle bg-neutral-80 flex-shrink-0"></span>
-                                        <span class="d-block flex-grow-1 clr-neutral-80 fs-14">Innovative Solutions </span>
+                                        <span class="d-block flex-grow-1 clr-neutral-80 fs-14">Innovative Solutions
+                                        </span>
                                     </div>
                                 </li>
                                 <li class="fadeIn_bottom">
                                     <div class="d-flex gap-2 align-items-center">
                                         <span
                                             class="d-inline-block w-1 h-1 rounded-circle bg-neutral-80 flex-shrink-0"></span>
-                                        <span class="d-block flex-grow-1 clr-neutral-80 fs-14"> Efficiency Redefined </span>
+                                        <span class="d-block flex-grow-1 clr-neutral-80 fs-14"> Efficiency Redefined
+                                        </span>
                                     </div>
                                 </li>
                                 <li class="fadeIn_bottom">
                                     <div class="d-flex gap-2 align-items-center">
                                         <span
                                             class="d-inline-block w-1 h-1 rounded-circle bg-neutral-80 flex-shrink-0"></span>
-                                        <span class="d-block flex-grow-1 clr-neutral-80 fs-14"> Customer-Centric Approach </span>
+                                        <span class="d-block flex-grow-1 clr-neutral-80 fs-14"> Customer-Centric
+                                            Approach </span>
                                     </div>
                                 </li>
                             </ul>
@@ -636,29 +641,34 @@
                             <span class="d-inline-block flex-shrink-0">
                                 <img src="assets/img/icon-subtitle-primary.png" alt="image" class="img-fluid">
                             </span>
-                            <span class="d-inline-block clr-primary-2 ff-1 fw-bold fs-18"> Application Development </span>
+                            <span class="d-inline-block clr-primary-2 ff-1 fw-bold fs-18"> Application Development
+                            </span>
                         </div>
-                        <h6 class="clr-neutral-90 animate-line-3d"> Helper adda : Real-time Domestics Service Provider </h6>
+                        <h6 class="clr-neutral-90 animate-line-3d"> Helper adda : Real-time Domestics Service Provider
+                        </h6>
                         <ul class="list gap-2 mb-8">
                             <li class="fadeIn_bottom">
                                 <div class="d-flex gap-2 align-items-center">
                                     <span
                                         class="d-inline-block w-1 h-1 rounded-circle bg-neutral-80 flex-shrink-0"></span>
-                                    <span class="d-block flex-grow-1 clr-neutral-80 fs-14"> Includes: Android App, Ios App, Admin Panel, Website </span>
+                                    <span class="d-block flex-grow-1 clr-neutral-80 fs-14"> Includes: Android App, Ios
+                                        App, Admin Panel, Website </span>
                                 </div>
                             </li>
                             <li class="fadeIn_bottom">
                                 <div class="d-flex gap-2 align-items-center">
                                     <span
                                         class="d-inline-block w-1 h-1 rounded-circle bg-neutral-80 flex-shrink-0"></span>
-                                    <span class="d-block flex-grow-1 clr-neutral-80 fs-14"> Graphics & Its Marketing </span>
+                                    <span class="d-block flex-grow-1 clr-neutral-80 fs-14"> Graphics & Its Marketing
+                                    </span>
                                 </div>
                             </li>
                             <li class="fadeIn_bottom">
                                 <div class="d-flex gap-2 align-items-center">
                                     <span
                                         class="d-inline-block w-1 h-1 rounded-circle bg-neutral-80 flex-shrink-0"></span>
-                                    <span class="d-block flex-grow-1 clr-neutral-80 fs-14"> Branding & Promotions </span>
+                                    <span class="d-block flex-grow-1 clr-neutral-80 fs-14"> Branding & Promotions
+                                    </span>
                                 </div>
                             </li>
                         </ul>
@@ -688,9 +698,9 @@
                         </span>
                         <span class="d-inline-block clr-secondary-key ff-1 fw-bold fs-18"> Case Study </span>
                     </div>
-                    <h3 class="mb-0 text-center clr-neutral-90 fw-extrabold animate-line-3d"> Personalize <span
-                            class="d-inline-block clr-grad-6 ff-4 fw-normal text-underline">Videos For</span> Who You
-                        Are </h3>
+                    <h5 class="mb-0 text-center clr-neutral-90 fw-bold animate-line-3d"> Transformative<span
+                            class="d-inline-block clr-grad-6 ff-4 fw-normal text-underline"> Naestinn's</span> Impactful
+                        Case Studies</h5>
                 </div>
             </div>
         </div>
@@ -701,49 +711,46 @@
                 <ul class="nav nav-underline nav-bordered use-case-tab">
                     <li class="nav-item animate-text-from-right">
                         <button class="nav-link active" type="button" data-bs-toggle="tab"
-                            data-bs-target="#aiSalesEnable"> AI Sales Enablement </button>
+                            data-bs-target="#website_development_case_study"> Web Development </button>
                     </li>
                     <li class="nav-item animate-text-from-right">
                         <button class="nav-link" type="button" data-bs-toggle="tab"
-                            data-bs-target="#learningDevelopment"> Learning </button>
-                    </li>
-                    <li class="nav-item animate-text-from-right">
-                        <button class="nav-link" type="button" data-bs-toggle="tab" data-bs-target="#customerService">
-                            Customer Service </button>
+                            data-bs-target="#app_development_case_study">App Development </button>
                     </li>
                     <li class="nav-item animate-text-from-right">
                         <button class="nav-link" type="button" data-bs-toggle="tab"
-                            data-bs-target="#informationSecurity"> Information Security </button>
+                            data-bs-target="#software_development_case_study">
+                            Software Development</button>
                     </li>
                     <li class="nav-item animate-text-from-right">
-                        <button class="nav-link" type="button" data-bs-toggle="tab" data-bs-target="#merketingTeam">
-                            Marketing Team </button>
+                        <button class="nav-link" type="button" data-bs-toggle="tab"
+                            data-bs-target="#uiux_design_case_study"> UI/UX Design </button>
+                    </li>
+                    <li class="nav-item animate-text-from-right">
+                        <button class="nav-link" type="button" data-bs-toggle="tab"
+                            data-bs-target="#graphics_design_case_study"> Graphics Design </button>
+                    </li>
+                    <li class="nav-item animate-text-from-right">
+                        <button class="nav-link" type="button" data-bs-toggle="tab"
+                            data-bs-target="#digital_marketing_case_study">
+                            Digital Marketing </button>
                     </li>
                 </ul>
                 <div class="tab-content">
-                    <div class="tab-pane fade show active" id="aiSalesEnable" role="tabpanel"
-                        aria-labelledby="aiSalesEnable" tabindex="0">
+                    <div class="tab-pane fade show active" id="website_development_case_study" role="tabpanel"
+                        aria-labelledby="website_development_case_study" tabindex="0">
                         <div class="pt-12">
                             <div class="row g-4 align-items-center justify-content-between">
                                 <div class="col-lg-6 col-xxl-5">
-                                    <h5 class="fw-extrabold clr-neutral-90 animate-line-3d"> Transform mundane text,
-                                        PowerPoints & PDFs into compelling videos that will captivate your team </h5>
-                                    <p class="mb-7 fw-medium clr-neutral-80 animate-text-from-right"> Usually, our
-                                        colleagues don't jump in the air when they hear e-learning but the AI videos
-                                        created with Naest In have sparked motivation that we haven't seen before. </p>
-                                    <div class="d-flex align-items-center gap-4 mb-12 fadeIn_bottom">
-                                        <div class="w-11 h-11 rounded-circle overflow-hidden flex-shrink-0">
-                                            <img src="assets/img/avatar-1.png" alt="image"
-                                                class="w-100 h-100 object-fit-cover">
-                                        </div>
-                                        <div class="flex-grow-1">
-                                            <h6 class="fs-16 clr-neutral-92 mb-1"> Peter Parker </h6>
-                                            <p class="mb-0 clr-neutral-80 fs-12"> Learning Specialist </p>
-                                        </div>
-                                    </div>
+                                    <h5 class="fw-extrabold clr-neutral-90 animate-line-3d"> Digital Excellence:
+                                        Crafting Engaging Web Experiences </h5>
+                                    <p class="mb-7 fw-medium clr-neutral-80 animate-text-from-right"> Discover how
+                                        Naestinn elevated a brand's online presence through captivating web development,
+                                        creating user-centric and visually appealing sites. </p>
+
                                     <a href="featured.php"
                                         class="link d-inline-block py-3 px-6 ff-1 bg-grad-4 clr-white fw-bold rounded fadeIn_bottom">
-                                        Explore More </a>
+                                        Explore </a>
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="text-center fadeIn_bottom">
@@ -753,29 +760,22 @@
                             </div>
                         </div>
                     </div>
-                    <div class="tab-pane fade" id="learningDevelopment" role="tabpanel"
-                        aria-labelledby="learningDevelopment" tabindex="0">
+                    <div class="tab-pane fade" id="app_development_case_study" role="tabpanel"
+                        aria-labelledby="app_development_case_study" tabindex="0">
                         <div class="pt-12">
                             <div class="row g-4 align-items-center justify-content-between">
                                 <div class="col-lg-6 col-xxl-5">
-                                    <h5 class="fw-extrabold clr-neutral-90"> Transform mundane text, PowerPoints & PDFs
-                                        into compelling videos that will captivate your team </h5>
-                                    <p class="mb-7 fw-medium clr-neutral-80"> Usually, our colleagues don't jump in the
-                                        air when they hear e-learning but the AI videos created with Naest In have
-                                        sparked motivation that we haven't seen before. </p>
+                                    <h5 class="fw-extrabold clr-neutral-90"> App Mastery Unleashed: Transforming Ideas
+                                        into Apps </h5>
+                                    <p class="mb-7 fw-medium clr-neutral-80"> Embark on a journey of app innovation as
+                                        Naestinn turns unique concepts into high-performing applications, enhancing user
+                                        engagement and satisfaction. </p>
                                     <div class="d-flex align-items-center gap-4 mb-12">
-                                        <div class="w-11 h-11 rounded-circle overflow-hidden flex-shrink-0">
-                                            <img src="assets/img/avatar-1.png" alt="image"
-                                                class="w-100 h-100 object-fit-cover">
-                                        </div>
-                                        <div class="flex-grow-1">
-                                            <h6 class="fs-16 clr-neutral-92 mb-1"> Peter Parker </h6>
-                                            <p class="mb-0 clr-neutral-80 fs-12"> Learning Specialist </p>
-                                        </div>
+
                                     </div>
                                     <a href="featured.php"
                                         class="link d-inline-block py-3 px-6 ff-1 bg-grad-4 clr-white fw-bold rounded">
-                                        Explore More </a>
+                                        Explore </a>
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="text-center">
@@ -785,29 +785,21 @@
                             </div>
                         </div>
                     </div>
-                    <div class="tab-pane fade" id="customerService" role="tabpanel" aria-labelledby="customerService"
-                        tabindex="0">
+                    <div class="tab-pane fade" id="software_development_case_study" role="tabpanel"
+                        aria-labelledby="software_development_case_study" tabindex="0">
                         <div class="pt-12">
                             <div class="row g-4 align-items-center justify-content-between">
                                 <div class="col-lg-6 col-xxl-5">
-                                    <h5 class="fw-extrabold clr-neutral-90"> Transform mundane text, PowerPoints & PDFs
-                                        into compelling videos that will captivate your team </h5>
-                                    <p class="mb-7 fw-medium clr-neutral-80"> Usually, our colleagues don't jump in the
-                                        air when they hear e-learning but the AI videos created with Naest In have
-                                        sparked motivation that we haven't seen before. </p>
+                                    <h5 class="fw-extrabold clr-neutral-90"> Revolutionizing Operations: A Software
+                                        Success Story </h5>
+                                    <p class="mb-7 fw-medium clr-neutral-80"> Explore how Naestinn's innovative software
+                                        solutions propelled a client's operations to new heights, achieving efficiency
+                                        and scalability. </p>
                                     <div class="d-flex align-items-center gap-4 mb-12">
-                                        <div class="w-11 h-11 rounded-circle overflow-hidden flex-shrink-0">
-                                            <img src="assets/img/avatar-1.png" alt="image"
-                                                class="w-100 h-100 object-fit-cover">
-                                        </div>
-                                        <div class="flex-grow-1">
-                                            <h6 class="fs-16 clr-neutral-92 mb-1"> Peter Parker </h6>
-                                            <p class="mb-0 clr-neutral-80 fs-12"> Learning Specialist </p>
-                                        </div>
                                     </div>
                                     <a href="featured.php"
                                         class="link d-inline-block py-3 px-6 ff-1 bg-grad-4 clr-white fw-bold rounded">
-                                        Explore More </a>
+                                        Explore </a>
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="text-center">
@@ -817,29 +809,22 @@
                             </div>
                         </div>
                     </div>
-                    <div class="tab-pane fade" id="informationSecurity" role="tabpanel"
-                        aria-labelledby="informationSecurity" tabindex="0">
+                    <div class="tab-pane fade" id="uiux_design_case_study" role="tabpanel"
+                        aria-labelledby="uiux_design_case_study" tabindex="0">
                         <div class="pt-12">
                             <div class="row g-4 align-items-center justify-content-between">
                                 <div class="col-lg-6 col-xxl-5">
-                                    <h5 class="fw-extrabold clr-neutral-90"> Transform mundane text, PowerPoints & PDFs
-                                        into compelling videos that will captivate your team </h5>
-                                    <p class="mb-7 fw-medium clr-neutral-80"> Usually, our colleagues don't jump in the
-                                        air when they hear e-learning but the AI videos created with Naest In have
-                                        sparked motivation that we haven't seen before. </p>
+                                    <h5 class="fw-extrabold clr-neutral-90"> Designing Experiences: Naestinn's UI/UX
+                                        Showcase </h5>
+                                    <p class="mb-7 fw-medium clr-neutral-80"> Delve into the art of user interaction
+                                        with Naestinn's design prowess, creating interfaces that captivate, engage, and
+                                        elevate the overall user experience. </p>
                                     <div class="d-flex align-items-center gap-4 mb-12">
-                                        <div class="w-11 h-11 rounded-circle overflow-hidden flex-shrink-0">
-                                            <img src="assets/img/avatar-1.png" alt="image"
-                                                class="w-100 h-100 object-fit-cover">
-                                        </div>
-                                        <div class="flex-grow-1">
-                                            <h6 class="fs-16 clr-neutral-92 mb-1"> Peter Parker </h6>
-                                            <p class="mb-0 clr-neutral-80 fs-12"> Learning Specialist </p>
-                                        </div>
+
                                     </div>
                                     <a href="featured.php"
                                         class="link d-inline-block py-3 px-6 ff-1 bg-grad-4 clr-white fw-bold rounded">
-                                        Explore More </a>
+                                        Explore </a>
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="text-center">
@@ -849,29 +834,47 @@
                             </div>
                         </div>
                     </div>
-                    <div class="tab-pane fade" id="merketingTeam" role="tabpanel" aria-labelledby="merketingTeam"
-                        tabindex="0">
+                    <div class="tab-pane fade" id="graphics_design_case_study" role="tabpanel"
+                        aria-labelledby="graphics_design_case_study" tabindex="0">
                         <div class="pt-12">
                             <div class="row g-4 align-items-center justify-content-between">
                                 <div class="col-lg-6 col-xxl-5">
-                                    <h5 class="fw-extrabold clr-neutral-90"> Transform mundane text, PowerPoints & PDFs
-                                        into compelling videos that will captivate your team </h5>
-                                    <p class="mb-7 fw-medium clr-neutral-80"> Usually, our colleagues don't jump in the
-                                        air when they hear e-learning but the AI videos created with Naest In have
-                                        sparked motivation that we haven't seen before. </p>
+                                    <h5 class="fw-extrabold clr-neutral-90"> Visual Brilliance: Naestinn's Graphic
+                                        Design Success</h5>
+                                    <p class="mb-7 fw-medium clr-neutral-80"> Explore how Naestinn's graphic mastery
+                                        transforms ideas into visual masterpieces, leaving a lasting impact and
+                                        reinforcing brand identity. </p>
                                     <div class="d-flex align-items-center gap-4 mb-12">
-                                        <div class="w-11 h-11 rounded-circle overflow-hidden flex-shrink-0">
-                                            <img src="assets/img/avatar-1.png" alt="image"
-                                                class="w-100 h-100 object-fit-cover">
-                                        </div>
-                                        <div class="flex-grow-1">
-                                            <h6 class="fs-16 clr-neutral-92 mb-1"> Peter Parker </h6>
-                                            <p class="mb-0 clr-neutral-80 fs-12"> Learning Specialist </p>
-                                        </div>
+
                                     </div>
                                     <a href="featured.php"
                                         class="link d-inline-block py-3 px-6 ff-1 bg-grad-4 clr-white fw-bold rounded">
-                                        Explore More </a>
+                                        Explore </a>
+                                </div>
+                                <div class="col-lg-6">
+                                    <div class="text-center">
+                                        <img src="assets/img/use-case-img-4.png" alt="image" class="img-fluid">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane fade" id="digital_marketing_case_study" role="tabpanel"
+                        aria-labelledby="digital_marketing_case_study" tabindex="0">
+                        <div class="pt-12">
+                            <div class="row g-4 align-items-center justify-content-between">
+                                <div class="col-lg-6 col-xxl-5">
+                                    <h5 class="fw-extrabold clr-neutral-90"> Navigating Success: A Digital Marketing
+                                        Triumph </h5>
+                                    <p class="mb-7 fw-medium clr-neutral-80"> Uncover the strategic brilliance behind
+                                        Naestinn's digital marketing success stories, where innovation meets measurable
+                                        results, amplifying online presence. </p>
+                                    <div class="d-flex align-items-center gap-4 mb-12">
+
+                                    </div>
+                                    <a href="featured.php"
+                                        class="link d-inline-block py-3 px-6 ff-1 bg-grad-4 clr-white fw-bold rounded">
+                                        Explore </a>
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="text-center">
@@ -899,18 +902,18 @@
                         </span>
                         <span class="d-inline-block clr-primary-2 ff-1 fw-bold fs-18"> Latest Tech We Work</span>
                     </div>
-                    <h3 class="mb-0 clr-neutral-90 fw-extrabold animate-line-3d"> Embed your <span
-                            class="d-inline-block ff-4 clr-grad-6 fw-normal">Videos into</span> your favourites tools
-                    </h3>
+                    <h4 class="mb-0 clr-neutral-70 fw-bold animate-line-3d"> Leading with Innovation:<span
+                            class="d-inline-block ff-4 clr-grad-6 fw-normal">Our Latest Tech </span> Endeavors
+                    </h4>
                 </div>
                 <div class="col-md-6 col-xxl-5">
-                    <p class="mb-5 clr-neutral-80 animate-text-from-right"> Easily integrate your videos with your
-                        preferred tools and platforms. Whether you rely on project management software, email marketing
-                        embedding feature allows you to effortlessly incorporate your videos into these applications.
+                    <p class="mb-5 clr-neutral-80 animate-text-from-right"> Naestinn embraces the forefront of
+                        technology, ensuring your projects benefit from the latest advancements. From AI to cloud
+                        solutions, our commitment to innovation drives success in every endeavor.
                     </p>
-                    <a href="about.php"
+                    <a href="our-portfolio.php"
                         class="link d-inline-flex align-items-center gap-1 ff-1 clr-secondary-key fadeIn_bottom">
-                        <span class="d-inline-block fw-semibold"> Explore all integrations </span>
+                        <span class="d-inline-block fw-semibold"> Explore our project </span>
                         <span class="d-inline-block">
                             <i class="bi bi-arrow-right"></i>
                         </span>
@@ -931,16 +934,17 @@
 </div>
 <!-- /Latest Tech We Work  -->
 
-<!-- AI Application Section -->
+<!-- Integration software Section -->
 <section class="ai-application-section section-space-sm-top section-space-bottom">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-7 col-xxl-5">
                 <div class="text-center">
                     <span
-                        class="rounded-1 bg-primary-key bg-opacity-2 clr-white fs-12 fw-bold px-4 py-2 d-inline-block mb-4 fadeIn_bottom">WriteBot
-                        AI</span>
-                    <h3 class="clr-neutral-90 fw-bold animate-line-3d">One Platform Multiple AI Applications</h3>
+                        class="rounded-1 bg-primary-key bg-opacity-2 clr-white fs-12 fw-bold px-4 py-2 d-inline-block mb-4 fadeIn_bottom">Custom
+                        Software</span>
+                    <h4 class="clr-neutral-90 fs-2 fw-normal animate-line-3d">Unleashing the Power of Custom Software
+                    </h4>
                 </div>
             </div>
         </div>
@@ -949,13 +953,15 @@
                 <div class="col-sm-6 col-lg-4 col-xxl-3">
                     <div class="ai-app-item text-center fadeIn_bottom">
                         <img src="assets/img/ai-application-icon-1.png" alt="image" class="img-fluid">
-                        <h4 class="fs-18 fw-bold clr-neutral-90 mt-4 mb-3">Twilio Credentials</h4>
-                        <p class="mb-0 clr-neutral-80">onnect with Reflect with dozens of applications without code</p>
+                        <h4 class="fs-18 fw-bold clr-neutral-90 mt-4 mb-3">AI Integration: Transforming Insights</h4>
+                        <p class="mb-0 clr-neutral-80">"Elevate insights with AI, turning data into decisive actions."
+                        </p>
                     </div>
                     <div class="ai-app-item text-center fadeIn_bottom">
                         <img src="assets/img/ai-application-icon-3.png" alt="image" class="img-fluid">
-                        <h4 class="fs-18 fw-bold clr-neutral-90 mt-4 mb-3">Voice Settings</h4>
-                        <p class="mb-0 clr-neutral-80">onnect with Reflect with dozens of applications without code</p>
+                        <h4 class="fs-18 fw-bold clr-neutral-90 mt-4 mb-3">Effortless Software-Cloud Integration</h4>
+                        <p class="mb-0 clr-neutral-80">"Ensure smooth cloud connectivity for secure, real-time updates."
+                        </p>
                     </div>
                 </div>
                 <div class="d-none d-lg-block col-lg-4 col-xxl-3 fadeIn_bottom">
@@ -964,9 +970,7 @@
                             <div class="animated-text-wrapper">
                                 <p class="cd-headline slide mb-0">
                                     <span class="cd-words-wrapper">
-                                        <b class="is-visible">WriteBot AI</b>
-                                        <b>WriteBot AI</b>
-                                        <b>WriteBot AI</b>
+                                        <b class="is-visible"> Software <br> Integration</b>
                                     </span>
                                 </p>
                             </div>
@@ -979,13 +983,14 @@
                 <div class="col-sm-6 col-lg-4 col-xxl-3">
                     <div class="ai-app-item text-center fadeIn_bottom">
                         <img src="assets/img/ai-application-icon-2.png" alt="image" class="img-fluid">
-                        <h4 class="fs-18 fw-bold clr-neutral-90 mt-4 mb-3">Social Login Configurations</h4>
-                        <p class="mb-0 clr-neutral-80">onnect with Reflect with dozens of applications without code</p>
+                        <h4 class="fs-18 fw-bold clr-neutral-90 mt-4 mb-3">Social App Fusion: Unified Engagement</h4>
+                        <p class="mb-0 clr-neutral-80">"Merge social apps seamlessly, enhancing digital collaboration."
+                        </p>
                     </div>
                     <div class="ai-app-item text-center fadeIn_bottom">
                         <img src="assets/img/ai-application-icon-4.png" alt="image" class="img-fluid">
-                        <h4 class="fs-18 fw-bold clr-neutral-90 mt-4 mb-3">Storage Management</h4>
-                        <p class="mb-0 clr-neutral-80">onnect with Reflect with dozens of applications without code</p>
+                        <h4 class="fs-18 fw-bold clr-neutral-90 mt-4 mb-3">Cross-Platform Harmony: Efficiency Boost</h4>
+                        <p class="mb-0 clr-neutral-80">"Foster collaboration with seamless software integration."</p>
                     </div>
                 </div>
             </div>
@@ -998,7 +1003,7 @@
     <img src="assets/img/ai-application-shape-line-right.png" alt="image"
         class="img-fluid ai-application-shape ai-application-shape-right">
 </section>
-<!-- /AI Application Section -->
+<!-- /Integration software Section -->
 <!-- Testimonial Section -->
 <section class="testimonial-section-4 section-space-top section-space-sm-bottom">
     <div class="container">
@@ -1021,12 +1026,13 @@
                             <img src="assets/img/testimonial-4-avatar-1.png" alt="image"
                                 class="img-fluid w-11 h-11 object-fit-cover rounded-circle">
                             <div>
-                                <h5 class="clr-neutral-90 fs-18 mb-0">Mark Villomas</h5>
-                                <span class="fs-14 clr-neutral-80 d-inline-block">Designer</span>
+                                <h5 class="clr-neutral-90 fs-18 mb-0">Emily Rodriguez</h5>
+                                <span class="fs-14 clr-neutral-80 d-inline-block">Chief Technology Officer</span>
                             </div>
                         </div>
-                        <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Customers are thrilled with our AI image solutions.
-                            They appreciate the impressive results, time saved, and newfound creative."</p>
+                        <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Naestinn's software solutions exceeded our
+                            expectations, transforming our operations and enhancing efficiency. Truly a game-changer for
+                            our business."</p>
                     </div>
                 </li>
                 <li>
@@ -1035,12 +1041,13 @@
                             <img src="assets/img/testimonial-4-avatar-2.png" alt="image"
                                 class="img-fluid w-11 h-11 object-fit-cover rounded-circle">
                             <div>
-                                <h5 class="clr-neutral-90 fs-18 mb-0">Mark Villomas</h5>
-                                <span class="fs-14 clr-neutral-80 d-inline-block">Designer</span>
+                                <h5 class="clr-neutral-90 fs-18 mb-0">Alex Thompson</h5>
+                                <span class="fs-14 clr-neutral-80 d-inline-block">Marketing Director</span>
                             </div>
                         </div>
-                        <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Customers are thrilled with our AI image solutions.
-                            They appreciate the impressive results, time saved, and newfound creative."</p>
+                        <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Working with Naestinn has been a pleasure. Their
+                            digital marketing expertise brought exceptional results, boosting our online presence and
+                            brand visibility."</p>
                     </div>
                 </li>
                 <li>
@@ -1049,12 +1056,13 @@
                             <img src="assets/img/testimonial-4-avatar-3.png" alt="image"
                                 class="img-fluid w-11 h-11 object-fit-cover rounded-circle">
                             <div>
-                                <h5 class="clr-neutral-90 fs-18 mb-0">Mark Villomas</h5>
-                                <span class="fs-14 clr-neutral-80 d-inline-block">Designer</span>
+                                <h5 class="clr-neutral-90 fs-18 mb-0">Michael O'Connor</h5>
+                                <span class="fs-14 clr-neutral-80 d-inline-block">Chief Executive Officer</span>
                             </div>
                         </div>
-                        <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Customers are thrilled with our AI image solutions.
-                            They appreciate the impressive results, time saved, and newfound creative."</p>
+                        <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Naestinn's web development team delivered a website
+                            that not only looks stunning but also functions seamlessly. A reliable partner in our
+                            digital journey."</p>
                     </div>
                 </li>
                 <li>
@@ -1063,12 +1071,13 @@
                             <img src="assets/img/testimonial-4-avatar-4.png" alt="image"
                                 class="img-fluid w-11 h-11 object-fit-cover rounded-circle">
                             <div>
-                                <h5 class="clr-neutral-90 fs-18 mb-0">Mark Villomas</h5>
-                                <span class="fs-14 clr-neutral-80 d-inline-block">Designer</span>
+                                <h5 class="clr-neutral-90 fs-18 mb-0">Sophia Nguyen</h5>
+                                <span class="fs-14 clr-neutral-80 d-inline-block">UX/UI Designer</span>
                             </div>
                         </div>
-                        <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Customers are thrilled with our AI image solutions.
-                            They appreciate the impressive results, time saved, and newfound creative."</p>
+                        <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Crafting user experiences with Naestinn is a joy.
+                            Their design team's creativity and attention to detail make our applications stand out in
+                            the competitive market."</p>
                     </div>
                 </li>
                 <li>
@@ -1077,12 +1086,13 @@
                             <img src="assets/img/testimonial-4-avatar-1.png" alt="image"
                                 class="img-fluid w-11 h-11 object-fit-cover rounded-circle">
                             <div>
-                                <h5 class="clr-neutral-90 fs-18 mb-0">Mark Villomas</h5>
-                                <span class="fs-14 clr-neutral-80 d-inline-block">Designer</span>
+                                <h5 class="clr-neutral-90 fs-18 mb-0">Jonathan Parker</h5>
+                                <span class="fs-14 clr-neutral-80 d-inline-block">Operations Manager</span>
                             </div>
                         </div>
-                        <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Customers are thrilled with our AI image solutions.
-                            They appreciate the impressive results, time saved, and newfound creative."</p>
+                        <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Naestinn's tailored solutions have significantly
+                            improved our operational efficiency. Their customer-centric approach ensures our needs are
+                            always met."</p>
                     </div>
                 </li>
                 <li>
@@ -1091,12 +1101,13 @@
                             <img src="assets/img/testimonial-4-avatar-2.png" alt="image"
                                 class="img-fluid w-11 h-11 object-fit-cover rounded-circle">
                             <div>
-                                <h5 class="clr-neutral-90 fs-18 mb-0">Mark Villomas</h5>
-                                <span class="fs-14 clr-neutral-80 d-inline-block">Designer</span>
+                                <h5 class="clr-neutral-90 fs-18 mb-0">Benjamin Mitchell</h5>
+                                <span class="fs-14 clr-neutral-80 d-inline-block">IT Administrator</span>
                             </div>
                         </div>
-                        <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Customers are thrilled with our AI image solutions.
-                            They appreciate the impressive results, time saved, and newfound creative."</p>
+                        <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Naestinn's software solutions have streamlined our IT
+                            infrastructure. Their commitment to innovation has significantly improved our day-to-day
+                            operations."</p>
                     </div>
                 </li>
             </ul>
@@ -1109,12 +1120,13 @@
                             <img src="assets/img/testimonial-4-avatar-1.png" alt="image"
                                 class="img-fluid w-11 h-11 object-fit-cover rounded-circle">
                             <div>
-                                <h5 class="clr-neutral-90 fs-18 mb-0">Mark Villomas</h5>
-                                <span class="fs-14 clr-neutral-80 d-inline-block">Designer</span>
+                                <h5 class="clr-neutral-90 fs-18 mb-0">Xavier Morales</h5>
+                                <span class="fs-14 clr-neutral-80 d-inline-block">Product Manager</span>
                             </div>
                         </div>
-                        <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Customers are thrilled with our AI image solutions.
-                            They appreciate the impressive results, time saved, and newfound creative."</p>
+                        <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Naestinn's expertise in app development has brought
+                            our vision to life. Their team's dedication to quality and functionality sets them apart in
+                            the industry."</p>
                     </div>
                 </li>
                 <li>
@@ -1123,12 +1135,13 @@
                             <img src="assets/img/testimonial-4-avatar-2.png" alt="image"
                                 class="img-fluid w-11 h-11 object-fit-cover rounded-circle">
                             <div>
-                                <h5 class="clr-neutral-90 fs-18 mb-0">Mark Villomas</h5>
-                                <span class="fs-14 clr-neutral-80 d-inline-block">Designer</span>
+                                <h5 class="clr-neutral-90 fs-18 mb-0">Ethan Mitchell</h5>
+                                <span class="fs-14 clr-neutral-80 d-inline-block">Supply Chain Manager</span>
                             </div>
                         </div>
-                        <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Customers are thrilled with our AI image solutions.
-                            They appreciate the impressive results, time saved, and newfound creative."</p>
+                        <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Naestinn's software solutions have optimized our
+                            supply chain processes, resulting in increased efficiency and cost savings. A strategic
+                            partner for business growth."</p>
                     </div>
                 </li>
                 <li>
@@ -1137,12 +1150,13 @@
                             <img src="assets/img/testimonial-4-avatar-3.png" alt="image"
                                 class="img-fluid w-11 h-11 object-fit-cover rounded-circle">
                             <div>
-                                <h5 class="clr-neutral-90 fs-18 mb-0">Mark Villomas</h5>
-                                <span class="fs-14 clr-neutral-80 d-inline-block">Designer</span>
+                                <h5 class="clr-neutral-90 fs-18 mb-0">Lily Crawford </h5>
+                                <span class="fs-14 clr-neutral-80 d-inline-block">Content Strategist</span>
                             </div>
                         </div>
-                        <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Customers are thrilled with our AI image solutions.
-                            They appreciate the impressive results, time saved, and newfound creative."</p>
+                        <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Naestinn's digital marketing strategies have elevated
+                            our content visibility. Their analytical approach and constant optimization drive
+                            consistent, positive results."</p>
                     </div>
                 </li>
                 <li>
@@ -1151,12 +1165,13 @@
                             <img src="assets/img/testimonial-4-avatar-4.png" alt="image"
                                 class="img-fluid w-11 h-11 object-fit-cover rounded-circle">
                             <div>
-                                <h5 class="clr-neutral-90 fs-18 mb-0">Mark Villomas</h5>
-                                <span class="fs-14 clr-neutral-80 d-inline-block">Designer</span>
+                                <h5 class="clr-neutral-90 fs-18 mb-0">Samuel Bennett</h5>
+                                <span class="fs-14 clr-neutral-80 d-inline-block">Chief Operating Officer</span>
                             </div>
                         </div>
-                        <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Customers are thrilled with our AI image solutions.
-                            They appreciate the impressive results, time saved, and newfound creative."</p>
+                        <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Naestinn's holistic approach to digital solutions has
+                            transformed our operations. Their comprehensive services make them an invaluable partner for
+                            organizational success."</p>
                     </div>
                 </li>
                 <li>
@@ -1165,12 +1180,13 @@
                             <img src="assets/img/testimonial-4-avatar-1.png" alt="image"
                                 class="img-fluid w-11 h-11 object-fit-cover rounded-circle">
                             <div>
-                                <h5 class="clr-neutral-90 fs-18 mb-0">Mark Villomas</h5>
-                                <span class="fs-14 clr-neutral-80 d-inline-block">Designer</span>
+                                <h5 class="clr-neutral-90 fs-18 mb-0">Victoria Rodriguez</h5>
+                                <span class="fs-14 clr-neutral-80 d-inline-block">Event Coordinator</span>
                             </div>
                         </div>
-                        <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Customers are thrilled with our AI image solutions.
-                            They appreciate the impressive results, time saved, and newfound creative."</p>
+                        <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Naestinn's user-friendly apps have enhanced our event
+                            management capabilities. Their intuitive designs and functionalities have been a
+                            game-changer for our team."</p>
                     </div>
                 </li>
                 <li>
@@ -1179,12 +1195,13 @@
                             <img src="assets/img/testimonial-4-avatar-2.png" alt="image"
                                 class="img-fluid w-11 h-11 object-fit-cover rounded-circle">
                             <div>
-                                <h5 class="clr-neutral-90 fs-18 mb-0">Mark Villomas</h5>
-                                <span class="fs-14 clr-neutral-80 d-inline-block">Designer</span>
+                                <h5 class="clr-neutral-90 fs-18 mb-0">Dylan Harrison</h5>
+                                <span class="fs-14 clr-neutral-80 d-inline-block">Quality Assurance Analyst</span>
                             </div>
                         </div>
-                        <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Customers are thrilled with our AI image solutions.
-                            They appreciate the impressive results, time saved, and newfound creative."</p>
+                        <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Naestinn's commitment to delivering bug-free software
+                            is commendable. Their attention to detail and rigorous testing processes ensure a
+                            high-quality end product."</p>
                     </div>
                 </li>
             </ul>
@@ -1205,8 +1222,8 @@
                 <div class="col-md-5">
                     <div class="d-flex align-items-center gap-4 flex-wrap">
                         <div class="w-30 subtitle-flush-x subtitle-flush-x--secondary subtitle_line_7"></div>
-                        <h6 class="mb-0 fs-18 clr-secondary-key fw-extrabold animate-text-from-right"> Discover
-                            AI-Enhanced Visual Stories </h6>
+                        <h6 class="mb-0 fs-18 clr-secondary-key fw-extrabold animate-text-from-right"> Bytes & Beyond:
+                            The Naestinn Blog Zone </h6>
                     </div>
                 </div>
                 <div class="col-md-6 col-xxl-5">
@@ -1222,18 +1239,18 @@
                     class="blog-card-1 top-shadow px-6 py-10 position-relative z-1 overflow-hidden rounded-3 bg_back_dark_3 bg-opacity-6 fadein_bottom_13">
                     <div class="d-flex align-items-center gap-2">
                         <div class="w-12 h-2px bg-primary-key"></div>
-                        <span class="d-block fw-bold clr-primary-key"> AI News </span>
+                        <span class="d-block fw-bold clr-primary-key"> Software Development </span>
                     </div>
                     <div class="blog-card-1__img">
                         <img src="assets/img/blog-img-1.jpg" alt="image" class="img-fluid h-100 object-fit-cover">
                     </div>
                     <div class="blog-card-1__body">
                         <h6 class="mb-6 fs-24">
-                            <a href="blog-details.html" class="link d-block clr-neutral-90"> Antenna Promises New era
-                                For Satellite Communication </a>
+                            <a href="blog-details.html" class="link d-block clr-neutral-90"> Harmonizing Success:
+                                Naestinn's Journey in Crafting Seamless Software Solutions </a>
                         </h6>
                         <div class="d-flex align-items-center gap-2">
-                            <span class="d-inline-block clr-neutral-90 fs-14 fw-semibold"> March 18, 2022 </span>
+                            <span class="d-inline-block clr-neutral-90 fs-14 fw-semibold"> March 18, 2024 </span>
                             <span class="d-inline-block w-1 h-1 rounded-circle bg-neutral-90"></span>
                             <a href="#" class="link d-inline-block clr-neutral-90 fs-14 fw-semibold"> Comments </a>
                         </div>
@@ -1245,18 +1262,18 @@
                     class="blog-card-1 top-shadow px-6 py-10 position-relative z-1 overflow-hidden rounded-3 bg_back_dark_3 bg-opacity-6 fadein_bottom_13">
                     <div class="d-flex align-items-center gap-2">
                         <div class="w-12 h-2px bg-primary-key"></div>
-                        <span class="d-block fw-bold clr-primary-key"> AI News </span>
+                        <span class="d-block fw-bold clr-primary-key"> Web Development </span>
                     </div>
                     <div class="blog-card-1__img">
                         <img src="assets/img/blog-img-2.jpg" alt="image" class="img-fluid h-100 object-fit-cover">
                     </div>
                     <div class="blog-card-1__body">
                         <h6 class="mb-6 fs-24">
-                            <a href="blog-details.html" class="link d-block clr-neutral-90"> AI software offers
-                                repetitive & mundane patterns </a>
+                            <a href="blog-details.html" class="link d-block clr-neutral-90"> Weaving Web Excellence: A
+                                Dive into Naestinn's Innovative Web Development </a>
                         </h6>
                         <div class="d-flex align-items-center gap-2">
-                            <span class="d-inline-block clr-neutral-90 fs-14 fw-semibold"> March 18, 2022 </span>
+                            <span class="d-inline-block clr-neutral-90 fs-14 fw-semibold"> March 16, 2024 </span>
                             <span class="d-inline-block w-1 h-1 rounded-circle bg-neutral-90"></span>
                             <a href="#" class="link d-inline-block clr-neutral-90 fs-14 fw-semibold"> Comments </a>
                         </div>
@@ -1268,18 +1285,18 @@
                     class="blog-card-1 top-shadow px-6 py-10 position-relative z-1 overflow-hidden rounded-3 bg_back_dark_3 bg-opacity-6 fadein_bottom_13">
                     <div class="d-flex align-items-center gap-2">
                         <div class="w-12 h-2px bg-primary-key"></div>
-                        <span class="d-block fw-bold clr-primary-key"> AI News </span>
+                        <span class="d-block fw-bold clr-primary-key"> App Development </span>
                     </div>
                     <div class="blog-card-1__img">
                         <img src="assets/img/blog-img-3.jpg" alt="image" class="img-fluid h-100 object-fit-cover">
                     </div>
                     <div class="blog-card-1__body">
                         <h6 class="mb-6 fs-24">
-                            <a href="blog-details.html" class="link d-block clr-neutral-90"> Antenna Promises New era
-                                For Satellite Communication </a>
+                            <a href="blog-details.html" class="link d-block clr-neutral-90"> Unlocking App Magic:
+                                Naestinn's Transformative Approach to Mobile Development </a>
                         </h6>
                         <div class="d-flex align-items-center gap-2">
-                            <span class="d-inline-block clr-neutral-90 fs-14 fw-semibold"> March 18, 2022 </span>
+                            <span class="d-inline-block clr-neutral-90 fs-14 fw-semibold"> March 14, 2024 </span>
                             <span class="d-inline-block w-1 h-1 rounded-circle bg-neutral-90"></span>
                             <a href="#" class="link d-inline-block clr-neutral-90 fs-14 fw-semibold"> Comments </a>
                         </div>

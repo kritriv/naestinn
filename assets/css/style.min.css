@@ -32933,7 +32933,7 @@ html.lenis {
   .footer-1__top::before {
     content: "";
     position: absolute;
-    inset-inline-start: 50%;
+    inset-inline-start: 42%;
     inset-block-start: 0;
     width: 1px;
     height: 100px;
@@ -32946,7 +32946,7 @@ html.lenis {
     content: "";
     position: absolute;
     inset-block: 0;
-    inset-inline-start: 50%;
+    inset-inline-start: 42%;
     width: 1px;
     background-color: hsl(var(--neutral-10));
   }

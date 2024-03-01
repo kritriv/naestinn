@@ -4,11 +4,12 @@
         class="footer-1__top section-space-y border border-start-0 border-end-0 border-neutral-10 position-relative z-1 overflow-hidden">
         <div class="container">
             <div class="row g-4 gy-5">
-                <div class="col-md-9 col-lg-8 col-xl-6">
+                <div class="col-md-9 col-lg-8 col-xl-5">
                     <div class="pe-xl-15">
-                        <h3 class="mb-10 clr-neutral-90 fw-extrabold animate-line-3d">Insider AI art Advice from top -
-                            <span class="clr-grad-6">Naestinn</span> Network Artists.✍
-                        </h3>
+                        <h4 class="mb-10 clr-neutral-90 fw-bold animate-line-3d">Innovate with
+                            <span class="clr-grad-6">Naestinn:</span> Crafting Digital Success Stories.✍
+                        </h4>
+                        <p class="clr-neutral-70">At Naestinn, we blend innovation and excellence, crafting success stories through cutting-edge solutions. Join us in a transformative journey where success is a continuous experience, not just a destination.</p>
                         <div class="fadein_bottom_15" data-cursor="We are waiting">
                             <a href="contact.php"
                                 class="bg-grad-6 clr-white position-relative link d-inline-flex justify-content-center align-items-center gap-2 px-6 py-3 rounded fw-bold text-center">
@@ -20,10 +21,10 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-6">
+                <div class="col-xl-7">
                     <div class="ps-xl-10">
                         <div class="row g-4 gy-5">
-                            <div class="col-md-3 col-xl-6">
+                            <div class="col-md-3 col-sm-6 col-xl-4">
                                 <h6 class="mb-6 fs-18 clr-neutral-90 animate-text-from-bottom"> Resources </h6>
                                 <ul class="list gap-1">
                                     <li>
@@ -47,7 +48,7 @@
                                     </li>
                                 </ul>
                             </div>
-                            <div class="col-md-3 col-xl-6">
+                            <div class="col-md-3 col-sm-6 col-xl-4">
                                 <h6 class="mb-6 fs-18 clr-neutral-90 animate-text-from-bottom"> Quick Menu </h6>
                                 <ul class="list gap-1">
                                     <li>
@@ -72,7 +73,7 @@
                                     </li>
                                 </ul>
                             </div>
-                            <div class="col-md-3 col-xl-6">
+                            <div class="col-md-3 col-sm-6 col-xl-4">
                                 <h6 class="mb-6 fs-18 clr-neutral-90 animate-text-from-bottom"> Socials links </h6>
                                 <ul class="list gap-1">
                                     <li>
@@ -102,7 +103,62 @@
                                     </li>
                                 </ul>
                             </div>
-                            <div class="col-md-3 col-xl-6">
+                            <div class="col-md-3 col-sm-6 col-xl-4">
+                                <h6 class="mb-6 fs-18 clr-neutral-90 animate-text-from-bottom"> Tools </h6>
+                                <ul class="list gap-1">
+                                    <li>
+                                        <a href="privacy-policy.php"
+                                            class="link d-inline-block clr-neutral-80 :clr-secondary-key animate-text-from-bottom">
+                                            Privacy & Policy </a>
+                                    </li>
+                                    <li>
+                                        <a href="terms-service.php"
+                                            class="link d-inline-block clr-neutral-80 :clr-secondary-key animate-text-from-bottom">
+                                            Terms & Condition </a>
+                                    </li>
+                                    <li>
+                                        <a href="featured.php"
+                                            class="link d-inline-block clr-neutral-80 :clr-secondary-key animate-text-from-bottom">
+                                            Features </a>
+                                    </li>
+                                    <li>
+                                        <a href="use-cases.php"
+                                            class="link d-inline-block clr-neutral-80 :clr-secondary-key animate-text-from-bottom">
+                                            Use Cases </a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="col-md-3 col-sm-6 col-xl-4">
+                                <h6 class="mb-6 fs-18 clr-neutral-90 animate-text-from-bottom"> Socials links </h6>
+                                <ul class="list gap-1">
+                                    <li>
+                                        <a href="https://www.facebook.com/"
+                                            class="link d-inline-block clr-neutral-80 :clr-secondary-key animate-text-from-bottom">
+                                            Facebook </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://twitter.com/"
+                                            class="link d-inline-block clr-neutral-80 :clr-secondary-key animate-text-from-bottom">
+                                            Twitter </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.instagram.com/"
+                                            class="link d-inline-block clr-neutral-80 :clr-secondary-key animate-text-from-bottom">
+                                            Instagram </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.tiktok.com/"
+                                            class="link d-inline-block clr-neutral-80 :clr-secondary-key animate-text-from-bottom">
+                                            TikTok </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://discord.com/"
+                                            class="link d-inline-block clr-neutral-80 :clr-secondary-key animate-text-from-bottom">
+                                            Discord </a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="col-md-3 col-sm-6 col-xl-4">
                                 <h6 class="mb-6 fs-18 clr-neutral-90 animate-text-from-bottom"> Tools </h6>
                                 <ul class="list gap-1">
                                     <li>
@@ -136,12 +192,12 @@
     <div class="footer-1__bottom section-space-xsm-y">
         <div class="container">
             <div class="row g-4">
-                <div class="col-md-5 col-lg-6">
+                <div class="col-md-5 col-lg-6 col-sm-12">
                     <p class="mb-0 clr-neutral-80 fs-14 fw-semibold"> Copyright &copy;2024 All Rights Reserved by <a
                             href="" class="link d-inline-block clr-grad-6 clr-info-key">Naest Innovation Pvt. Ltd.</a>
                     </p>
                 </div>
-                <div class="col-md-7 col-lg-6">
+                <div class="col-md-7 col-lg-6 col-sm-12">
                     <ul class="list list-row flex-wrap gap-3 justify-content-md-end">
                         <li>
                             <a href="https://www.linkedin.com/company/naestinn"
