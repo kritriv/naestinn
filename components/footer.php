@@ -260,8 +260,8 @@
 </footer>
 <!-- /Footer 6 -->
 <!-- scrpts -->
-<script src="assets/js/plugins.js"></script>
 <script src="assets/js/app.js"></script>
+<script src="assets/js/plugins.js"></script>
 </body>
 
 </php>

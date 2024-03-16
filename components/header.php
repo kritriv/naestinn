@@ -1,6 +1,7 @@
 <?php include_once 'components/head.php'; ?>
 
 <body class="bg_back_dark_2">
+    
     <!-- Custom Cursor  -->
     <div class="custom-cursor">
         <div>
@@ -32,7 +33,7 @@
     </div>
     <!-- /Custom Cursor  -->
     <!-- Header -->
-    <header class="header header--1 header--fixed">
+    <header class="header header--1 header--fixed" >
         <div class="container">
             <div class="row">
                 <div class="col-12">
