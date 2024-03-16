@@ -2,10 +2,10 @@
 
 <div class="hero-6 overflow-hidden">
     <div class="hero-6__inner section-space-sm-y">
+        <div id="particles-js"></div>
         <div class="section-space-top section-space-sm-bottom">
             <div class="container">
                 <div class="row justify-content-center">
-                    <div id="particles-js"></div>
                     <div class="col-xl-8">
                         <h1 class="mb-6 clr-white text-center fw-extrabold animate-line-3d fs-1">
                             <span class="d-inline-block ff-3 fw-normal">We <span class="d-inline-block clr-grad-6">Næstinn, </span></span>
