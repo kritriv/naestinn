@@ -7,21 +7,16 @@
                 <div class="row justify-content-center">
                     <div class="col-xl-8">
                         <h1 class="mb-6 clr-white text-center fw-extrabold animate-line-3d fs-1">
-                            <span class="d-inline-block ff-3 fw-normal">We <span
-                                    class="d-inline-block clr-grad-6">Næstinn, </span></span>
+                            <span class="d-inline-block ff-3 fw-normal">We <span class="d-inline-block clr-grad-6">Næstinn, </span></span>
                             are where innovative solutions <p class="text-underline">ignite endless possibilities</p>
                         </h1>
-                        <p
-                            class="mb-12 text-center ff-1 fs-18 fw-normal clr-neutral-90 max-text-50 mx-auto animate-text-from-right">
+                        <p class="mb-12 text-center ff-1 fs-18 fw-normal clr-neutral-90 max-text-50 mx-auto animate-text-from-right">
                             At Næstinn, we pioneer cutting-edge solutions, transforming ideas into limitless digital
                             possibilities for your success. </p>
                         <div class="d-flex justify-content-center align-items-center flex-wrap gap-8 fadeIn_bottom">
-                            <a href="#ourservices"
-                                class="link d-inline-block py-4 px-6 ff-1 bg-grad-6 clr-white fw-bold rounded"> Explore
+                            <a href="#ourservices" class="link d-inline-block py-4 px-6 ff-1 bg-grad-6 clr-white fw-bold rounded"> Explore
                                 Services </a>
-                            <a href="contact-us.php"
-                                class="link d-inline-block py-4 px-6 ff-1 gradient-btn-4 clr-white fw-bold rounded"
-                                data-cursor="We are waiting"> Get
+                            <a href="contact-us.php" class="link d-inline-block py-4 px-6 ff-1 gradient-btn-4 clr-white fw-bold rounded" data-cursor="We are waiting"> Get
                                 Quote </a>
                         </div>
                     </div>
@@ -32,12 +27,9 @@
             <div class="row justify-content-center">
                 <div class="col-xl-10">
                     <div class="position-relative z-1 fadeIn_bottom">
-                        <img src="assets/images/Home/hero_banner_img3.png" alt="Trulli"
-                            class="img-fluid rounded-4 border border-8x border-outline border-opacity-2">
-                        <img src="assets/images/Home/hero-cartoon2.png" alt="image"
-                            class="img-fluid d-none d-lg-block hero-6__el hero-6__el-1" width="35%">
-                        <img src="assets/images/Home/hero-el-1.png" alt="image"
-                            class="img-fluid d-none d-lg-block hero-6__el hero-6__el-2">
+                        <img src="assets/images/Home/hero_banner_img3.png" alt="Trulli" class="img-fluid rounded-4 border border-8x border-outline border-opacity-2">
+                        <img src="assets/images/Home/hero-cartoon2.png" alt="image" class="img-fluid d-none d-lg-block hero-6__el hero-6__el-1" width="35%">
+                        <img src="assets/images/Home/hero-el-1.png" alt="image" class="img-fluid d-none d-lg-block hero-6__el hero-6__el-2">
                     </div>
                 </div>
             </div>
@@ -192,14 +184,12 @@
                         </div>
                     </div>
                     <div class="col-lg-8 col-xl-7">
-                        <h6 class="mb-12 fw-normal clr-neutral-90 animate-line-3d"> Discover the <span
-                                class="clr-grad-6">Næstinn</span> difference, partnering with global leaders for
+                        <h6 class="mb-12 fw-normal clr-neutral-90 animate-line-3d"> Discover the <span class="clr-grad-6">Næstinn</span> difference, partnering with global leaders for
                             avant-garde software solutions that propel businesses into unprecedented realms of success.
                         </h6>
                         <div class="row g-4">
                             <div class="col-sm-6 col-md-4 fadein_bottom_32">
-                                <div
-                                    class="d-flex flex-column align-items-start justify-content-between rounded-1 bg_back_dark_3 border border-neutral-17 p-4 px-md-6 h-100">
+                                <div class="d-flex flex-column align-items-start justify-content-between rounded-1 bg_back_dark_3 border border-neutral-17 p-4 px-md-6 h-100">
                                     <h3 class="mb-10 clr-neutral-92 fw-extrabold"> 4.2 </h3>
                                     <div class="mt-auto">
                                         <ul class="list list-row gap-1 mb-4">
@@ -234,8 +224,7 @@
                                 </div>
                             </div>
                             <div class="col-sm-6 col-md-4 fadein_bottom_32">
-                                <div
-                                    class="d-flex flex-column align-items-start justify-content-between rounded-1 bg_back_dark_3 border border-neutral-17 p-4 px-md-6 h-100">
+                                <div class="d-flex flex-column align-items-start justify-content-between rounded-1 bg_back_dark_3 border border-neutral-17 p-4 px-md-6 h-100">
                                     <h3 class="mb-10 clr-neutral-92 fw-extrabold"> 4.5 </h3>
                                     <div class="mt-auto">
                                         <ul class="list list-row gap-1 mb-4">
@@ -270,8 +259,7 @@
                                 </div>
                             </div>
                             <div class="col-sm-6 col-md-4 fadein_bottom_32">
-                                <div
-                                    class="d-flex flex-column align-items-start justify-content-between rounded-1 bg_back_dark_3 border border-neutral-17 p-4 px-md-6 h-100">
+                                <div class="d-flex flex-column align-items-start justify-content-between rounded-1 bg_back_dark_3 border border-neutral-17 p-4 px-md-6 h-100">
                                     <h3 class="mb-10 clr-neutral-92 fw-extrabold"> 4.8 </h3>
                                     <div class="mt-auto">
                                         <ul class="list list-row gap-1 mb-4">
@@ -308,10 +296,8 @@
                         </div>
                     </div>
                 </div>
-                <img src="assets/img/customer-rating-el-1.png" alt="image"
-                    class="img-fluid d-none d-xl-block z-n1 position-absolute top-0 end-0 translate-y-n100 fadeIn_bottom">
-                <img src="assets/img/customer-rating-el-2.png" alt="image"
-                    class="img-fluid d-none d-xl-block z-n1 position-absolute bottom-0 start-0 translate-y-20 fadeIn_bottom">
+                <img src="assets/img/customer-rating-el-1.png" alt="image" class="img-fluid d-none d-xl-block z-n1 position-absolute top-0 end-0 translate-y-n100 fadeIn_bottom">
+                <img src="assets/img/customer-rating-el-2.png" alt="image" class="img-fluid d-none d-xl-block z-n1 position-absolute bottom-0 start-0 translate-y-20 fadeIn_bottom">
             </div>
         </div>
     </div>
@@ -361,8 +347,7 @@
                     <div class="d-flex align-items-center gap-4 flex-wrap">
                         <div class="w-30 subtitle-flush-x subtitle_line_1"></div>
                         <h6 class="mb-0 fs-18 clr-neutral-90 fw-extrabold animate-text-from-right"> Our Services </h6>
-                        <h5 class="mb-0 clr-neutral-90 fw-normal animate-line-3d fs-5"> Unleashing Innovation: <span
-                                class="clr-grad-6">Næstinn's </span> Digital Excellence Solutions Redefining Your
+                        <h5 class="mb-0 clr-neutral-90 fw-normal animate-line-3d fs-5"> Unleashing Innovation: <span class="clr-grad-6">Næstinn's </span> Digital Excellence Solutions Redefining Your
                             Business Success. </h5>
                     </div>
                 </div>
@@ -405,20 +390,11 @@
                             <p class="mb-6 clr-neutral-80 animate-text-from-right"> Experience the magic of Næstinn's
                                 tech wizards. We turn ideas into digital wonders, making your journey to success smooth
                                 and extraordinary.</p>
-                            <div class="fadein_bottom_2">
-                                <a href="login.html"
-                                    class="gradient-btn-4 clr-grad-6 position-relative link d-inline-flex justify-content-center align-items-center gap-2 p-4 rounded fw-bold text-center z-1">
-                                    <span class="d-inline-block"> Read More </span>
-                                    <span class="d-inline-block">
-                                        <i class="bi bi-arrow-up-right"></i>
-                                    </span>
-                                </a>
-                            </div>
                         </div>
                         <div class="todo-img">
-                            <img src="assets/img/todo-img.jpg" alt="image" class="img-fluid rounded-1 parallax-image ">
-                            <img src="assets/img/todo-img-1.png" alt="image" class="img-fluid todo-img__1">
-                            <img src="assets/img/todo-img-2.png" alt="image" class="img-fluid todo-img__2">
+                            <a href="#"><img src="assets/images/Services/Website-development-service-home.png" alt="image" class="img-fluid rounded-1 parallax-image "></a>
+                            <!-- <img src="assets/img/todo-img-1.png" alt="image" class="img-fluid todo-img__1"> -->
+                            <!-- <img src="assets/img/todo-img-2.png" alt="image" class="img-fluid todo-img__2"> -->
                         </div>
                     </div>
                     <div id="applicationdevelopment">
@@ -427,20 +403,11 @@
                             <p class="mb-6 clr-neutral-80 animate-text-from-right"> Step into the world of Næstinn's
                                 app maestros. We create apps that are super easy to use, high-performing, and leave a
                                 lasting impression. </p>
-                            <div class="fadein_bottom_3">
-                                <a href="login.html"
-                                    class="gradient-btn-4 clr-grad-6 position-relative link d-inline-flex justify-content-center align-items-center gap-2 p-4 rounded fw-bold text-center z-1">
-                                    <span class="d-inline-block"> Read More </span>
-                                    <span class="d-inline-block">
-                                        <i class="bi bi-arrow-up-right"></i>
-                                    </span>
-                                </a>
-                            </div>
                         </div>
                         <div class="todo-img">
-                            <img src="assets/img/todo-img.jpg" alt="image" class="img-fluid rounded-1 parallax-image">
-                            <img src="assets/img/todo-img-1.png" alt="image" class="img-fluid todo-img__1">
-                            <img src="assets/img/todo-img-2.png" alt="image" class="img-fluid todo-img__2">
+                            <a href="#"><img src="assets/images/Services/Website-development-service-home.png" alt="image" class="img-fluid rounded-1 parallax-image "></a>
+                            <!-- <img src="assets/img/todo-img-1.png" alt="image" class="img-fluid todo-img__1"> -->
+                            <!-- <img src="assets/img/todo-img-2.png" alt="image" class="img-fluid todo-img__2"> -->
                         </div>
                     </div>
                     <div id="webdevelopment">
@@ -449,20 +416,11 @@
                             <p class="mb-6 clr-neutral-80 animate-text-from-right"> Let Næstinn weave the web for you.
                                 Your online story is crafted with care, making every click a delightful adventure
                                 tailored just for you. </p>
-                            <div class="fadein_bottom_3">
-                                <a href="login.html"
-                                    class="gradient-btn-4 clr-grad-6 position-relative link d-inline-flex justify-content-center align-items-center gap-2 p-4 rounded fw-bold text-center z-1">
-                                    <span class="d-inline-block"> Read More </span>
-                                    <span class="d-inline-block">
-                                        <i class="bi bi-arrow-up-right"></i>
-                                    </span>
-                                </a>
-                            </div>
                         </div>
                         <div class="todo-img">
-                            <img src="assets/img/todo-img.jpg" alt="image" class="img-fluid rounded-1 parallax-image">
-                            <img src="assets/img/todo-img-1.png" alt="image" class="img-fluid todo-img__1">
-                            <img src="assets/img/todo-img-2.png" alt="image" class="img-fluid todo-img__2">
+                            <a href="#"><img src="assets/images/Services/Website-development-service-home.png" alt="image" class="img-fluid rounded-1 parallax-image "></a>
+                            <!-- <img src="assets/img/todo-img-1.png" alt="image" class="img-fluid todo-img__1"> -->
+                            <!-- <img src="assets/img/todo-img-2.png" alt="image" class="img-fluid todo-img__2"> -->
                         </div>
                     </div>
                 </div>
@@ -483,8 +441,7 @@
                         </span>
                         <span class="d-inline-block clr-secondary-key ff-1 fw-bold fs-18"> Our Portfolio </span>
                     </div>
-                    <h3 class="mb-0 text-center clr-neutral-90 fw-bold animate-line-3d  fs-2"> Showcasing <span
-                            class="d-inline-block clr-grad-6 ff-4 text-underline">Næstinn: </span> Transformative
+                    <h3 class="mb-0 text-center clr-neutral-90 fw-bold animate-line-3d  fs-2"> Showcasing <span class="d-inline-block clr-grad-6 ff-4 text-underline">Næstinn: </span> Transformative
                         Solutions in Action.
                     </h3>
                 </div>
@@ -508,31 +465,27 @@
                             <ul class="list gap-3 mb-8">
                                 <li class="fadeIn_bottom">
                                     <div class="d-flex gap-2 align-items-center">
-                                        <span
-                                            class="d-inline-block w-1 h-1 rounded-circle bg-neutral-80 flex-shrink-0"></span>
+                                        <span class="d-inline-block w-1 h-1 rounded-circle bg-neutral-80 flex-shrink-0"></span>
                                         <span class="d-block flex-grow-1 clr-neutral-80 fs-14">Innovative Solutions
                                         </span>
                                     </div>
                                 </li>
                                 <li class="fadeIn_bottom">
                                     <div class="d-flex gap-2 align-items-center">
-                                        <span
-                                            class="d-inline-block w-1 h-1 rounded-circle bg-neutral-80 flex-shrink-0"></span>
+                                        <span class="d-inline-block w-1 h-1 rounded-circle bg-neutral-80 flex-shrink-0"></span>
                                         <span class="d-block flex-grow-1 clr-neutral-80 fs-14"> Efficiency Redefined
                                         </span>
                                     </div>
                                 </li>
                                 <li class="fadeIn_bottom">
                                     <div class="d-flex gap-2 align-items-center">
-                                        <span
-                                            class="d-inline-block w-1 h-1 rounded-circle bg-neutral-80 flex-shrink-0"></span>
+                                        <span class="d-inline-block w-1 h-1 rounded-circle bg-neutral-80 flex-shrink-0"></span>
                                         <span class="d-block flex-grow-1 clr-neutral-80 fs-14"> Customer-Centric
                                             Approach </span>
                                     </div>
                                 </li>
                             </ul>
-                            <a href="our-portfolio.php"
-                                class="link d-inline-block py-3 px-6 ff-1 gradient-btn-4 clr-white fw-bold rounded fadeIn_bottom">
+                            <a href="our-portfolio.php" class="link d-inline-block py-3 px-6 ff-1 gradient-btn-4 clr-white fw-bold rounded fadeIn_bottom">
                                 See all Projects </a>
                         </div>
                         <div class="col-md-6">
@@ -633,15 +586,14 @@
             <div class="col-md-6 col-lg-4">
                 <div class="bg_back_dark_3 border border-neutral-17 rounded-4 p-4 p-md-8 h-100 fadeIn_bottom">
                     <div class="rounded-4 overflow-hidden mb-7 fadeIn_bottom">
-                        <img src="assets/img/ai-featured-video-img-2.png" alt="image"
-                            class="img-fluid w-100 h-100 object-fit-cover">
+                        <img src="assets/images/Portfolio/helperadda-img.svg" alt="image" class="img-fluid w-100 h-100 object-fit-cover">
                     </div>
                     <div class="mt-auto">
                         <div class="d-flex align-items-center gap-3 mb-2 fadeIn_bottom">
                             <span class="d-inline-block flex-shrink-0">
                                 <img src="assets/img/icon-subtitle-primary.png" alt="image" class="img-fluid">
                             </span>
-                            <span class="d-inline-block clr-primary-2 ff-1 fw-bold fs-18"> Application Development
+                            <span class="d-inline-block clr-primary-2 ff-1 fw-bold fs-18"> App & Web Development, Branding, Marketing
                             </span>
                         </div>
                         <h6 class="clr-neutral-90 animate-line-3d"> Helper adda : Real-time Domestics Service Provider
@@ -649,31 +601,119 @@
                         <ul class="list gap-2 mb-8">
                             <li class="fadeIn_bottom">
                                 <div class="d-flex gap-2 align-items-center">
-                                    <span
-                                        class="d-inline-block w-1 h-1 rounded-circle bg-neutral-80 flex-shrink-0"></span>
+                                    <span class="d-inline-block w-1 h-1 rounded-circle bg-neutral-80 flex-shrink-0"></span>
                                     <span class="d-block flex-grow-1 clr-neutral-80 fs-14"> Includes: Android App, Ios
                                         App, Admin Panel, Website </span>
                                 </div>
                             </li>
                             <li class="fadeIn_bottom">
                                 <div class="d-flex gap-2 align-items-center">
-                                    <span
-                                        class="d-inline-block w-1 h-1 rounded-circle bg-neutral-80 flex-shrink-0"></span>
+                                    <span class="d-inline-block w-1 h-1 rounded-circle bg-neutral-80 flex-shrink-0"></span>
                                     <span class="d-block flex-grow-1 clr-neutral-80 fs-14"> Graphics & Its Marketing
                                     </span>
                                 </div>
                             </li>
                             <li class="fadeIn_bottom">
                                 <div class="d-flex gap-2 align-items-center">
-                                    <span
-                                        class="d-inline-block w-1 h-1 rounded-circle bg-neutral-80 flex-shrink-0"></span>
+                                    <span class="d-inline-block w-1 h-1 rounded-circle bg-neutral-80 flex-shrink-0"></span>
                                     <span class="d-block flex-grow-1 clr-neutral-80 fs-14"> Branding & Promotions
                                     </span>
                                 </div>
                             </li>
                         </ul>
-                        <a href="blog-details.php"
-                            class="link d-inline-flex align-items-center gap-1 fs-14 clr-secondary-key fadeIn_bottom">
+                        <a href="blog-details.php" class="link d-inline-flex align-items-center gap-1 fs-14 clr-secondary-key fadeIn_bottom">
+                            <span class="d-inline-block fw-semibold"> See this Project </span>
+                            <span class="d-inline-block">
+                                <i class="bi bi-arrow-up-right"></i>
+                            </span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-4">
+                <div class="bg_back_dark_3 border border-neutral-17 rounded-4 p-4 p-md-8 h-100 fadeIn_bottom">
+                    <div class="rounded-4 overflow-hidden mb-7 fadeIn_bottom">
+                        <img src="assets/images/Portfolio/tarparking-img.svg" alt="image" class="img-fluid w-100 h-100 object-fit-cover">
+                    </div>
+                    <div class="mt-auto">
+                        <div class="d-flex align-items-center gap-3 mb-2 fadeIn_bottom">
+                            <span class="d-inline-block flex-shrink-0">
+                                <img src="assets/img/icon-subtitle-primary.png" alt="image" class="img-fluid">
+                            </span>
+                            <span class="d-inline-block clr-primary-2 ff-1 fw-bold fs-18"> Web & CRM Development, Branding, Marketing
+                            </span>
+                        </div>
+                        <h6 class="clr-neutral-90 animate-line-3d"> Tar Parking : Smart car Parking System
+                        </h6>
+                        <ul class="list gap-2 mb-8">
+                            <li class="fadeIn_bottom">
+                                <div class="d-flex gap-2 align-items-center">
+                                    <span class="d-inline-block w-1 h-1 rounded-circle bg-neutral-80 flex-shrink-0"></span>
+                                    <span class="d-block flex-grow-1 clr-neutral-80 fs-14"> Includes: Website, CMS & CRM</span>
+                                </div>
+                            </li>
+                            <li class="fadeIn_bottom">
+                                <div class="d-flex gap-2 align-items-center">
+                                    <span class="d-inline-block w-1 h-1 rounded-circle bg-neutral-80 flex-shrink-0"></span>
+                                    <span class="d-block flex-grow-1 clr-neutral-80 fs-14"> Graphics & Its Marketing
+                                    </span>
+                                </div>
+                            </li>
+                            <li class="fadeIn_bottom">
+                                <div class="d-flex gap-2 align-items-center">
+                                    <span class="d-inline-block w-1 h-1 rounded-circle bg-neutral-80 flex-shrink-0"></span>
+                                    <span class="d-block flex-grow-1 clr-neutral-80 fs-14"> Branding & Promotions
+                                    </span>
+                                </div>
+                            </li>
+                        </ul>
+                        <a href="blog-details.php" class="link d-inline-flex align-items-center gap-1 fs-14 clr-secondary-key fadeIn_bottom">
+                            <span class="d-inline-block fw-semibold"> See this Project </span>
+                            <span class="d-inline-block">
+                                <i class="bi bi-arrow-up-right"></i>
+                            </span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-4">
+                <div class="bg_back_dark_3 border border-neutral-17 rounded-4 p-4 p-md-8 h-100 fadeIn_bottom">
+                    <div class="rounded-4 overflow-hidden mb-7 fadeIn_bottom">
+                        <img src="assets/images/Portfolio/planetsayari-img.svg" alt="image" class="img-fluid w-100 h-100 object-fit-cover">
+                    </div>
+                    <div class="mt-auto">
+                        <div class="d-flex align-items-center gap-3 mb-2 fadeIn_bottom">
+                            <span class="d-inline-block flex-shrink-0">
+                                <img src="assets/img/icon-subtitle-primary.png" alt="image" class="img-fluid">
+                            </span>
+                            <span class="d-inline-block clr-primary-2 ff-1 fw-bold fs-18"> Web Development, Branding, Marketing
+                            </span>
+                        </div>
+                        <h6 class="clr-neutral-90 animate-line-3d"> Planet Sayari : Security Crypto Tokens
+                        </h6>
+                        <ul class="list gap-2 mb-8">
+                            <li class="fadeIn_bottom">
+                                <div class="d-flex gap-2 align-items-center">
+                                    <span class="d-inline-block w-1 h-1 rounded-circle bg-neutral-80 flex-shrink-0"></span>
+                                    <span class="d-block flex-grow-1 clr-neutral-80 fs-14"> Includes: Website, Admin Panel</span>
+                                </div>
+                            </li>
+                            <li class="fadeIn_bottom">
+                                <div class="d-flex gap-2 align-items-center">
+                                    <span class="d-inline-block w-1 h-1 rounded-circle bg-neutral-80 flex-shrink-0"></span>
+                                    <span class="d-block flex-grow-1 clr-neutral-80 fs-14"> Graphics & Its Marketing
+                                    </span>
+                                </div>
+                            </li>
+                            <li class="fadeIn_bottom">
+                                <div class="d-flex gap-2 align-items-center">
+                                    <span class="d-inline-block w-1 h-1 rounded-circle bg-neutral-80 flex-shrink-0"></span>
+                                    <span class="d-block flex-grow-1 clr-neutral-80 fs-14"> Branding & Promotions
+                                    </span>
+                                </div>
+                            </li>
+                        </ul>
+                        <a href="blog-details.php" class="link d-inline-flex align-items-center gap-1 fs-14 clr-secondary-key fadeIn_bottom">
                             <span class="d-inline-block fw-semibold"> See this Project </span>
                             <span class="d-inline-block">
                                 <i class="bi bi-arrow-up-right"></i>
@@ -698,8 +738,7 @@
                         </span>
                         <span class="d-inline-block clr-secondary-key ff-1 fw-bold fs-18"> Case Study </span>
                     </div>
-                    <h5 class="mb-0 text-center clr-neutral-90 fw-bold animate-line-3d"> Transformative<span
-                            class="d-inline-block clr-grad-6 ff-4 fw-normal text-underline"> Næstinn's</span> Impactful
+                    <h5 class="mb-0 text-center clr-neutral-90 fw-bold animate-line-3d"> Transformative<span class="d-inline-block clr-grad-6 ff-4 fw-normal text-underline"> Næstinn's</span> Impactful
                         Case Studies</h5>
                 </div>
             </div>
@@ -710,35 +749,28 @@
             <div class="col-12">
                 <ul class="nav nav-underline nav-bordered use-case-tab">
                     <li class="nav-item animate-text-from-right">
-                        <button class="nav-link active" type="button" data-bs-toggle="tab"
-                            data-bs-target="#website_development_case_study"> Web Development </button>
+                        <button class="nav-link active" type="button" data-bs-toggle="tab" data-bs-target="#website_development_case_study"> Web Development </button>
                     </li>
                     <li class="nav-item animate-text-from-right">
-                        <button class="nav-link" type="button" data-bs-toggle="tab"
-                            data-bs-target="#app_development_case_study">App Development </button>
+                        <button class="nav-link" type="button" data-bs-toggle="tab" data-bs-target="#app_development_case_study">App Development </button>
                     </li>
                     <li class="nav-item animate-text-from-right">
-                        <button class="nav-link" type="button" data-bs-toggle="tab"
-                            data-bs-target="#software_development_case_study">
+                        <button class="nav-link" type="button" data-bs-toggle="tab" data-bs-target="#software_development_case_study">
                             Software Development</button>
                     </li>
                     <li class="nav-item animate-text-from-right">
-                        <button class="nav-link" type="button" data-bs-toggle="tab"
-                            data-bs-target="#uiux_design_case_study"> UI/UX Design </button>
+                        <button class="nav-link" type="button" data-bs-toggle="tab" data-bs-target="#uiux_design_case_study"> UI/UX Design </button>
                     </li>
                     <li class="nav-item animate-text-from-right">
-                        <button class="nav-link" type="button" data-bs-toggle="tab"
-                            data-bs-target="#graphics_design_case_study"> Graphics Design </button>
+                        <button class="nav-link" type="button" data-bs-toggle="tab" data-bs-target="#graphics_design_case_study"> Graphics Design </button>
                     </li>
                     <li class="nav-item animate-text-from-right">
-                        <button class="nav-link" type="button" data-bs-toggle="tab"
-                            data-bs-target="#digital_marketing_case_study">
+                        <button class="nav-link" type="button" data-bs-toggle="tab" data-bs-target="#digital_marketing_case_study">
                             Digital Marketing </button>
                     </li>
                 </ul>
                 <div class="tab-content">
-                    <div class="tab-pane fade show active" id="website_development_case_study" role="tabpanel"
-                        aria-labelledby="website_development_case_study" tabindex="0">
+                    <div class="tab-pane fade show active" id="website_development_case_study" role="tabpanel" aria-labelledby="website_development_case_study" tabindex="0">
                         <div class="pt-12">
                             <div class="row g-4 align-items-center justify-content-between">
                                 <div class="col-lg-6 col-xxl-5">
@@ -748,20 +780,18 @@
                                         Næstinn elevated a brand's online presence through captivating web development,
                                         creating user-centric and visually appealing sites. </p>
 
-                                    <a href="featured.php"
-                                        class="link d-inline-block py-3 px-6 ff-1 bg-grad-4 clr-white fw-bold rounded fadeIn_bottom">
+                                    <a href="featured.php" class="link d-inline-block py-3 px-6 ff-1 bg-grad-4 clr-white fw-bold rounded fadeIn_bottom">
                                         Explore </a>
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="text-center fadeIn_bottom">
-                                        <img src="assets/img/use-case-img-1.png" alt="image" class="img-fluid">
+                                        <img src="assets/images//Case-Study/web-dev-home.png" alt="image" class="img-fluid">
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="tab-pane fade" id="app_development_case_study" role="tabpanel"
-                        aria-labelledby="app_development_case_study" tabindex="0">
+                    <div class="tab-pane fade" id="app_development_case_study" role="tabpanel" aria-labelledby="app_development_case_study" tabindex="0">
                         <div class="pt-12">
                             <div class="row g-4 align-items-center justify-content-between">
                                 <div class="col-lg-6 col-xxl-5">
@@ -773,20 +803,18 @@
                                     <div class="d-flex align-items-center gap-4 mb-12">
 
                                     </div>
-                                    <a href="featured.php"
-                                        class="link d-inline-block py-3 px-6 ff-1 bg-grad-4 clr-white fw-bold rounded">
+                                    <a href="featured.php" class="link d-inline-block py-3 px-6 ff-1 bg-grad-4 clr-white fw-bold rounded">
                                         Explore </a>
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="text-center">
-                                        <img src="assets/img/use-case-img-2.png" alt="image" class="img-fluid">
+                                        <img src="assets/images//Case-Study/app-dev-home.png" alt="image" class="img-fluid">
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="tab-pane fade" id="software_development_case_study" role="tabpanel"
-                        aria-labelledby="software_development_case_study" tabindex="0">
+                    <div class="tab-pane fade" id="software_development_case_study" role="tabpanel" aria-labelledby="software_development_case_study" tabindex="0">
                         <div class="pt-12">
                             <div class="row g-4 align-items-center justify-content-between">
                                 <div class="col-lg-6 col-xxl-5">
@@ -797,20 +825,18 @@
                                         and scalability. </p>
                                     <div class="d-flex align-items-center gap-4 mb-12">
                                     </div>
-                                    <a href="featured.php"
-                                        class="link d-inline-block py-3 px-6 ff-1 bg-grad-4 clr-white fw-bold rounded">
+                                    <a href="featured.php" class="link d-inline-block py-3 px-6 ff-1 bg-grad-4 clr-white fw-bold rounded">
                                         Explore </a>
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="text-center">
-                                        <img src="assets/img/use-case-img-3.png" alt="image" class="img-fluid">
+                                        <img src="assets/images/Case-Study/Software-dev-home.png" alt="image" class="img-fluid">
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="tab-pane fade" id="uiux_design_case_study" role="tabpanel"
-                        aria-labelledby="uiux_design_case_study" tabindex="0">
+                    <div class="tab-pane fade" id="uiux_design_case_study" role="tabpanel" aria-labelledby="uiux_design_case_study" tabindex="0">
                         <div class="pt-12">
                             <div class="row g-4 align-items-center justify-content-between">
                                 <div class="col-lg-6 col-xxl-5">
@@ -822,20 +848,18 @@
                                     <div class="d-flex align-items-center gap-4 mb-12">
 
                                     </div>
-                                    <a href="featured.php"
-                                        class="link d-inline-block py-3 px-6 ff-1 bg-grad-4 clr-white fw-bold rounded">
+                                    <a href="featured.php" class="link d-inline-block py-3 px-6 ff-1 bg-grad-4 clr-white fw-bold rounded">
                                         Explore </a>
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="text-center">
-                                        <img src="assets/img/use-case-img-4.png" alt="image" class="img-fluid">
+                                        <img src="assets/images/Case-Study/uiux-design-home.png" alt="image" class="img-fluid">
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="tab-pane fade" id="graphics_design_case_study" role="tabpanel"
-                        aria-labelledby="graphics_design_case_study" tabindex="0">
+                    <div class="tab-pane fade" id="graphics_design_case_study" role="tabpanel" aria-labelledby="graphics_design_case_study" tabindex="0">
                         <div class="pt-12">
                             <div class="row g-4 align-items-center justify-content-between">
                                 <div class="col-lg-6 col-xxl-5">
@@ -847,20 +871,18 @@
                                     <div class="d-flex align-items-center gap-4 mb-12">
 
                                     </div>
-                                    <a href="featured.php"
-                                        class="link d-inline-block py-3 px-6 ff-1 bg-grad-4 clr-white fw-bold rounded">
+                                    <a href="featured.php" class="link d-inline-block py-3 px-6 ff-1 bg-grad-4 clr-white fw-bold rounded">
                                         Explore </a>
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="text-center">
-                                        <img src="assets/img/use-case-img-4.png" alt="image" class="img-fluid">
+                                        <img src="assets/images/Case-Study/graphic-design-home.png" alt="image" class="img-fluid">
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="tab-pane fade" id="digital_marketing_case_study" role="tabpanel"
-                        aria-labelledby="digital_marketing_case_study" tabindex="0">
+                    <div class="tab-pane fade" id="digital_marketing_case_study" role="tabpanel" aria-labelledby="digital_marketing_case_study" tabindex="0">
                         <div class="pt-12">
                             <div class="row g-4 align-items-center justify-content-between">
                                 <div class="col-lg-6 col-xxl-5">
@@ -872,13 +894,12 @@
                                     <div class="d-flex align-items-center gap-4 mb-12">
 
                                     </div>
-                                    <a href="featured.php"
-                                        class="link d-inline-block py-3 px-6 ff-1 bg-grad-4 clr-white fw-bold rounded">
+                                    <a href="featured.php" class="link d-inline-block py-3 px-6 ff-1 bg-grad-4 clr-white fw-bold rounded">
                                         Explore </a>
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="text-center">
-                                        <img src="assets/img/use-case-img-5.png" alt="image" class="img-fluid">
+                                        <img src="assets/images/Case-Study/digital-marketing-home.png" alt="image" class="img-fluid">
                                     </div>
                                 </div>
                             </div>
@@ -902,8 +923,7 @@
                         </span>
                         <span class="d-inline-block clr-primary-2 ff-1 fw-bold fs-18"> Latest Tech We Work</span>
                     </div>
-                    <h4 class="mb-0 clr-neutral-70 fw-bold animate-line-3d"> Leading with Innovation:<span
-                            class="d-inline-block ff-4 clr-grad-6 fw-normal">Our Latest Tech </span> Endeavors
+                    <h4 class="mb-0 clr-neutral-70 fw-bold animate-line-3d"> Leading with Innovation:<span class="d-inline-block ff-4 clr-grad-6 fw-normal">Our Latest Tech </span> Endeavors
                     </h4>
                 </div>
                 <div class="col-md-6 col-xxl-5">
@@ -911,8 +931,7 @@
                         technology, ensuring your projects benefit from the latest advancements. From AI to cloud
                         solutions, our commitment to innovation drives success in every endeavor.
                     </p>
-                    <a href="our-portfolio.php"
-                        class="link d-inline-flex align-items-center gap-1 ff-1 clr-secondary-key fadeIn_bottom">
+                    <a href="our-portfolio.php" class="link d-inline-flex align-items-center gap-1 ff-1 clr-secondary-key fadeIn_bottom">
                         <span class="d-inline-block fw-semibold"> Explore our project </span>
                         <span class="d-inline-block">
                             <i class="bi bi-arrow-right"></i>
@@ -940,8 +959,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-7 col-xxl-5">
                 <div class="text-center">
-                    <span
-                        class="rounded-1 bg-primary-key bg-opacity-2 clr-white fs-12 fw-bold px-4 py-2 d-inline-block mb-4 fadeIn_bottom">Custom
+                    <span class="rounded-1 bg-primary-key bg-opacity-2 clr-white fs-12 fw-bold px-4 py-2 d-inline-block mb-4 fadeIn_bottom">Custom
                         Software</span>
                     <h4 class="clr-neutral-90 fs-2 fw-normal animate-line-3d">Unleashing the Power of Custom Software
                     </h4>
@@ -976,13 +994,13 @@
                             </div>
                         </div>
                         <div class="logo-wrapper d-flex justify-content-center align-items-center">
-                            <img src="assets/img/hero-7-logo.png" alt="image" class="img-fluid hero-7-logo">
+                            <img src="assets/images/logo2.svg" alt="image" class="img-fluid hero-7-logo">
                         </div>
                     </div>
                 </div>
                 <div class="col-sm-6 col-lg-4 col-xxl-3">
                     <div class="ai-app-item text-center fadeIn_bottom">
-                        <img src="assets/img/ai-application-icon-2.png" alt="image" class="img-fluid">
+                        <img src="assets/images/Home/Software-Integration/social-integration.svg" alt="image" class="img-fluid">
                         <h4 class="fs-18 fw-bold clr-neutral-90 mt-4 mb-3">Social App Fusion: Unified Engagement</h4>
                         <p class="mb-0 clr-neutral-80">"Merge social apps seamlessly, enhancing digital collaboration."
                         </p>
@@ -998,10 +1016,8 @@
                 class="img-fluid ai-application-shape-center"> -->
         </div>
     </div>
-    <img src="assets/img/ai-application-shape-line-left.png" alt="image"
-        class="img-fluid ai-application-shape ai-application-shape-left">
-    <img src="assets/img/ai-application-shape-line-right.png" alt="image"
-        class="img-fluid ai-application-shape ai-application-shape-right">
+    <img src="assets/img/ai-application-shape-line-left.png" alt="image" class="img-fluid ai-application-shape ai-application-shape-left">
+    <img src="assets/img/ai-application-shape-line-right.png" alt="image" class="img-fluid ai-application-shape ai-application-shape-right">
 </section>
 <!-- /Integration software Section -->
 <!-- Testimonial Section -->
@@ -1010,8 +1026,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-8 col-xxl-7">
                 <div class="text-center">
-                    <span
-                        class="rounded-1 bg-primary-key bg-opacity-2 clr-white fs-12 fw-bold px-4 py-2 d-inline-block mb-4 fadeIn_bottom">Testimonial</span>
+                    <span class="rounded-1 bg-primary-key bg-opacity-2 clr-white fs-12 fw-bold px-4 py-2 d-inline-block mb-4 fadeIn_bottom">Testimonial</span>
                     <h3 class="clr-neutral-90 fw-bold animate-line-3d"> Næstinn Loved by Clients</h3>
                 </div>
             </div>
@@ -1023,8 +1038,7 @@
                 <li>
                     <div class="testimonial-4-card py-10 px-9">
                         <div class="d-flex flex-wrap gap-4 align-items-center">
-                            <img src="assets/img/testimonial-4-avatar-1.png" alt="image"
-                                class="img-fluid w-11 h-11 object-fit-cover rounded-circle">
+                            <img src="assets/img/testimonial-4-avatar-1.png" alt="image" class="img-fluid w-11 h-11 object-fit-cover rounded-circle">
                             <div>
                                 <h5 class="clr-neutral-90 fs-18 mb-0">Emily Rodriguez</h5>
                                 <span class="fs-14 clr-neutral-80 d-inline-block">Chief Technology Officer</span>
@@ -1038,8 +1052,7 @@
                 <li>
                     <div class="testimonial-4-card py-10 px-9">
                         <div class="d-flex flex-wrap gap-4 align-items-center">
-                            <img src="assets/img/testimonial-4-avatar-2.png" alt="image"
-                                class="img-fluid w-11 h-11 object-fit-cover rounded-circle">
+                            <img src="assets/img/testimonial-4-avatar-2.png" alt="image" class="img-fluid w-11 h-11 object-fit-cover rounded-circle">
                             <div>
                                 <h5 class="clr-neutral-90 fs-18 mb-0">Alex Thompson</h5>
                                 <span class="fs-14 clr-neutral-80 d-inline-block">Marketing Director</span>
@@ -1053,8 +1066,7 @@
                 <li>
                     <div class="testimonial-4-card py-10 px-9">
                         <div class="d-flex flex-wrap gap-4 align-items-center">
-                            <img src="assets/img/testimonial-4-avatar-3.png" alt="image"
-                                class="img-fluid w-11 h-11 object-fit-cover rounded-circle">
+                            <img src="assets/img/testimonial-4-avatar-3.png" alt="image" class="img-fluid w-11 h-11 object-fit-cover rounded-circle">
                             <div>
                                 <h5 class="clr-neutral-90 fs-18 mb-0">Michael O'Connor</h5>
                                 <span class="fs-14 clr-neutral-80 d-inline-block">Chief Executive Officer</span>
@@ -1068,8 +1080,7 @@
                 <li>
                     <div class="testimonial-4-card py-10 px-9">
                         <div class="d-flex flex-wrap gap-4 align-items-center">
-                            <img src="assets/img/testimonial-4-avatar-4.png" alt="image"
-                                class="img-fluid w-11 h-11 object-fit-cover rounded-circle">
+                            <img src="assets/img/testimonial-4-avatar-4.png" alt="image" class="img-fluid w-11 h-11 object-fit-cover rounded-circle">
                             <div>
                                 <h5 class="clr-neutral-90 fs-18 mb-0">Sophia Nguyen</h5>
                                 <span class="fs-14 clr-neutral-80 d-inline-block">UX/UI Designer</span>
@@ -1083,8 +1094,7 @@
                 <li>
                     <div class="testimonial-4-card py-10 px-9">
                         <div class="d-flex flex-wrap gap-4 align-items-center">
-                            <img src="assets/img/testimonial-4-avatar-1.png" alt="image"
-                                class="img-fluid w-11 h-11 object-fit-cover rounded-circle">
+                            <img src="assets/img/testimonial-4-avatar-1.png" alt="image" class="img-fluid w-11 h-11 object-fit-cover rounded-circle">
                             <div>
                                 <h5 class="clr-neutral-90 fs-18 mb-0">Jonathan Parker</h5>
                                 <span class="fs-14 clr-neutral-80 d-inline-block">Operations Manager</span>
@@ -1098,8 +1108,7 @@
                 <li>
                     <div class="testimonial-4-card py-10 px-9">
                         <div class="d-flex flex-wrap gap-4 align-items-center">
-                            <img src="assets/img/testimonial-4-avatar-2.png" alt="image"
-                                class="img-fluid w-11 h-11 object-fit-cover rounded-circle">
+                            <img src="assets/img/testimonial-4-avatar-2.png" alt="image" class="img-fluid w-11 h-11 object-fit-cover rounded-circle">
                             <div>
                                 <h5 class="clr-neutral-90 fs-18 mb-0">Benjamin Mitchell</h5>
                                 <span class="fs-14 clr-neutral-80 d-inline-block">IT Administrator</span>
@@ -1117,8 +1126,7 @@
                 <li>
                     <div class="testimonial-4-card py-10 px-9">
                         <div class="d-flex flex-wrap gap-4 align-items-center">
-                            <img src="assets/img/testimonial-4-avatar-1.png" alt="image"
-                                class="img-fluid w-11 h-11 object-fit-cover rounded-circle">
+                            <img src="assets/img/testimonial-4-avatar-1.png" alt="image" class="img-fluid w-11 h-11 object-fit-cover rounded-circle">
                             <div>
                                 <h5 class="clr-neutral-90 fs-18 mb-0">Xavier Morales</h5>
                                 <span class="fs-14 clr-neutral-80 d-inline-block">Product Manager</span>
@@ -1132,8 +1140,7 @@
                 <li>
                     <div class="testimonial-4-card py-10 px-9">
                         <div class="d-flex flex-wrap gap-4 align-items-center">
-                            <img src="assets/img/testimonial-4-avatar-2.png" alt="image"
-                                class="img-fluid w-11 h-11 object-fit-cover rounded-circle">
+                            <img src="assets/img/testimonial-4-avatar-2.png" alt="image" class="img-fluid w-11 h-11 object-fit-cover rounded-circle">
                             <div>
                                 <h5 class="clr-neutral-90 fs-18 mb-0">Ethan Mitchell</h5>
                                 <span class="fs-14 clr-neutral-80 d-inline-block">Supply Chain Manager</span>
@@ -1147,8 +1154,7 @@
                 <li>
                     <div class="testimonial-4-card py-10 px-9">
                         <div class="d-flex flex-wrap gap-4 align-items-center">
-                            <img src="assets/img/testimonial-4-avatar-3.png" alt="image"
-                                class="img-fluid w-11 h-11 object-fit-cover rounded-circle">
+                            <img src="assets/img/testimonial-4-avatar-3.png" alt="image" class="img-fluid w-11 h-11 object-fit-cover rounded-circle">
                             <div>
                                 <h5 class="clr-neutral-90 fs-18 mb-0">Lily Crawford </h5>
                                 <span class="fs-14 clr-neutral-80 d-inline-block">Content Strategist</span>
@@ -1162,8 +1168,7 @@
                 <li>
                     <div class="testimonial-4-card py-10 px-9">
                         <div class="d-flex flex-wrap gap-4 align-items-center">
-                            <img src="assets/img/testimonial-4-avatar-4.png" alt="image"
-                                class="img-fluid w-11 h-11 object-fit-cover rounded-circle">
+                            <img src="assets/img/testimonial-4-avatar-4.png" alt="image" class="img-fluid w-11 h-11 object-fit-cover rounded-circle">
                             <div>
                                 <h5 class="clr-neutral-90 fs-18 mb-0">Samuel Bennett</h5>
                                 <span class="fs-14 clr-neutral-80 d-inline-block">Chief Operating Officer</span>
@@ -1177,8 +1182,7 @@
                 <li>
                     <div class="testimonial-4-card py-10 px-9">
                         <div class="d-flex flex-wrap gap-4 align-items-center">
-                            <img src="assets/img/testimonial-4-avatar-1.png" alt="image"
-                                class="img-fluid w-11 h-11 object-fit-cover rounded-circle">
+                            <img src="assets/img/testimonial-4-avatar-1.png" alt="image" class="img-fluid w-11 h-11 object-fit-cover rounded-circle">
                             <div>
                                 <h5 class="clr-neutral-90 fs-18 mb-0">Victoria Rodriguez</h5>
                                 <span class="fs-14 clr-neutral-80 d-inline-block">Event Coordinator</span>
@@ -1192,8 +1196,7 @@
                 <li>
                     <div class="testimonial-4-card py-10 px-9">
                         <div class="d-flex flex-wrap gap-4 align-items-center">
-                            <img src="assets/img/testimonial-4-avatar-2.png" alt="image"
-                                class="img-fluid w-11 h-11 object-fit-cover rounded-circle">
+                            <img src="assets/img/testimonial-4-avatar-2.png" alt="image" class="img-fluid w-11 h-11 object-fit-cover rounded-circle">
                             <div>
                                 <h5 class="clr-neutral-90 fs-18 mb-0">Dylan Harrison</h5>
                                 <span class="fs-14 clr-neutral-80 d-inline-block">Quality Assurance Analyst</span>
@@ -1207,10 +1210,8 @@
             </ul>
         </div>
     </div>
-    <img src="assets/img/testimonial-4-shape-circle2.png" alt="image"
-        class="img-fluid testimonial-4-shape testimonial-4-shape-circle">
-    <img src="assets/img/testimonial-4-shape-dots.png" alt="image"
-        class="img-fluid testimonial-4-shape testimonial-4-shape-dots">
+    <img src="assets/img/testimonial-4-shape-circle2.png" alt="image" class="img-fluid testimonial-4-shape testimonial-4-shape-circle">
+    <img src="assets/img/testimonial-4-shape-dots.png" alt="image" class="img-fluid testimonial-4-shape testimonial-4-shape-dots">
 </section>
 <!-- /Testimonial Section -->
 
@@ -1235,8 +1236,7 @@
     <div class="container">
         <div class="row g-4">
             <div class="col-md-6 col-lg-4" data-cursor="Read Blog">
-                <div
-                    class="blog-card-1 top-shadow px-6 py-10 position-relative z-1 overflow-hidden rounded-3 bg_back_dark_3 bg-opacity-6 fadein_bottom_13">
+                <div class="blog-card-1 top-shadow px-6 py-10 position-relative z-1 overflow-hidden rounded-3 bg_back_dark_3 bg-opacity-6 fadein_bottom_13">
                     <div class="d-flex align-items-center gap-2">
                         <div class="w-12 h-2px bg-primary-key"></div>
                         <span class="d-block fw-bold clr-primary-key"> Software Development </span>
@@ -1258,8 +1258,7 @@
                 </div>
             </div>
             <div class="col-md-6 col-lg-4" data-cursor="Read Blog">
-                <div
-                    class="blog-card-1 top-shadow px-6 py-10 position-relative z-1 overflow-hidden rounded-3 bg_back_dark_3 bg-opacity-6 fadein_bottom_13">
+                <div class="blog-card-1 top-shadow px-6 py-10 position-relative z-1 overflow-hidden rounded-3 bg_back_dark_3 bg-opacity-6 fadein_bottom_13">
                     <div class="d-flex align-items-center gap-2">
                         <div class="w-12 h-2px bg-primary-key"></div>
                         <span class="d-block fw-bold clr-primary-key"> Web Development </span>
@@ -1281,8 +1280,7 @@
                 </div>
             </div>
             <div class="col-md-6 col-lg-4" data-cursor="Read Blog">
-                <div
-                    class="blog-card-1 top-shadow px-6 py-10 position-relative z-1 overflow-hidden rounded-3 bg_back_dark_3 bg-opacity-6 fadein_bottom_13">
+                <div class="blog-card-1 top-shadow px-6 py-10 position-relative z-1 overflow-hidden rounded-3 bg_back_dark_3 bg-opacity-6 fadein_bottom_13">
                     <div class="d-flex align-items-center gap-2">
                         <div class="w-12 h-2px bg-primary-key"></div>
                         <span class="d-block fw-bold clr-primary-key"> App Development </span>
@@ -1305,10 +1303,8 @@
             </div>
         </div>
     </div>
-    <img src="assets/img/blog-section-1-img-1.webp" alt="image"
-        class="img-fluid blog-section-1__img blog-section-1__img--1">
-    <img src="assets/img/blog-section-1-img-2.webp" alt="image"
-        class="img-fluid blog-section-1__img blog-section-1__img--2">
+    <img src="assets/img/blog-section-1-img-1.webp" alt="image" class="img-fluid blog-section-1__img blog-section-1__img--1">
+    <img src="assets/img/blog-section-1-img-2.webp" alt="image" class="img-fluid blog-section-1__img blog-section-1__img--2">
 </div>
 <!-- /Blog Section  -->
 
