@@ -7,9 +7,9 @@
                 <div class="col-md-9 col-lg-8 col-xl-5">
                     <div class="pe-xl-15">
                         <h4 class="mb-10 clr-neutral-90 fw-bold animate-line-3d">Innovate with
-                            <span class="clr-grad-6">Naestinn:</span> Crafting Digital Success Stories.✍
+                            <span class="clr-grad-6">Næstinn:</span> Crafting Digital Success Stories.✍
                         </h4>
-                        <p class="clr-neutral-70">At Naestinn, we blend innovation and excellence, crafting success stories through cutting-edge solutions. Join us in a transformative journey where success is a continuous experience, not just a destination.</p>
+                        <p class="clr-neutral-70">At Næstinn, we blend innovation and excellence, crafting success stories through cutting-edge solutions. Join us in a transformative journey where success is a continuous experience, not just a destination.</p>
                         <div class="fadein_bottom_15" data-cursor="We are waiting">
                             <a href="contact.php"
                                 class="bg-grad-6 clr-white position-relative link d-inline-flex justify-content-center align-items-center gap-2 px-6 py-3 rounded fw-bold text-center">
@@ -194,7 +194,7 @@
             <div class="row g-4">
                 <div class="col-md-5 col-lg-6 col-sm-12">
                     <p class="mb-0 clr-neutral-80 fs-14 fw-semibold"> Copyright &copy;2024 All Rights Reserved by <a
-                            href="" class="link d-inline-block clr-grad-6 clr-info-key">Naest Innovation Pvt. Ltd.</a>
+                            href="" class="link d-inline-block clr-grad-6 clr-info-key">Næst Innovation Pvt. Ltd.</a>
                     </p>
                 </div>
                 <div class="col-md-7 col-lg-6 col-sm-12">

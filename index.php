@@ -8,12 +8,12 @@
                     <div class="col-xl-8">
                         <h1 class="mb-6 clr-white text-center fw-extrabold animate-line-3d fs-1">
                             <span class="d-inline-block ff-3 fw-normal">We <span
-                                    class="d-inline-block clr-grad-6">Naestinn, </span></span>
+                                    class="d-inline-block clr-grad-6">Næstinn, </span></span>
                             are where innovative solutions <p class="text-underline">ignite endless possibilities</p>
                         </h1>
                         <p
                             class="mb-12 text-center ff-1 fs-18 fw-normal clr-neutral-90 max-text-50 mx-auto animate-text-from-right">
-                            At Naestinn, we pioneer cutting-edge solutions, transforming ideas into limitless digital
+                            At Næstinn, we pioneer cutting-edge solutions, transforming ideas into limitless digital
                             possibilities for your success. </p>
                         <div class="d-flex justify-content-center align-items-center flex-wrap gap-8 fadeIn_bottom">
                             <a href="#ourservices"
@@ -193,7 +193,7 @@
                     </div>
                     <div class="col-lg-8 col-xl-7">
                         <h6 class="mb-12 fw-normal clr-neutral-90 animate-line-3d"> Discover the <span
-                                class="clr-grad-6">Naestinn</span> difference, partnering with global leaders for
+                                class="clr-grad-6">Næstinn</span> difference, partnering with global leaders for
                             avant-garde software solutions that propel businesses into unprecedented realms of success.
                         </h6>
                         <div class="row g-4">
@@ -362,7 +362,7 @@
                         <div class="w-30 subtitle-flush-x subtitle_line_1"></div>
                         <h6 class="mb-0 fs-18 clr-neutral-90 fw-extrabold animate-text-from-right"> Our Services </h6>
                         <h5 class="mb-0 clr-neutral-90 fw-normal animate-line-3d fs-5"> Unleashing Innovation: <span
-                                class="clr-grad-6">Naestinn's </span> Digital Excellence Solutions Redefining Your
+                                class="clr-grad-6">Næstinn's </span> Digital Excellence Solutions Redefining Your
                             Business Success. </h5>
                     </div>
                 </div>
@@ -402,7 +402,7 @@
                     <div id="softwaredevelopment">
                         <div class="todo-box position-relative z-1 bg_back_dark_2  pe-10">
                             <h4 class="clr-neutral-90 animate-line-3d"> Software Development </h4>
-                            <p class="mb-6 clr-neutral-80 animate-text-from-right"> WExperience the magic of Naestinn's
+                            <p class="mb-6 clr-neutral-80 animate-text-from-right"> Experience the magic of Næstinn's
                                 tech wizards. We turn ideas into digital wonders, making your journey to success smooth
                                 and extraordinary.</p>
                             <div class="fadein_bottom_2">
@@ -424,7 +424,7 @@
                     <div id="applicationdevelopment">
                         <div class="todo-box position-relative z-1 bg_back_dark_2 py-10 pe-10">
                             <h4 class="clr-neutral-90 animate-line-3d"> Application Development </h4>
-                            <p class="mb-6 clr-neutral-80 animate-text-from-right"> Step into the world of Naestinn's
+                            <p class="mb-6 clr-neutral-80 animate-text-from-right"> Step into the world of Næstinn's
                                 app maestros. We create apps that are super easy to use, high-performing, and leave a
                                 lasting impression. </p>
                             <div class="fadein_bottom_3">
@@ -446,7 +446,7 @@
                     <div id="webdevelopment">
                         <div class="todo-box position-relative z-1 bg_back_dark_2 py-10 pe-10">
                             <h4 class="clr-neutral-90 animate-line-3d"> Web Development </h4>
-                            <p class="mb-6 clr-neutral-80 animate-text-from-right"> Let Naestinn weave the web for you.
+                            <p class="mb-6 clr-neutral-80 animate-text-from-right"> Let Næstinn weave the web for you.
                                 Your online story is crafted with care, making every click a delightful adventure
                                 tailored just for you. </p>
                             <div class="fadein_bottom_3">
@@ -484,7 +484,7 @@
                         <span class="d-inline-block clr-secondary-key ff-1 fw-bold fs-18"> Our Portfolio </span>
                     </div>
                     <h3 class="mb-0 text-center clr-neutral-90 fw-bold animate-line-3d  fs-2"> Showcasing <span
-                            class="d-inline-block clr-grad-6 ff-4 text-underline">Naestinn: </span> Transformative
+                            class="d-inline-block clr-grad-6 ff-4 text-underline">Næstinn: </span> Transformative
                         Solutions in Action.
                     </h3>
                 </div>
@@ -504,7 +504,7 @@
                                 <span class="d-inline-block clr-primary-2 ff-1 fw-bold fs-18"> Our Portfolio </span>
                             </div>
                             <h5 class="mb-6 clr-neutral-90 animate-text-from-right"> Unlocking Success Stories:
-                                Naestinn's Portfolio Spotlight.</h5>
+                                Næstinn's Portfolio Spotlight.</h5>
                             <ul class="list gap-3 mb-8">
                                 <li class="fadeIn_bottom">
                                     <div class="d-flex gap-2 align-items-center">
@@ -699,7 +699,7 @@
                         <span class="d-inline-block clr-secondary-key ff-1 fw-bold fs-18"> Case Study </span>
                     </div>
                     <h5 class="mb-0 text-center clr-neutral-90 fw-bold animate-line-3d"> Transformative<span
-                            class="d-inline-block clr-grad-6 ff-4 fw-normal text-underline"> Naestinn's</span> Impactful
+                            class="d-inline-block clr-grad-6 ff-4 fw-normal text-underline"> Næstinn's</span> Impactful
                         Case Studies</h5>
                 </div>
             </div>
@@ -745,7 +745,7 @@
                                     <h5 class="fw-extrabold clr-neutral-90 animate-line-3d"> Digital Excellence:
                                         Crafting Engaging Web Experiences </h5>
                                     <p class="mb-7 fw-medium clr-neutral-80 animate-text-from-right"> Discover how
-                                        Naestinn elevated a brand's online presence through captivating web development,
+                                        Næstinn elevated a brand's online presence through captivating web development,
                                         creating user-centric and visually appealing sites. </p>
 
                                     <a href="featured.php"
@@ -768,7 +768,7 @@
                                     <h5 class="fw-extrabold clr-neutral-90"> App Mastery Unleashed: Transforming Ideas
                                         into Apps </h5>
                                     <p class="mb-7 fw-medium clr-neutral-80"> Embark on a journey of app innovation as
-                                        Naestinn turns unique concepts into high-performing applications, enhancing user
+                                        Næstinn turns unique concepts into high-performing applications, enhancing user
                                         engagement and satisfaction. </p>
                                     <div class="d-flex align-items-center gap-4 mb-12">
 
@@ -792,7 +792,7 @@
                                 <div class="col-lg-6 col-xxl-5">
                                     <h5 class="fw-extrabold clr-neutral-90"> Revolutionizing Operations: A Software
                                         Success Story </h5>
-                                    <p class="mb-7 fw-medium clr-neutral-80"> Explore how Naestinn's innovative software
+                                    <p class="mb-7 fw-medium clr-neutral-80"> Explore how Næstinn's innovative software
                                         solutions propelled a client's operations to new heights, achieving efficiency
                                         and scalability. </p>
                                     <div class="d-flex align-items-center gap-4 mb-12">
@@ -814,10 +814,10 @@
                         <div class="pt-12">
                             <div class="row g-4 align-items-center justify-content-between">
                                 <div class="col-lg-6 col-xxl-5">
-                                    <h5 class="fw-extrabold clr-neutral-90"> Designing Experiences: Naestinn's UI/UX
+                                    <h5 class="fw-extrabold clr-neutral-90"> Designing Experiences: Næstinn's UI/UX
                                         Showcase </h5>
                                     <p class="mb-7 fw-medium clr-neutral-80"> Delve into the art of user interaction
-                                        with Naestinn's design prowess, creating interfaces that captivate, engage, and
+                                        with Næstinn's design prowess, creating interfaces that captivate, engage, and
                                         elevate the overall user experience. </p>
                                     <div class="d-flex align-items-center gap-4 mb-12">
 
@@ -839,9 +839,9 @@
                         <div class="pt-12">
                             <div class="row g-4 align-items-center justify-content-between">
                                 <div class="col-lg-6 col-xxl-5">
-                                    <h5 class="fw-extrabold clr-neutral-90"> Visual Brilliance: Naestinn's Graphic
+                                    <h5 class="fw-extrabold clr-neutral-90"> Visual Brilliance: Næstinn's Graphic
                                         Design Success</h5>
-                                    <p class="mb-7 fw-medium clr-neutral-80"> Explore how Naestinn's graphic mastery
+                                    <p class="mb-7 fw-medium clr-neutral-80"> Explore how Næstinn's graphic mastery
                                         transforms ideas into visual masterpieces, leaving a lasting impact and
                                         reinforcing brand identity. </p>
                                     <div class="d-flex align-items-center gap-4 mb-12">
@@ -867,7 +867,7 @@
                                     <h5 class="fw-extrabold clr-neutral-90"> Navigating Success: A Digital Marketing
                                         Triumph </h5>
                                     <p class="mb-7 fw-medium clr-neutral-80"> Uncover the strategic brilliance behind
-                                        Naestinn's digital marketing success stories, where innovation meets measurable
+                                        Næstinn's digital marketing success stories, where innovation meets measurable
                                         results, amplifying online presence. </p>
                                     <div class="d-flex align-items-center gap-4 mb-12">
 
@@ -907,7 +907,7 @@
                     </h4>
                 </div>
                 <div class="col-md-6 col-xxl-5">
-                    <p class="mb-5 clr-neutral-80 animate-text-from-right"> Naestinn embraces the forefront of
+                    <p class="mb-5 clr-neutral-80 animate-text-from-right"> Næstinn embraces the forefront of
                         technology, ensuring your projects benefit from the latest advancements. From AI to cloud
                         solutions, our commitment to innovation drives success in every endeavor.
                     </p>
@@ -1012,7 +1012,7 @@
                 <div class="text-center">
                     <span
                         class="rounded-1 bg-primary-key bg-opacity-2 clr-white fs-12 fw-bold px-4 py-2 d-inline-block mb-4 fadeIn_bottom">Testimonial</span>
-                    <h3 class="clr-neutral-90 fw-bold animate-line-3d"> Naestinn Loved by Clients</h3>
+                    <h3 class="clr-neutral-90 fw-bold animate-line-3d"> Næstinn Loved by Clients</h3>
                 </div>
             </div>
         </div>
@@ -1030,7 +1030,7 @@
                                 <span class="fs-14 clr-neutral-80 d-inline-block">Chief Technology Officer</span>
                             </div>
                         </div>
-                        <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Naestinn's software solutions exceeded our
+                        <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Næstinn's software solutions exceeded our
                             expectations, transforming our operations and enhancing efficiency. Truly a game-changer for
                             our business."</p>
                     </div>
@@ -1045,7 +1045,7 @@
                                 <span class="fs-14 clr-neutral-80 d-inline-block">Marketing Director</span>
                             </div>
                         </div>
-                        <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Working with Naestinn has been a pleasure. Their
+                        <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Working with Næstinn has been a pleasure. Their
                             digital marketing expertise brought exceptional results, boosting our online presence and
                             brand visibility."</p>
                     </div>
@@ -1060,7 +1060,7 @@
                                 <span class="fs-14 clr-neutral-80 d-inline-block">Chief Executive Officer</span>
                             </div>
                         </div>
-                        <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Naestinn's web development team delivered a website
+                        <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Næstinn's web development team delivered a website
                             that not only looks stunning but also functions seamlessly. A reliable partner in our
                             digital journey."</p>
                     </div>
@@ -1075,7 +1075,7 @@
                                 <span class="fs-14 clr-neutral-80 d-inline-block">UX/UI Designer</span>
                             </div>
                         </div>
-                        <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Crafting user experiences with Naestinn is a joy.
+                        <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Crafting user experiences with Næstinn is a joy.
                             Their design team's creativity and attention to detail make our applications stand out in
                             the competitive market."</p>
                     </div>
@@ -1090,7 +1090,7 @@
                                 <span class="fs-14 clr-neutral-80 d-inline-block">Operations Manager</span>
                             </div>
                         </div>
-                        <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Naestinn's tailored solutions have significantly
+                        <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Næstinn's tailored solutions have significantly
                             improved our operational efficiency. Their customer-centric approach ensures our needs are
                             always met."</p>
                     </div>
@@ -1105,7 +1105,7 @@
                                 <span class="fs-14 clr-neutral-80 d-inline-block">IT Administrator</span>
                             </div>
                         </div>
-                        <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Naestinn's software solutions have streamlined our IT
+                        <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Næstinn's software solutions have streamlined our IT
                             infrastructure. Their commitment to innovation has significantly improved our day-to-day
                             operations."</p>
                     </div>
@@ -1124,7 +1124,7 @@
                                 <span class="fs-14 clr-neutral-80 d-inline-block">Product Manager</span>
                             </div>
                         </div>
-                        <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Naestinn's expertise in app development has brought
+                        <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Næstinn's expertise in app development has brought
                             our vision to life. Their team's dedication to quality and functionality sets them apart in
                             the industry."</p>
                     </div>
@@ -1139,7 +1139,7 @@
                                 <span class="fs-14 clr-neutral-80 d-inline-block">Supply Chain Manager</span>
                             </div>
                         </div>
-                        <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Naestinn's software solutions have optimized our
+                        <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Næstinn's software solutions have optimized our
                             supply chain processes, resulting in increased efficiency and cost savings. A strategic
                             partner for business growth."</p>
                     </div>
@@ -1154,7 +1154,7 @@
                                 <span class="fs-14 clr-neutral-80 d-inline-block">Content Strategist</span>
                             </div>
                         </div>
-                        <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Naestinn's digital marketing strategies have elevated
+                        <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Næstinn's digital marketing strategies have elevated
                             our content visibility. Their analytical approach and constant optimization drive
                             consistent, positive results."</p>
                     </div>
@@ -1169,7 +1169,7 @@
                                 <span class="fs-14 clr-neutral-80 d-inline-block">Chief Operating Officer</span>
                             </div>
                         </div>
-                        <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Naestinn's holistic approach to digital solutions has
+                        <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Næstinn's holistic approach to digital solutions has
                             transformed our operations. Their comprehensive services make them an invaluable partner for
                             organizational success."</p>
                     </div>
@@ -1184,7 +1184,7 @@
                                 <span class="fs-14 clr-neutral-80 d-inline-block">Event Coordinator</span>
                             </div>
                         </div>
-                        <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Naestinn's user-friendly apps have enhanced our event
+                        <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Næstinn's user-friendly apps have enhanced our event
                             management capabilities. Their intuitive designs and functionalities have been a
                             game-changer for our team."</p>
                     </div>
@@ -1199,7 +1199,7 @@
                                 <span class="fs-14 clr-neutral-80 d-inline-block">Quality Assurance Analyst</span>
                             </div>
                         </div>
-                        <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Naestinn's commitment to delivering bug-free software
+                        <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Næstinn's commitment to delivering bug-free software
                             is commendable. Their attention to detail and rigorous testing processes ensure a
                             high-quality end product."</p>
                     </div>
@@ -1223,7 +1223,7 @@
                     <div class="d-flex align-items-center gap-4 flex-wrap">
                         <div class="w-30 subtitle-flush-x subtitle-flush-x--secondary subtitle_line_7"></div>
                         <h6 class="mb-0 fs-18 clr-secondary-key fw-extrabold animate-text-from-right"> Bytes & Beyond:
-                            The Naestinn Blog Zone </h6>
+                            The Næstinn Blog Zone </h6>
                     </div>
                 </div>
                 <div class="col-md-6 col-xxl-5">
@@ -1247,7 +1247,7 @@
                     <div class="blog-card-1__body">
                         <h6 class="mb-6 fs-24">
                             <a href="blog-details.html" class="link d-block clr-neutral-90"> Harmonizing Success:
-                                Naestinn's Journey in Crafting Seamless Software Solutions </a>
+                                Næstinn's Journey in Crafting Seamless Software Solutions </a>
                         </h6>
                         <div class="d-flex align-items-center gap-2">
                             <span class="d-inline-block clr-neutral-90 fs-14 fw-semibold"> March 18, 2024 </span>
@@ -1270,7 +1270,7 @@
                     <div class="blog-card-1__body">
                         <h6 class="mb-6 fs-24">
                             <a href="blog-details.html" class="link d-block clr-neutral-90"> Weaving Web Excellence: A
-                                Dive into Naestinn's Innovative Web Development </a>
+                                Dive into Næstinn's Innovative Web Development </a>
                         </h6>
                         <div class="d-flex align-items-center gap-2">
                             <span class="d-inline-block clr-neutral-90 fs-14 fw-semibold"> March 16, 2024 </span>
@@ -1293,7 +1293,7 @@
                     <div class="blog-card-1__body">
                         <h6 class="mb-6 fs-24">
                             <a href="blog-details.html" class="link d-block clr-neutral-90"> Unlocking App Magic:
-                                Naestinn's Transformative Approach to Mobile Development </a>
+                                Næstinn's Transformative Approach to Mobile Development </a>
                         </h6>
                         <div class="d-flex align-items-center gap-2">
                             <span class="d-inline-block clr-neutral-90 fs-14 fw-semibold"> March 14, 2024 </span>

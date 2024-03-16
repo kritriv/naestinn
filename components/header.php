@@ -39,7 +39,7 @@
                     <nav class="menu d-lg-flex justify-content-lg-between align-items-lg-center py-3 py-lg-0">
                         <div class="d-flex align-items-center justify-content-between">
                             <a href="index.php" class="logo link d-inline-flex align-items-center flex-shrink-0">
-                                <img src="assets/images/logo.svg" alt="logo"
+                                <img src="assets/images/logo_dark.svg" alt="logo"
                                     class="full_logo img-fluid object-fit-contain" width="40%">
                                 <img src="assets/images/logo2.svg" alt="logo2"
                                     class="half_logo img-fluid object-fit-contain" width="40%">

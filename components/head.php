@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <title>Naestinn Pvt Ltd | Best Software Development Company </title>
+    <title>Næstinn Pvt Ltd | Best Software Development Company </title>
     <!-- ------- Meta Tags ------------- -->
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
     <!--<meta name="viewport" content="width=device-width, initial-scale=1">-->
@@ -28,14 +28,13 @@
     <meta name="twitter:card" content="summary_large_image" />
 
     <!-- Fav Icon -->
-    <link rel="icon" href="assets/images/logo2.svg" type="image/x-icon" />
+    <link rel="icon" href="assets/images/favicon.svg" type="image/x-icon" />
 
 
     <link rel="stylesheet" href="assets/css/fonts/ff-1.css">
     <link rel="stylesheet" href="assets/css/fonts/ff-3.css">
     <!-- <link rel="stylesheet" href="assets/css/fonts/ff-4.css"> -->
     <link rel="stylesheet" href="assets/css/fonts/bootstrap-icons.css">
-    <link rel="icon" href="assets/img/favicon.png" type="image/png">
     <link rel="stylesheet" href="assets/css/plugins.min.css">
     <link rel="stylesheet" href="assets/css/style.min.css">
     <link rel="stylesheet" href="assets/css/custom.min.css">
