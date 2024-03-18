@@ -53,9 +53,9 @@
     <div class="container">
         <div class="row justify-content-center p-0">
             <div class="col-12">
-                <h6 class="mb-0 text-center clr-neutral-90 fw-extrabold animate-line-3d"> We Worked With Global Largest
+                <p class="mb-0 text-center clr-neutral-90 fw-extrabold animate-line-3d fs-5"> We Worked With Global Largest
                     <span class="d-inline-block gradient-flow gradient-flow--end clr-white">100+ BRANDS</span>
-                </h6>
+                </p>
             </div>
         </div>
     </div>
@@ -185,13 +185,13 @@
                         </div>
                     </div>
                     <div class="col-lg-8 col-xl-7">
-                        <h6 class="mb-12 fw-normal clr-neutral-90 animate-line-3d"> Discover the <span class="clr-grad-6">Næstinn</span> difference, partnering with global leaders for
+                        <p class="mb-12 fw-normal clr-neutral-90 animate-line-3d fs-5"> Discover the <span class="clr-grad-6">Næstinn</span> difference, partnering with global leaders for
                             avant-garde software solutions that propel businesses into unprecedented realms of success.
-                        </h6>
+                        </p>
                         <div class="row g-4">
                             <div class="col-sm-6 col-md-4 fadein_bottom_32">
                                 <div class="d-flex flex-column align-items-start justify-content-between rounded-1 bg_back_dark_3 border border-neutral-17 p-4 px-md-6 h-100">
-                                    <h3 class="mb-10 clr-neutral-92 fw-extrabold"> 4.2 </h3>
+                                    <p class="mb-10 clr-neutral-92 fw-extrabold fs-1"> 4.2 </p>
                                     <div class="mt-auto">
                                         <ul class="list list-row gap-1 mb-4">
                                             <li>
@@ -226,7 +226,7 @@
                             </div>
                             <div class="col-sm-6 col-md-4 fadein_bottom_32">
                                 <div class="d-flex flex-column align-items-start justify-content-between rounded-1 bg_back_dark_3 border border-neutral-17 p-4 px-md-6 h-100">
-                                    <h3 class="mb-10 clr-neutral-92 fw-extrabold"> 4.5 </h3>
+                                    <p class="mb-10 clr-neutral-92 fw-extrabold fs-1"> 4.5 </p>
                                     <div class="mt-auto">
                                         <ul class="list list-row gap-1 mb-4">
                                             <li>
@@ -261,7 +261,7 @@
                             </div>
                             <div class="col-sm-6 col-md-4 fadein_bottom_32">
                                 <div class="d-flex flex-column align-items-start justify-content-between rounded-1 bg_back_dark_3 border border-neutral-17 p-4 px-md-6 h-100">
-                                    <h3 class="mb-10 clr-neutral-92 fw-extrabold"> 4.8 </h3>
+                                    <p class="mb-10 clr-neutral-92 fw-extrabold fs-1"> 4.8 </p>
                                     <div class="mt-auto">
                                         <ul class="list list-row gap-1 mb-4">
                                             <li>
@@ -347,9 +347,9 @@
                 <div class="col-md-4">
                     <div class="d-flex align-items-center gap-4 flex-wrap">
                         <div class="w-30 subtitle-flush-x subtitle_line_1"></div>
-                        <h6 class="mb-0 fs-18 clr-neutral-90 fw-extrabold animate-text-from-right"> Our Services </h6>
-                        <h5 class="mb-0 clr-neutral-90 fw-normal animate-line-3d fs-5"> Unleashing Innovation: <span class="clr-grad-6">Næstinn's </span> Digital Excellence Solutions Redefining Your
-                            Business Success. </h5>
+                        <h3 class="mb-0 fs-18 clr-neutral-90 fw-extrabold animate-text-from-right"> Our Services </h3>
+                        <p class="mb-0 clr-neutral-90 fw-normal animate-line-3d fs-5"> Unleashing Innovation: <span class="clr-grad-6">Næstinn's </span> Digital Excellence Solutions Redefining Your
+                            Business Success. </p>
                     </div>
                 </div>
             </div>
@@ -442,9 +442,9 @@
                         </span>
                         <span class="d-inline-block clr-secondary-key ff-1 fw-bold fs-18"> Our Portfolio </span>
                     </div>
-                    <h3 class="mb-0 text-center clr-neutral-90 fw-bold animate-line-3d  fs-2"> Showcasing <span class="d-inline-block clr-grad-6 ff-4 text-underline">Næstinn: </span> Transformative
+                    <p class="mb-0 text-center clr-neutral-90 fw-bold animate-line-3d  fs-3"> Showcasing <span class="d-inline-block clr-grad-6 ff-4 text-underline">Næstinn: </span> Transformative
                         Solutions in Action.
-                    </h3>
+                    </p>
                 </div>
             </div>
         </div>
@@ -750,24 +750,24 @@
             <div class="col-12">
                 <ul class="nav nav-underline nav-bordered use-case-tab">
                     <li class="nav-item animate-text-from-right">
-                        <button class="nav-link active" type="button" data-bs-toggle="tab" data-bs-target="#website_development_case_study"> Web Development </button>
+                        <a class="nav-link active" type="button" data-bs-toggle="tab" data-bs-target="#website_development_case_study"> Web Development </a>
                     </li>
                     <li class="nav-item animate-text-from-right">
-                        <button class="nav-link" type="button" data-bs-toggle="tab" data-bs-target="#app_development_case_study">App Development </button>
+                        <a class="nav-link" type="button" data-bs-toggle="tab" data-bs-target="#app_development_case_study">App Development </a>
                     </li>
                     <li class="nav-item animate-text-from-right">
-                        <button class="nav-link" type="button" data-bs-toggle="tab" data-bs-target="#software_development_case_study">
-                            Software Development</button>
+                        <a class="nav-link" type="button" data-bs-toggle="tab" data-bs-target="#software_development_case_study">
+                            Software Development</a>
                     </li>
                     <li class="nav-item animate-text-from-right">
-                        <button class="nav-link" type="button" data-bs-toggle="tab" data-bs-target="#uiux_design_case_study"> UI/UX Design </button>
+                        <a class="nav-link" type="button" data-bs-toggle="tab" data-bs-target="#uiux_design_case_study"> UI/UX Design </a>
                     </li>
                     <li class="nav-item animate-text-from-right">
-                        <button class="nav-link" type="button" data-bs-toggle="tab" data-bs-target="#graphics_design_case_study"> Graphics Design </button>
+                        <a class="nav-link" type="button" data-bs-toggle="tab" data-bs-target="#graphics_design_case_study"> Graphics Design </a>
                     </li>
                     <li class="nav-item animate-text-from-right">
-                        <button class="nav-link" type="button" data-bs-toggle="tab" data-bs-target="#digital_marketing_case_study">
-                            Digital Marketing </button>
+                        <a class="nav-link" type="button" data-bs-toggle="tab" data-bs-target="#digital_marketing_case_study">
+                            Digital Marketing </a>
                     </li>
                 </ul>
                 <div class="tab-content">
@@ -1041,7 +1041,7 @@
                         <div class="d-flex flex-wrap gap-4 align-items-center">
                             <img src="assets/img/testimonial-4-avatar-1.png" alt="image" class="img-fluid w-11 h-11 object-fit-cover rounded-circle">
                             <div>
-                                <h5 class="clr-neutral-90 fs-18 mb-0">Emily Rodriguez</h5>
+                                <p class="clr-neutral-90 fs-18 mb-0">Emily Rodriguez</p>
                                 <span class="fs-14 clr-neutral-80 d-inline-block">Chief Technology Officer</span>
                             </div>
                         </div>
@@ -1055,7 +1055,7 @@
                         <div class="d-flex flex-wrap gap-4 align-items-center">
                             <img src="assets/img/testimonial-4-avatar-2.png" alt="image" class="img-fluid w-11 h-11 object-fit-cover rounded-circle">
                             <div>
-                                <h5 class="clr-neutral-90 fs-18 mb-0">Alex Thompson</h5>
+                                <p class="clr-neutral-90 fs-18 mb-0">Alex Thompson</p>
                                 <span class="fs-14 clr-neutral-80 d-inline-block">Marketing Director</span>
                             </div>
                         </div>
@@ -1069,7 +1069,7 @@
                         <div class="d-flex flex-wrap gap-4 align-items-center">
                             <img src="assets/img/testimonial-4-avatar-3.png" alt="image" class="img-fluid w-11 h-11 object-fit-cover rounded-circle">
                             <div>
-                                <h5 class="clr-neutral-90 fs-18 mb-0">Michael O'Connor</h5>
+                                <p class="clr-neutral-90 fs-18 mb-0">Michael O'Connor</p>
                                 <span class="fs-14 clr-neutral-80 d-inline-block">Chief Executive Officer</span>
                             </div>
                         </div>
@@ -1083,7 +1083,7 @@
                         <div class="d-flex flex-wrap gap-4 align-items-center">
                             <img src="assets/img/testimonial-4-avatar-4.png" alt="image" class="img-fluid w-11 h-11 object-fit-cover rounded-circle">
                             <div>
-                                <h5 class="clr-neutral-90 fs-18 mb-0">Sophia Nguyen</h5>
+                                <p class="clr-neutral-90 fs-18 mb-0">Sophia Nguyen</p>
                                 <span class="fs-14 clr-neutral-80 d-inline-block">UX/UI Designer</span>
                             </div>
                         </div>
@@ -1097,7 +1097,7 @@
                         <div class="d-flex flex-wrap gap-4 align-items-center">
                             <img src="assets/img/testimonial-4-avatar-1.png" alt="image" class="img-fluid w-11 h-11 object-fit-cover rounded-circle">
                             <div>
-                                <h5 class="clr-neutral-90 fs-18 mb-0">Jonathan Parker</h5>
+                                <p class="clr-neutral-90 fs-18 mb-0">Jonathan Parker</p>
                                 <span class="fs-14 clr-neutral-80 d-inline-block">Operations Manager</span>
                             </div>
                         </div>
@@ -1111,7 +1111,7 @@
                         <div class="d-flex flex-wrap gap-4 align-items-center">
                             <img src="assets/img/testimonial-4-avatar-2.png" alt="image" class="img-fluid w-11 h-11 object-fit-cover rounded-circle">
                             <div>
-                                <h5 class="clr-neutral-90 fs-18 mb-0">Benjamin Mitchell</h5>
+                                <p class="clr-neutral-90 fs-18 mb-0">Benjamin Mitchell</p>
                                 <span class="fs-14 clr-neutral-80 d-inline-block">IT Administrator</span>
                             </div>
                         </div>
@@ -1129,7 +1129,7 @@
                         <div class="d-flex flex-wrap gap-4 align-items-center">
                             <img src="assets/img/testimonial-4-avatar-1.png" alt="image" class="img-fluid w-11 h-11 object-fit-cover rounded-circle">
                             <div>
-                                <h5 class="clr-neutral-90 fs-18 mb-0">Xavier Morales</h5>
+                                <p class="clr-neutral-90 fs-18 mb-0">Xavier Morales</p>
                                 <span class="fs-14 clr-neutral-80 d-inline-block">Product Manager</span>
                             </div>
                         </div>
@@ -1143,7 +1143,7 @@
                         <div class="d-flex flex-wrap gap-4 align-items-center">
                             <img src="assets/img/testimonial-4-avatar-2.png" alt="image" class="img-fluid w-11 h-11 object-fit-cover rounded-circle">
                             <div>
-                                <h5 class="clr-neutral-90 fs-18 mb-0">Ethan Mitchell</h5>
+                                <p class="clr-neutral-90 fs-18 mb-0">Ethan Mitchell</p>
                                 <span class="fs-14 clr-neutral-80 d-inline-block">Supply Chain Manager</span>
                             </div>
                         </div>
@@ -1157,7 +1157,7 @@
                         <div class="d-flex flex-wrap gap-4 align-items-center">
                             <img src="assets/img/testimonial-4-avatar-3.png" alt="image" class="img-fluid w-11 h-11 object-fit-cover rounded-circle">
                             <div>
-                                <h5 class="clr-neutral-90 fs-18 mb-0">Lily Crawford </h5>
+                                <p class="clr-neutral-90 fs-18 mb-0">Lily Crawford </p>
                                 <span class="fs-14 clr-neutral-80 d-inline-block">Content Strategist</span>
                             </div>
                         </div>
@@ -1171,7 +1171,7 @@
                         <div class="d-flex flex-wrap gap-4 align-items-center">
                             <img src="assets/img/testimonial-4-avatar-4.png" alt="image" class="img-fluid w-11 h-11 object-fit-cover rounded-circle">
                             <div>
-                                <h5 class="clr-neutral-90 fs-18 mb-0">Samuel Bennett</h5>
+                                <p class="clr-neutral-90 fs-18 mb-0">Samuel Bennett</p>
                                 <span class="fs-14 clr-neutral-80 d-inline-block">Chief Operating Officer</span>
                             </div>
                         </div>
@@ -1185,7 +1185,7 @@
                         <div class="d-flex flex-wrap gap-4 align-items-center">
                             <img src="assets/img/testimonial-4-avatar-1.png" alt="image" class="img-fluid w-11 h-11 object-fit-cover rounded-circle">
                             <div>
-                                <h5 class="clr-neutral-90 fs-18 mb-0">Victoria Rodriguez</h5>
+                                <p class="clr-neutral-90 fs-18 mb-0">Victoria Rodriguez</p>
                                 <span class="fs-14 clr-neutral-80 d-inline-block">Event Coordinator</span>
                             </div>
                         </div>
@@ -1199,7 +1199,7 @@
                         <div class="d-flex flex-wrap gap-4 align-items-center">
                             <img src="assets/img/testimonial-4-avatar-2.png" alt="image" class="img-fluid w-11 h-11 object-fit-cover rounded-circle">
                             <div>
-                                <h5 class="clr-neutral-90 fs-18 mb-0">Dylan Harrison</h5>
+                                <p class="clr-neutral-90 fs-18 mb-0">Dylan Harrison</p>
                                 <span class="fs-14 clr-neutral-80 d-inline-block">Quality Assurance Analyst</span>
                             </div>
                         </div>
@@ -1224,8 +1224,8 @@
                 <div class="col-md-5">
                     <div class="d-flex align-items-center gap-4 flex-wrap">
                         <div class="w-30 subtitle-flush-x subtitle-flush-x--secondary subtitle_line_7"></div>
-                        <h6 class="mb-0 fs-18 clr-secondary-key fw-extrabold animate-text-from-right"> Bytes & Beyond:
-                            The Næstinn Blog Zone </h6>
+                        <p class="mb-0 fs-18 clr-secondary-key fw-extrabold animate-text-from-right"> Bytes & Beyond:
+                            The Næstinn Blog Zone </p>
                     </div>
                 </div>
                 <div class="col-md-6 col-xxl-5">
@@ -1246,10 +1246,10 @@
                         <img src="assets/img/blog-img-1.jpg" alt="image" class="img-fluid h-100 object-fit-cover">
                     </div>
                     <div class="blog-card-1__body">
-                        <h6 class="mb-6 fs-24">
+                        <p class="mb-6 fs-24">
                             <a href="blog-details.html" class="link d-block clr-neutral-90"> Harmonizing Success:
                                 Næstinn's Journey in Crafting Seamless Software Solutions </a>
-                        </h6>
+                        </p>
                         <div class="d-flex align-items-center gap-2">
                             <span class="d-inline-block clr-neutral-90 fs-14 fw-semibold"> March 18, 2024 </span>
                             <span class="d-inline-block w-1 h-1 rounded-circle bg-neutral-90"></span>
@@ -1268,10 +1268,10 @@
                         <img src="assets/img/blog-img-2.jpg" alt="image" class="img-fluid h-100 object-fit-cover">
                     </div>
                     <div class="blog-card-1__body">
-                        <h6 class="mb-6 fs-24">
+                        <p class="mb-6 fs-24">
                             <a href="blog-details.html" class="link d-block clr-neutral-90"> Weaving Web Excellence: A
                                 Dive into Næstinn's Innovative Web Development </a>
-                        </h6>
+                        </p>
                         <div class="d-flex align-items-center gap-2">
                             <span class="d-inline-block clr-neutral-90 fs-14 fw-semibold"> March 16, 2024 </span>
                             <span class="d-inline-block w-1 h-1 rounded-circle bg-neutral-90"></span>
@@ -1290,10 +1290,10 @@
                         <img src="assets/img/blog-img-3.jpg" alt="image" class="img-fluid h-100 object-fit-cover">
                     </div>
                     <div class="blog-card-1__body">
-                        <h6 class="mb-6 fs-24">
+                        <p class="mb-6 fs-24">
                             <a href="blog-details.html" class="link d-block clr-neutral-90"> Unlocking App Magic:
                                 Næstinn's Transformative Approach to Mobile Development </a>
-                        </h6>
+                        </p>
                         <div class="d-flex align-items-center gap-2">
                             <span class="d-inline-block clr-neutral-90 fs-14 fw-semibold"> March 14, 2024 </span>
                             <span class="d-inline-block w-1 h-1 rounded-circle bg-neutral-90"></span>
