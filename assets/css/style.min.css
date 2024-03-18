@@ -30233,7 +30233,8 @@ small {
   left: 18.75rem;
   width: 2rem;
   height: 2rem;
-  border: 1px solid hsl(var(--primary-key));
+  border: 1px solid white;
+  /* border: 1px solid hsl(var(--primary-key)); */
   border-radius: 50%;
   z-index: 9999;
   pointer-events: none;
@@ -30245,7 +30246,8 @@ small {
   left: 18.75rem;
   width: 0.75rem;
   height: 0.75rem;
-  background-color: hsl(var(--primary-key));
+  background-color: #5cd3fa;
+  /* background-color: hsl(var(--primary-key)); */
   border-radius: 50%;
   z-index: 9999;
   pointer-events: none;
@@ -32500,7 +32502,7 @@ html.lenis {
   position: relative;
   isolation: isolate;
 }
-@media (min-width: 1400px) {
+/* @media (min-width: 1400px) {
   .what-todo-section::after {
     content: url(../img/todo-section-shape.webp);
     position: absolute;
@@ -32509,7 +32511,7 @@ html.lenis {
     z-index: -1;
     pointer-events: none;
   }
-}
+} */
 @media (min-width: 1200px) {
   .creative-approach-section {
     border-top: 1px solid hsl(var(--neutral-10));

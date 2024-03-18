@@ -191,6 +191,41 @@
                         <div class="row g-4">
                             <div class="col-sm-6 col-md-4 fadein_bottom_32">
                                 <div class="d-flex flex-column align-items-start justify-content-between rounded-1 bg_back_dark_3 border border-neutral-17 p-4 px-md-6 h-100">
+                                    <p class="mb-10 clr-neutral-92 fw-extrabold fs-1"> 4.8 </p>
+                                    <div class="mt-auto">
+                                        <ul class="list list-row gap-1 mb-4">
+                                            <li>
+                                                <span class="d-inline-block clr-warning-50 fs-14">
+                                                    <i class="bi bi-star-fill"></i>
+                                                </span>
+                                            </li>
+                                            <li>
+                                                <span class="d-inline-block clr-warning-50 fs-14">
+                                                    <i class="bi bi-star-fill"></i>
+                                                </span>
+                                            </li>
+                                            <li>
+                                                <span class="d-inline-block clr-warning-50 fs-14">
+                                                    <i class="bi bi-star-fill"></i>
+                                                </span>
+                                            </li>
+                                            <li>
+                                                <span class="d-inline-block clr-warning-50 fs-14">
+                                                    <i class="bi bi-star-fill"></i>
+                                                </span>
+                                            </li>
+                                            <li>
+                                                <span class="d-inline-block clr-warning-50 fs-14">
+                                                    <i class="bi bi-star-fill"></i>
+                                                </span>
+                                            </li>
+                                        </ul>
+                                        <img src="assets/images/Home/clutch-review.png" alt="image" class="img-fluid">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 col-md-4 fadein_bottom_32">
+                                <div class="d-flex flex-column align-items-start justify-content-between rounded-1 bg_back_dark_3 border border-neutral-17 p-4 px-md-6 h-100">
                                     <p class="mb-10 clr-neutral-92 fw-extrabold fs-1"> 4.2 </p>
                                     <div class="mt-auto">
                                         <ul class="list list-row gap-1 mb-4">
@@ -256,41 +291,6 @@
                                             </li>
                                         </ul>
                                         <img src="assets/img/customer-logo-2.png" alt="image" class="img-fluid">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-sm-6 col-md-4 fadein_bottom_32">
-                                <div class="d-flex flex-column align-items-start justify-content-between rounded-1 bg_back_dark_3 border border-neutral-17 p-4 px-md-6 h-100">
-                                    <p class="mb-10 clr-neutral-92 fw-extrabold fs-1"> 4.8 </p>
-                                    <div class="mt-auto">
-                                        <ul class="list list-row gap-1 mb-4">
-                                            <li>
-                                                <span class="d-inline-block clr-warning-50 fs-14">
-                                                    <i class="bi bi-star-fill"></i>
-                                                </span>
-                                            </li>
-                                            <li>
-                                                <span class="d-inline-block clr-warning-50 fs-14">
-                                                    <i class="bi bi-star-fill"></i>
-                                                </span>
-                                            </li>
-                                            <li>
-                                                <span class="d-inline-block clr-warning-50 fs-14">
-                                                    <i class="bi bi-star-fill"></i>
-                                                </span>
-                                            </li>
-                                            <li>
-                                                <span class="d-inline-block clr-warning-50 fs-14">
-                                                    <i class="bi bi-star-fill"></i>
-                                                </span>
-                                            </li>
-                                            <li>
-                                                <span class="d-inline-block clr-warning-50 fs-14">
-                                                    <i class="bi bi-star-fill"></i>
-                                                </span>
-                                            </li>
-                                        </ul>
-                                        <img src="assets/img/customer-logo-3.png" alt="image" class="img-fluid">
                                     </div>
                                 </div>
                             </div>
@@ -946,7 +946,7 @@
         <div class="row justify-content-center">
             <div class="col-md-10 col-xl-8">
                 <div class="text-center fadeIn_bottom">
-                    <img src="assets/img/integrated-img.png" alt="image" class="img-fluid">
+                    <img src="assets/images//Home/tech-stack-home.png" alt="image" class="img-fluid">
                 </div>
             </div>
         </div>
