@@ -51,7 +51,7 @@
                                     <a href="about-us.php" class="link menu-link"> Company </a>
                                 </li>
                                 <li class="menu-list">
-                                    <a href="" class="link menu-link has-sub"> Our Service </a>
+                                    <a href="" class="link menu-link has-sub">Services</a>
                                     <ul class="list menu-sub">
                                         <li class="menu-sub-list">
                                             <a href="index.php" class="link menu-sub-link gap-4">
@@ -105,10 +105,18 @@
                                     <a href="our-blogs.php" class="link menu-link"> Blogs </a>
                                 </li>
                                 <li class="menu-list">
-                                    <a href="contact-us.php" class="link menu-link"> Contact Us </a>
+                                    <a href="contact-us.php" class="link menu-link">Contact</a>
+                                </li>
+                                <li class="menu-list" data-cursor="Only Employee">
+                                    <a href="erp/login.php" class="link d-inline-flex align-items-center gap-2 py-2 px-3 rounded-1 bg-grad-6 clr-white fw-bold fs-14">
+                                        <span class="d-inline-block ff-3"> ERP-login </span>
+                                        <span class="d-inline-block fs-12">
+                                            <i class="bi bi-arrow-up-right"></i>
+                                        </span>
+                                    </a>
                                 </li>
                             </ul>
-                            <ul>
+                            <!-- <ul>
                                 <li class="menu-list" data-cursor="Only Employee">
                                     <a href="erp/login.php" class="link d-inline-flex align-items-center gap-2 py-2 px-3 rounded-1 bg-grad-6 clr-white fw-bold fs-14">
                                         <span class="d-inline-block ff-3"> ERP Login </span>
@@ -117,7 +125,7 @@
                                         </span>
                                     </a>
                                 </li>
-                            </ul>
+                            </ul> -->
                         </div>
                     </nav>
                 </div>
