@@ -22,9 +22,9 @@
     <!--<meta name="viewport" content="width=device-width, initial-scale=1">-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, maximum-scale=5.0">
 
-    <meta name="allow-search" content="yes" />
-    <meta property="og:locale" content="IT" />
-    <meta property="og:type" content="website" />
+    <meta name="allow-search" content="yes"/>
+    <meta property="og:locale" content="IT"/>
+    <meta property="og:type" content="website"/>
     <meta property="og:title" content="Naestinn Pvt Ltd is a Software Company" />
     <meta property="og:description" content="Naestinn Pvt Ltd is a leading software development and IT consulting company. We provide quality solutions for online businesses using cutting-edge web technologies and platforms." />
     <meta property="og:url" content="https://www.naestinn.com" />
