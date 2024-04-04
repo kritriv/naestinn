@@ -89,6 +89,22 @@
             </div>
         </div>
     </div>
+    <div class="section-space-sm-top">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <div class="text-center fadeIn_bottom" style="translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">
+              <a href="our-blogs.php" class="link d-inline-flex gap-2 align-items-center py-3 px-6 ff-1 gradient-btn-4 clr-white fw-bold rounded">
+                <span class="d-inline-block"> More Post </span>
+                <span class="d-inline-block">
+                  <i class="bi bi-arrow-right"></i>
+                </span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
     <img src="assets/img/blog-section-1-img-1.webp" alt="image"
         class="img-fluid blog-section-1__img blog-section-1__img--1">
     <img src="assets/img/blog-section-1-img-2.webp" alt="image"

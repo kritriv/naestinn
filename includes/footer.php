@@ -193,7 +193,7 @@
                     <h6 class="clr-neutral-90"> Subscribe Our Newsletter 👍 </h6>
                     <div
                         class="newsletter-1 d-inline-block w-100 max-text-60 mx-auto position-relative z-1 overflow-hidden rounded-pill">
-                        <div class="d-flex p-3 bg-neutral-10 rounded ">
+                        <div class="d-flex p-3 bg_back_dark_3  rounded ">
                             <input type="text" class="form-control newsletter-1__input bg-transparent clr-neutral-60"
                                 placeholder="Enter  Email Address">
                             <a href="#"
@@ -202,30 +202,60 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6 col-xl-3">
+                <div class="col-md-6 col-xl-7">
                     <h6 class="fs-18 clr-neutral-90"> Social Media </h6>
                     <ul class="list list-row gap-4 flex-wrap">
                         <li>
-                            <a href="https://twitter.com"
-                                class="link d-grid place-content-center w-12 h-12 bg-neutral-10 :bg-grad-6 rounded-circle clr-white fs-20">
-                                <i class="bi bi-twitter"></i>
+                            <a href="https://linkedin.com/company/naestinn"
+                                class="link d-grid place-content-center w-12 h-12 bg_back_dark_3  :bg-grad-6 rounded-circle clr-white fs-20">
+                                <i class="bi bi-linkedin"></i>
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.facebook.com"
-                                class="link d-grid place-content-center w-12 h-12 bg-neutral-10 :bg-grad-6 rounded-circle clr-white fs-20">
+                            <a href="https://instagram.com/naestinn"
+                                class="link d-grid place-content-center w-12 h-12 bg_back_dark_3  :bg-grad-6 rounded-circle clr-white fs-20">
+                                <i class="bi bi-instagram"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.facebook.com/naestinn"
+                                class="link d-grid place-content-center w-12 h-12 bg_back_dark_3  :bg-grad-6 rounded-circle clr-white fs-20">
                                 <i class="bi bi-facebook"></i>
                             </a>
                         </li>
                         <li>
-                            <a href="https://dribbble.com/"
-                                class="link d-grid place-content-center w-12 h-12 bg-neutral-10 :bg-grad-6 rounded-circle clr-white fs-20">
+                            <a href="https://youtube.com/@naestinn"
+                                class="link d-grid place-content-center w-12 h-12 bg_back_dark_3  :bg-grad-6 rounded-circle clr-white fs-20">
+                                <i class="bi bi-youtube"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://twitter.com/naestinn"
+                                class="link d-grid place-content-center w-12 h-12 bg_back_dark_3  :bg-grad-6 rounded-circle clr-white fs-20">
+                                <i class="bi bi-twitter"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/naestinn"
+                                class="link d-grid place-content-center w-12 h-12 bg_back_dark_3  :bg-grad-6 rounded-circle clr-white fs-20">
+                                <i class="bi bi-github"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://discord.com/naestinn"
+                                class="link d-grid place-content-center w-12 h-12 bg_back_dark_3  :bg-grad-6 rounded-circle clr-white fs-20">
+                                <i class="bi bi-discord"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://dribbble.com/naestinn"
+                                class="link d-grid place-content-center w-12 h-12 bg_back_dark_3  :bg-grad-6 rounded-circle clr-white fs-20">
                                 <i class="bi bi-dribbble"></i>
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.behance.net/"
-                                class="link d-grid place-content-center w-12 h-12 bg-neutral-10 :bg-grad-6 rounded-circle clr-white fs-20">
+                            <a href="https://www.behance.net/naestinn"
+                                class="link d-grid place-content-center w-12 h-12 bg_back_dark_3  :bg-grad-6 rounded-circle clr-white fs-20">
                                 <i class="bi bi-behance"></i>
                             </a>
                         </li>
