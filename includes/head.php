@@ -7,7 +7,7 @@
     <title><?php if (isset($title)) {
         echo $title;
     } else {
-        echo "Næstinn Pvt Ltd | Best Software Development Company";
+        echo "Næstinn | Best Software Development Company";
     } ?></title>
 
     <link rel="canonical"
@@ -19,7 +19,6 @@
     
     <!-- ------- Meta Tags ------------- -->
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
-    <!--<meta name="viewport" content="width=device-width, initial-scale=1">-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, maximum-scale=5.0">
 
     <meta name="description"

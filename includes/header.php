@@ -1,4 +1,4 @@
-<?php include_once 'components/head.php'; ?>
+<?php include_once 'includes/head.php'; ?>
 
 <body class="bg_back_dark_2">
 

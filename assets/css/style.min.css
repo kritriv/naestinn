@@ -33073,7 +33073,7 @@ html.lenis {
 }
 .footer-6__bottom {
   border: 1px solid rgba(255, 255, 255, 0.1);
-  background: rgba(174, 174, 174, 0.1);
+  background: rgba(174, 174, 174, 0.03);
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
   backdrop-filter: blur(5px);
   -webkit-backdrop-filter: blur(5px);
@@ -37983,6 +37983,11 @@ button.bg-grad-6 {
 button.bg-grad-6:hover {
   background-position: right;
   transition: all 0.4s ease-in-out;
+}
+.\:bg-grad-6:hover {
+  background: linear-gradient(
+    84deg, #8a62fb 4.85%, #00b8d9 95.15%
+  );
 }
 .\:bg-grad-4:hover {
   background: linear-gradient(
