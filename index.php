@@ -37,8 +37,8 @@
                         <a href="our-services.php" data-cursor="Explore Us"><img
                                 src="assets/images/Home/hero_banner_img.webp" alt="Trulli"
                                 class="img-fluid rounded-4 border border-8x border-outline border-opacity-2"></a>
-                        <img src="assets/images/Home/hero-cartoon2.webp" alt="image"
-                            class="img-fluid d-none d-lg-block hero-6__el hero-6__el-1" width="35%">
+                        <img src="assets/images/Home/hero-cartoon.png" alt="image"
+                            class="img-fluid d-none d-lg-block hero-6__el hero-6__el-1" width="25%">
                         <img src="assets/images/Home/hero-el-1.png" alt="image"
                             class="img-fluid d-none d-lg-block hero-6__el hero-6__el-2">
                     </div>
@@ -154,8 +154,6 @@
                         <div class="todo-img">
                             <a href="#"><img src="assets/images/Services/Website-development-service-home.png"
                                     alt="image" class="img-fluid rounded-1 parallax-image "></a>
-                            <!-- <img src="assets/img/todo-img-1.png" alt="image" class="img-fluid todo-img__1"> -->
-                            <!-- <img src="assets/img/todo-img-2.png" alt="image" class="img-fluid todo-img__2"> -->
                         </div>
                     </div>
                     <div id="applicationdevelopment">
@@ -168,8 +166,6 @@
                         <div class="todo-img">
                             <a href="#"><img src="assets/images/Services/Website-development-service-home.png"
                                     alt="image" class="img-fluid rounded-1 parallax-image "></a>
-                            <!-- <img src="assets/img/todo-img-1.png" alt="image" class="img-fluid todo-img__1"> -->
-                            <!-- <img src="assets/img/todo-img-2.png" alt="image" class="img-fluid todo-img__2"> -->
                         </div>
                     </div>
                     <div id="webdevelopment">
@@ -182,8 +178,6 @@
                         <div class="todo-img">
                             <a href="#"><img src="assets/images/Services/Website-development-service-home.png"
                                     alt="image" class="img-fluid rounded-1 parallax-image "></a>
-                            <!-- <img src="assets/img/todo-img-1.png" alt="image" class="img-fluid todo-img__1"> -->
-                            <!-- <img src="assets/img/todo-img-2.png" alt="image" class="img-fluid todo-img__2"> -->
                         </div>
                     </div>
                 </div>

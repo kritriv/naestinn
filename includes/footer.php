@@ -153,7 +153,7 @@
                                             GoodFirm </a>
                                     </li>
                                     <li>
-                                        <a href="https://www.trustpilot.com//"
+                                        <a href="https://www.trustpilot.com/"
                                             class="link d-inline-block clr-neutral-80 :clr-secondary-key animate-text-from-bottom">
                                             Trustpilot </a>
                                     </li>

@@ -26,7 +26,7 @@
                         <span class="d-block fw-bold clr-primary-key"> Software Development </span>
                     </div>
                     <div class="blog-card-1__img">
-                        <img src="assets/img/blog-img-1.jpg" alt="image" class="img-fluid h-100 object-fit-cover">
+                        <img src="assets/images/Blogs/blog-home-img-01.webp" alt="image" class="img-fluid h-100 object-fit-cover">
                     </div>
                     <div class="blog-card-1__body">
                         <p class="mb-6 fs-24">
@@ -43,13 +43,13 @@
             </div>
             <div class="col-md-6 col-lg-4" data-cursor="Read Blog">
                 <div
-                    class="blog-card-1 top-shadow px-6 py-10 position-relative z-1 overflow-hidden rounded-3 bg_back_dark_3 bg-opacity-6 fadein_bottom_13">
+                    class="blog-card-1 top-shadow px-6 py-10 position-relative z-1 overflow-hidden rounded-3  bg-opacity-1 fadein_bottom_13">
                     <div class="d-flex align-items-center gap-2">
                         <div class="w-12 h-2px bg-primary-key"></div>
                         <span class="d-block fw-bold clr-primary-key"> Web Development </span>
                     </div>
                     <div class="blog-card-1__img">
-                        <img src="assets/img/blog-img-2.jpg" alt="image" class="img-fluid h-100 object-fit-cover">
+                        <img src="assets/images/Blogs/blog-home-img-02.webp" alt="image" class="img-fluid h-100 object-fit-cover">
                     </div>
                     <div class="blog-card-1__body">
                         <p class="mb-6 fs-24">
@@ -72,7 +72,7 @@
                         <span class="d-block fw-bold clr-primary-key"> App Development </span>
                     </div>
                     <div class="blog-card-1__img">
-                        <img src="assets/img/blog-img-3.jpg" alt="image" class="img-fluid h-100 object-fit-cover">
+                        <img src="assets/images/Blogs/blog-home-img-03.webp" alt="image" class="img-fluid h-100 object-fit-cover">
                     </div>
                     <div class="blog-card-1__body">
                         <p class="mb-6 fs-24">

@@ -60,7 +60,7 @@
                                         creating user-centric and visually appealing sites. </p>
 
                                     <a href="featured.php"
-                                        class="link d-inline-block py-3 px-6 ff-1 bg-grad-4 clr-white fw-bold rounded fadeIn_bottom">
+                                        class="link d-inline-block py-3 px-6 ff-1 bg-grad-6 clr-white fw-bold rounded fadeIn_bottom">
                                         Explore </a>
                                 </div>
                                 <div class="col-lg-6">
@@ -86,7 +86,7 @@
 
                                     </div>
                                     <a href="featured.php"
-                                        class="link d-inline-block py-3 px-6 ff-1 bg-grad-4 clr-white fw-bold rounded">
+                                        class="link d-inline-block py-3 px-6 ff-1 bg-grad-6 clr-white fw-bold rounded">
                                         Explore </a>
                                 </div>
                                 <div class="col-lg-6">
@@ -111,7 +111,7 @@
                                     <div class="d-flex align-items-center gap-4 mb-12">
                                     </div>
                                     <a href="featured.php"
-                                        class="link d-inline-block py-3 px-6 ff-1 bg-grad-4 clr-white fw-bold rounded">
+                                        class="link d-inline-block py-3 px-6 ff-1 bg-grad-6 clr-white fw-bold rounded">
                                         Explore </a>
                                 </div>
                                 <div class="col-lg-6">
@@ -137,7 +137,7 @@
 
                                     </div>
                                     <a href="featured.php"
-                                        class="link d-inline-block py-3 px-6 ff-1 bg-grad-4 clr-white fw-bold rounded">
+                                        class="link d-inline-block py-3 px-6 ff-1 bg-grad-6 clr-white fw-bold rounded">
                                         Explore </a>
                                 </div>
                                 <div class="col-lg-6">
@@ -163,7 +163,7 @@
 
                                     </div>
                                     <a href="featured.php"
-                                        class="link d-inline-block py-3 px-6 ff-1 bg-grad-4 clr-white fw-bold rounded">
+                                        class="link d-inline-block py-3 px-6 ff-1 bg-grad-6 clr-white fw-bold rounded">
                                         Explore </a>
                                 </div>
                                 <div class="col-lg-6">
@@ -189,7 +189,7 @@
 
                                     </div>
                                     <a href="featured.php"
-                                        class="link d-inline-block py-3 px-6 ff-1 bg-grad-4 clr-white fw-bold rounded">
+                                        class="link d-inline-block py-3 px-6 ff-1 bg-grad-6 clr-white fw-bold rounded">
                                         Explore </a>
                                 </div>
                                 <div class="col-lg-6">
