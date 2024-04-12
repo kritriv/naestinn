@@ -26,7 +26,7 @@
                 <div class="col-xl-7">
                     <div class="ps-xl-10">
                         <div class="row g-4 gy-5">
-                            <div class="col-md-3 col-sm-6 col-xl-4">
+                            <div class=" col-xl-4 col-md-3 col-sm-12 col-6">
                                 <p class="mb-6 fs-18 clr-neutral-90 animate-text-from-bottom"> About </p>
                                 <ul class="list gap-1">
                                     <li>
@@ -59,7 +59,7 @@
                                 </ul>
 
                             </div>
-                            <div class="col-md-3 col-sm-6 col-xl-4">
+                            <div class=" col-xl-4 col-md-3 col-sm-12 col-6">
                                 <p class="mb-6 fs-18 clr-neutral-90 animate-text-from-bottom"> Services </p>
                                 <ul class="list gap-1">
                                     <li>
@@ -94,7 +94,7 @@
                                     </li>
                                 </ul>
                             </div>
-                            <div class="col-md-3 col-sm-6 col-xl-4">
+                            <div class=" col-xl-4 col-md-3 col-sm-12 col-6">
                                 <p class="mb-6 fs-18 clr-neutral-90 animate-text-from-bottom"> Policies </p>
                                 <ul class="list gap-1">
                                     <li>
@@ -114,7 +114,7 @@
                                     </li>
                                 </ul>
                             </div>
-                            <div class="col-md-3 col-sm-6 col-xl-4">
+                            <div class=" col-xl-4 col-md-3 col-sm-12 col-6">
                                 <p class="mb-6 fs-18 clr-neutral-90 animate-text-from-bottom"> Contact Us </p>
                                 <ul class="list gap-1">
                                     <li>
@@ -134,7 +134,7 @@
                                     </li>
                                 </ul>
                             </div>
-                            <div class="col-md-3 col-sm-6 col-xl-4">
+                            <div class=" col-xl-4 col-md-3 col-sm-12 col-6">
                                 <p class="mb-6 fs-18 clr-neutral-90 animate-text-from-bottom"> Review us</p>
                                 <ul class="list gap-1">
                                     <li>
@@ -159,7 +159,7 @@
                                     </li>
                                 </ul>
                             </div>
-                            <div class="col-md-3 col-sm-6 col-xl-4">
+                            <div class=" col-xl-4 col-md-3 col-sm-12 col-6">
                                 <p class="mb-6 fs-18 clr-neutral-90 animate-text-from-bottom"> Career </p>
                                 <ul class="list gap-1">
                                     <li>
@@ -190,7 +190,7 @@
         <div class="container">
             <div class="row g-4">
                 <div class="col-md-6 col-xl-5 ">
-                    <h6 class="clr-neutral-90"> Subscribe Our Newsletter 👍 </h6>
+                    <p class="clr-neutral-90 fs-18"> Subscribe Our Newsletter 👍 </p>
                     <div
                         class="newsletter-1 d-inline-block w-100 max-text-60 mx-auto position-relative z-1 overflow-hidden rounded-pill">
                         <div class="d-flex p-3 bg_back_dark_3  rounded ">
@@ -203,7 +203,7 @@
                     </div>
                 </div>
                 <div class="col-md-6 col-xl-7">
-                    <h6 class="fs-18 clr-neutral-90"> Social Media </h6>
+                    <p class="fs-18 clr-neutral-90"> Social Media </p>
                     <ul class="list list-row gap-4 flex-wrap">
                         <li>
                             <a href="https://linkedin.com/company/naestinn"
