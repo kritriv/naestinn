@@ -31483,7 +31483,7 @@ html.lenis {
   padding-block-start: clamp(3.75rem, 6.5vw + 1rem, 7.5rem);
 }
 .section-space-sm-top {
-  padding-block-start: clamp(2rem, 3.25vw + 1rem, 3.75rem);
+  padding-block-start: clamp(2rem, 3.25vw + 1rem, 1rem);
 }
 .section-space-xsm-top {
   padding-block-start: clamp(1rem, 1.68vw + 1rem, 2rem);
@@ -34279,7 +34279,7 @@ html.lenis {
   isolation: isolate;
   padding: 1.25rem;
   border: 1px solid rgba(72, 69, 78, 0.5);
-  background-color: rgba(16, 20, 21, 0.5);
+  /* background-color: rgba(16, 20, 21, 0.5); */
   border-radius: 0.75rem;
 }
 .ai-template-card:hover::after {
@@ -35329,7 +35329,7 @@ html.lenis {
 .key-feature-card:hover {
   border-radius: 24px;
   border: 1px solid rgba(72, 69, 78, 0.5);
-  background: rgba(16, 20, 21, 0.5);
+  background: var(--bg-black-500);
 }
 .key-feature-card__img {
   height: 140px;
@@ -35385,12 +35385,12 @@ html.lenis {
   inset-inline-start: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(
+  /* background: linear-gradient(
     90deg,
     #000 0,
     rgba(0, 0, 0, 0) 48.35%,
     #000 100.91%
-  );
+  ); */
 }
 .how-work-section-2 {
   position: relative;
@@ -35434,13 +35434,13 @@ html.lenis {
   display: none;
 }
 .how-work-accordion .accordion-item .accordion-button[aria-expanded="true"] i {
-  background-color: rgba(86, 26, 255, 0.48);
+  background-color: #1AA8DF;
 }
 .how-work-accordion .accordion-item .accordion-button i {
   width: 28px;
   height: 28px;
-  background-color: rgba(86, 26, 255, 0.08);
-  border: 1.167px solid rgba(86, 26, 255, 0.48);
+  /* background-color: rgba(86, 26, 255, 0.08); */
+  border: 1.167px solid #1AA8DF;
   border-radius: 50%;
   color: #c9c5d0;
   display: flex;
@@ -35525,7 +35525,7 @@ html.lenis {
 }
 @media (min-width: 1400px) {
   .breadcrumb-section {
-    padding-block-start: 14.375rem;
+    padding-block-start: 8rem;
   }
 }
 .breadcrumb-section .breadcrumb-shape {

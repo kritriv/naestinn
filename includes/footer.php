@@ -78,14 +78,14 @@
                                             Software Development</a>
                                     </li>
                                     <li>
-                                        <a href="services/uiux-design.php"
+                                        <a href="services/aiml-development.php"
                                             class="link d-inline-block clr-neutral-80 :clr-secondary-key animate-text-from-bottom">
-                                            UI UX Design</a>
+                                            AI & ML</a>
                                     </li>
                                     <li>
-                                        <a href="services/graphices-design.php"
+                                        <a href="services/designing.php"
                                             class="link d-inline-block clr-neutral-80 :clr-secondary-key animate-text-from-bottom">
-                                            Graphices Design</a>
+                                            Designing</a>
                                     </li>
                                     <li>
                                         <a href="services/digital-marketing.php"
