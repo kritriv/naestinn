@@ -1,0 +1,6 @@
+user-Agent: *
+Allow: /sitemap/
+Allow: /*
+Allow: /
+
+Sitemap: https://www.naestinn.com/sitemap.xml

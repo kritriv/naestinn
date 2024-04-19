@@ -1,4 +1,6 @@
-<?php include_once 'includes/header.php'; ?>
+<?php $current_page_url = "https://www.tarcontainer.com/our-blogs";
+$title = 'Næstinn | Our Blogs';
+include_once 'includes/header.php'; ?>
 
 <section class="breadcrumb-section">
     <div class="container">

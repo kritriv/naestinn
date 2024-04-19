@@ -1,4 +1,6 @@
-<?php include_once 'includes/header.php'; ?>
+<?php $current_page_url = "https://www.tarcontainer.com";
+$title = 'Næstinn | Best Software Development Company';
+include_once 'includes/header.php'; ?>
 
 <!-- /Hero Section Start -->
 <div class="hero-6 overflow-hidden">

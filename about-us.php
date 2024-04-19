@@ -1,4 +1,6 @@
-<?php include_once 'includes/header.php'; ?>
+<?php $current_page_url = "https://www.tarcontainer.com/about-us";
+$title = 'Næstinn | About Us';
+include_once 'includes/header.php'; ?>
 
 <!-- About Section 4 -->
 <section class="about-section-4">

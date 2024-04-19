@@ -42,7 +42,7 @@
     <meta property="og:description" content="Naestinn Pvt Ltd is a leading software development and IT consulting company. We provide quality solutions for online businesses using cutting-edge web technologies and platforms." />
     <meta property="og:url" content="https://www.naestinn.com" />
     <meta property="og:site_name" content="Naestinn Pvt Ltd" />
-    <meta property="og:image" content="https://www.naestinn.com/public/assets/images/naestinn.png" />
+    <meta property="og:image" content="https://www.naestinn.com/assets/images/naestinn.png" />
     <meta name="twitter:card" content="summary_large_image" />
 
     <!-- Fav Icon -->
