@@ -29511,13 +29511,7 @@ small {
 }
 .hero-2-slider-thumb .swiper-slide-thumb-active .hero-2-slider-thumb__img {
   background: linear-gradient(black, #000) padding-box,
-    linear-gradient(
-        270deg,
-        #4d89f9 1.21%,
-        #704ee7 21.78%,
-        #e8428c 71.65%,
-        #ed6d4b 100%
-      )
+  linear-gradient(84deg, #8a62fb 4.85%, #00b8d9 95.15%)
       border-box;
   border-radius: 0.5rem;
   border: 1px solid transparent;

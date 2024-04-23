@@ -1,4 +1,4 @@
-<?php $current_page_url = "https://www.tarcontainer.com/about-us";
+<?php $current_page_url = "https://www.naestinn.com/about-us";
 $title = 'Næstinn | About Us';
 include_once 'includes/header.php'; ?>
 

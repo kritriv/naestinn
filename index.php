@@ -1,4 +1,4 @@
-<?php $current_page_url = "https://www.tarcontainer.com";
+<?php $current_page_url = "https://www.naestinn.com";
 $title = 'Næstinn | Best Software Development Company';
 include_once 'includes/header.php'; ?>
 
@@ -154,7 +154,7 @@ include_once 'includes/header.php'; ?>
                                 and extraordinary.</p>
                         </div>
                         <div class="todo-img">
-                            <a href="/services/software-development.php"><img
+                            <a href="software-development.php"><img
                                     src="assets/images/Services/software-development-service-home.webp"
                                     alt="Software Development" class="img-fluid rounded-1 parallax-image "></a>
                         </div>
@@ -167,7 +167,7 @@ include_once 'includes/header.php'; ?>
                                 lasting impression. </p>
                         </div>
                         <div class="todo-img">
-                            <a href="/services/app-development.php"><img
+                            <a href="app-development.php"><img
                                     src="assets/images/Services/app-development-service-home.webp"
                                     alt="Application Development" class="img-fluid rounded-1 parallax-image "></a>
                         </div>
@@ -180,7 +180,7 @@ include_once 'includes/header.php'; ?>
                                 tailored just for you. </p>
                         </div>
                         <div class="todo-img">
-                            <a href="/services/website-development.php"><img
+                            <a href="website-development.php"><img
                                     src="assets/images/Services/website-development-service-home.webp"
                                     alt=" Web Development" class="img-fluid rounded-1 parallax-image "></a>
                         </div>
@@ -193,7 +193,7 @@ include_once 'includes/header.php'; ?>
                                 empower your path to intelligence and innovation. </p>
                         </div>
                         <div class="todo-img">
-                            <a href="/services/aiml-development.php"><img
+                            <a href="aiml-development.php"><img
                                     src="assets/images/Services/aiml-service-home.webp" alt="AI & ML"
                                     class="img-fluid rounded-1 parallax-image "></a>
                         </div>
@@ -206,7 +206,7 @@ include_once 'includes/header.php'; ?>
                                 boundaries, we craft visual experiences that captivate and inspire. </p>
                         </div>
                         <div class="todo-img">
-                            <a href="/services/desiging.php"><img
+                            <a href="desiging.php"><img
                                     src="assets/images/Services/designing-service-home.webp" alt="Designing"
                                     class="img-fluid rounded-1 parallax-image "></a>
                         </div>
@@ -219,7 +219,7 @@ include_once 'includes/header.php'; ?>
                                 where innovation meets real, measurable success. </p>
                         </div>
                         <div class="todo-img">
-                            <a href="/services/digital-marketing.php"><img
+                            <a href="digital-marketing.php"><img
                                     src="assets/images/Services/digital-marketing-service-home.webp"
                                     alt="Digital Marketing" class="img-fluid rounded-1 parallax-image "></a>
                         </div>
