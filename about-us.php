@@ -25,16 +25,11 @@ include_once 'includes/header.php'; ?>
         </div> -->
             </div>
         </div>
-        <img src="assets/img/about-section-4-shape-top.png" alt="image"
-            class="img-fluid about-section-4-shape about-section-4-shape-top">
-        <img src="assets/img/about-section-4-shape-left.png" alt="image"
-            class="img-fluid about-section-4-shape about-section-4-shape-left">
-        <img src="assets/img/about-section-4-shape-right.png" alt="image"
-            class="img-fluid about-section-4-shape about-section-4-shape-right">
-        <img src="assets/img/about-section-4-shape-line-left.png" alt="image"
-            class="img-fluid about-section-4-shape about-section-4-shape-line-left">
-        <img src="assets/img/about-section-4-shape-line-right.png" alt="image"
-            class="img-fluid about-section-4-shape about-section-4-shape-line-right">
+        <img src="assets/img/about-section-4-shape-top.png" alt="image" class="img-fluid about-section-4-shape about-section-4-shape-top">
+        <img src="assets/img/about-section-4-shape-left.png" alt="image" class="img-fluid about-section-4-shape about-section-4-shape-left">
+        <img src="assets/img/about-section-4-shape-right.png" alt="image" class="img-fluid about-section-4-shape about-section-4-shape-right">
+        <img src="assets/img/about-section-4-shape-line-left.png" alt="image" class="img-fluid about-section-4-shape about-section-4-shape-line-left">
+        <img src="assets/img/about-section-4-shape-line-right.png" alt="image" class="img-fluid about-section-4-shape about-section-4-shape-line-right">
 </section>
 <!-- About Section 4 -->
 
@@ -43,7 +38,7 @@ include_once 'includes/header.php'; ?>
         <div class="p-4 p-md-6 py-xxl-10 bg_back_dark_3 border border-neutral-17 rounded-4">
             <div class="row gy-4 align-items-center">
                 <div class="col-lg-6">
-                    <img src="assets/img/use-case-main.png" alt="image" class="img-fluid">
+                    <img src="assets/images/about/about-us.webp" alt="image" class="img-fluid">
                 </div>
                 <div class="col-lg-6">
                     <span class="py-2 px-3 bg-grad-6 clr-white fw-bold fs-12 rounded-2">Næst Innovation </span>
@@ -56,15 +51,13 @@ include_once 'includes/header.php'; ?>
                         possibilities together.</p>
                     <ul class="list flex-wrap list-row gap-6 mt-10">
                         <li class="d-flex gap-3 align-items-center">
-                            <span
-                                class="w-6 h-6 bg-neutral-24 rounded-circle clr-neutral-80 d-inline-flex justify-content-center align-items-center fs-18 flex-shrink-0">
+                            <span class="w-6 h-6 bg-neutral-24 rounded-circle clr-neutral-80 d-inline-flex justify-content-center align-items-center fs-18 flex-shrink-0">
                                 <i class="bi bi-check"></i>
                             </span>
                             <span class="fw-semibold clr-neutral-80 flex-grow-1">Software Forge</span>
                         </li>
                         <li class="d-flex gap-3 align-items-center">
-                            <span
-                                class="w-6 h-6 bg-neutral-24 rounded-circle clr-neutral-80 d-inline-flex justify-content-center align-items-center fs-18 flex-shrink-0">
+                            <span class="w-6 h-6 bg-neutral-24 rounded-circle clr-neutral-80 d-inline-flex justify-content-center align-items-center fs-18 flex-shrink-0">
                                 <i class="bi bi-check"></i>
                             </span>
                             <span class="fw-semibold clr-neutral-80 flex-grow-1">Market Masters</span>
@@ -164,8 +157,7 @@ include_once 'includes/header.php'; ?>
             <div class="row">
                 <div class="col-lg-12">
                     <div class="d-flex align-items-center gap-4">
-                        <div
-                            class="w-14 h-14 bg-grad-6 clr-neutral-90 rounded-circle d-flex align-items-center justify-content-center fs-24 bg-opacity-2">
+                        <div class="w-14 h-14 bg-grad-6 clr-neutral-90 rounded-circle d-flex align-items-center justify-content-center fs-24 bg-opacity-2">
                             <i class="bi bi-gear"></i>
                         </div>
                         <h3 class="h4 fw-bold mb-0 clr-neutral-90">Mission & Vision</h3>
@@ -189,13 +181,11 @@ include_once 'includes/header.php'; ?>
                         limitless growth and prosperity.</p>
                 </div>
                 <div class="col-xl-6">
-                    <img src="assets/img/ai-mission.png" alt="image" class="img-fluid">
+                    <img src="assets/images/about/our-mission-vision.webp" alt="image" class="img-fluid">
                 </div>
             </div>
-            <img src="assets/img/mission-line-top.png" alt="image"
-                class="img-fluid mission-shape-line mission-shape-line-top">
-            <img src="assets/img/mission-line-right.png" alt="image"
-                class="img-fluid mission-shape-line mission-shape-line-right">
+            <img src="assets/img/mission-line-top.png" alt="image" class="img-fluid mission-shape-line mission-shape-line-top">
+            <img src="assets/img/mission-line-right.png" alt="image" class="img-fluid mission-shape-line mission-shape-line-right">
         </div>
     </div>
     <img src="assets/img/mission-shape-circle.png" alt="image" class="img-fluid mission-shape-circle">
@@ -208,8 +198,7 @@ include_once 'includes/header.php'; ?>
             <div class="row">
                 <div class="col-lg-12">
                     <div class="d-flex align-items-center gap-4">
-                        <div
-                            class="w-14 h-14 bg-grad-6 clr-neutral-90  rounded-circle d-flex align-items-center justify-content-center  fs-24 bg-opacity-2">
+                        <div class="w-14 h-14 bg-grad-6 clr-neutral-90  rounded-circle d-flex align-items-center justify-content-center  fs-24 bg-opacity-2">
                             <i class="bi bi-gem"></i>
                         </div>
                         <h3 class="h4 fw-bold mb-0 pe-3 clr-neutral-90">Key Features</h3>
@@ -286,8 +275,7 @@ include_once 'includes/header.php'; ?>
             <div class="row">
                 <div class="col-lg-12">
                     <div class="d-flex align-items-center justify-content-center gap-4">
-                        <div
-                            class="w-14 h-14 bg-grad-6 clr-neutral-90  rounded-circle d-flex align-items-center justify-content-center fs-24 bg-opacity-2">
+                        <div class="w-14 h-14 bg-grad-6 clr-neutral-90  rounded-circle d-flex align-items-center justify-content-center fs-24 bg-opacity-2">
                             <i class="bi bi-people-fill"></i>
                         </div>
                         <h3 class="clr-neutral-90 h4 fw-bold mb-0">Team Members</h3>
@@ -298,15 +286,14 @@ include_once 'includes/header.php'; ?>
         <div class="team-section-wrapper">
             <div class="row">
                 <div class="col-lg-12">
-                    <div class="scroller-x mb-5 dark-overlay" data-direction="right" data-speed="slow"
-                        data-animated="true">
+                    <div class="scroller-x mb-5 dark-overlay" data-direction="right" data-speed="slow" data-animated="true">
                         <ul class="list list-row gap-5 scroller-x__list">
                             <li>
                                 <div class="team-card rounded-3 py-12 px-6 text-center">
                                     <img src="assets/img/team-1.png" alt="image" class="img-fluid">
                                     <h5 class="clr-neutral-90 fs-18 mb-1 mt-5">Matheo Shena</h5>
                                     <span class="clr-neutral-80 fs-12">UI & UX Designer</span>
-                                    
+
                                 </div>
                             </li>
                             <li>
@@ -314,7 +301,7 @@ include_once 'includes/header.php'; ?>
                                     <img src="assets/img/team-2.png" alt="image" class="img-fluid">
                                     <h5 class="fs-18 mb-1 mt-5 clr-neutral-90">Bessie Cooper</h5>
                                     <span class="fs-12 clr-neutral-80">UI & UX Designer</span>
-                                    
+
                                 </div>
                             </li>
                             <li>
@@ -340,15 +327,14 @@ include_once 'includes/header.php'; ?>
                             </li>
                         </ul>
                     </div>
-                    <div class="scroller-x mb-4 dark-overlay" data-direction="left" data-speed="slow"
-                        data-animated="true">
+                    <div class="scroller-x mb-4 dark-overlay" data-direction="left" data-speed="slow" data-animated="true">
                         <ul class="list list-row gap-5 scroller-x__list">
                             <li>
                                 <div class="team-card rounded-3 py-12 px-6 text-center">
                                     <img src="assets/img/team-1.png" alt="image" class="img-fluid">
                                     <h5 class="clr-neutral-90 fs-18 mb-1 mt-5">Matheo Shena</h5>
                                     <span class="clr-neutral-80 fs-12">UI & UX Designer</span>
-                                    
+
                                 </div>
                             </li>
                             <li>
@@ -356,7 +342,7 @@ include_once 'includes/header.php'; ?>
                                     <img src="assets/img/team-2.png" alt="image" class="img-fluid">
                                     <h5 class="fs-18 mb-1 mt-5 clr-neutral-90">Bessie Cooper</h5>
                                     <span class="fs-12 clr-neutral-80">UI & UX Designer</span>
-                                    
+
                                 </div>
                             </li>
                             <li>
@@ -364,7 +350,7 @@ include_once 'includes/header.php'; ?>
                                     <img src="assets/img/team-3.png" alt="image" class="img-fluid">
                                     <h5 class="clr-neutral-90 fs-18 mb-1 mt-5">Jerome Bell</h5>
                                     <span class="clr-neutral-80 fs-12">UI & UX Designer</span>
-                                    
+
                                 </div>
                             </li>
                             <li>
@@ -372,7 +358,7 @@ include_once 'includes/header.php'; ?>
                                     <img src="assets/img/team-4.png" alt="image" class="img-fluid">
                                     <h5 class="clr-neutral-90 fs-18 mb-1 mt-5">Guy Hawkins</h5>
                                     <span class="clr-neutral-80 fs-12">UI & UX Designer</span>
-                                    
+
                                 </div>
                             </li>
                             <li>
@@ -380,7 +366,7 @@ include_once 'includes/header.php'; ?>
                                     <img src="assets/img/team-1.png" alt="image" class="img-fluid">
                                     <h5 class="clr-neutral-90 fs-18 mb-1 mt-5">Matheo Shena</h5>
                                     <span class="clr-neutral-80 fs-12">UI & UX Designer</span>
-                                    
+
                                 </div>
                             </li>
                         </ul>
@@ -400,8 +386,7 @@ include_once 'includes/header.php'; ?>
             <div class="row">
                 <div class="col-lg-12">
                     <div class="d-flex align-items-center gap-4">
-                        <div
-                            class="w-14 h-14 bg-grad-6 clr-neutral-90 rounded-circle d-flex align-items-center justify-content-center fs-24 bg-opacity-2">
+                        <div class="w-14 h-14 bg-grad-6 clr-neutral-90 rounded-circle d-flex align-items-center justify-content-center fs-24 bg-opacity-2">
                             <i class="bi bi-gem"></i>
                         </div>
                         <h3 class="clr-neutral-90 h4 fw-bold mb-0">Our Workflow</h3>
@@ -416,8 +401,7 @@ include_once 'includes/header.php'; ?>
                     <div class="accordion how-work-accordion" id="howWorkAccordion">
                         <div class="accordion-item">
                             <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#c-1" aria-expanded="false" aria-controls="c-1">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#c-1" aria-expanded="false" aria-controls="c-1">
                                     <i class="bi bi-check2"></i> Consultation & Analysis </button>
                             </h2>
                             <div id="c-1" class="accordion-collapse collapse" data-bs-parent="#howWorkAccordion">
@@ -429,8 +413,7 @@ include_once 'includes/header.php'; ?>
                         </div>
                         <div class="accordion-item">
                             <h2 class="accordion-header">
-                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#c-2" aria-expanded="true" aria-controls="c-2">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#c-2" aria-expanded="true" aria-controls="c-2">
                                     <i class="bi bi-check2"></i> Strategic Planning </button>
                             </h2>
                             <div id="c-2" class="accordion-collapse collapse show" data-bs-parent="#howWorkAccordion">
@@ -442,8 +425,7 @@ include_once 'includes/header.php'; ?>
                         </div>
                         <div class="accordion-item">
                             <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#c-3" aria-expanded="false" aria-controls="c-3">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#c-3" aria-expanded="false" aria-controls="c-3">
                                     <i class="bi bi-check2"></i> Execution & Collaboration </button>
                             </h2>
                             <div id="c-3" class="accordion-collapse collapse" data-bs-parent="#howWorkAccordion">
@@ -456,8 +438,7 @@ include_once 'includes/header.php'; ?>
                         </div>
                         <div class="accordion-item">
                             <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#c-4" aria-expanded="false" aria-controls="c-4">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#c-4" aria-expanded="false" aria-controls="c-4">
                                     <i class="bi bi-check2"></i> Refinement & Delivery </button>
                             </h2>
                             <div id="c-4" class="accordion-collapse collapse" data-bs-parent="#howWorkAccordion">
@@ -470,7 +451,7 @@ include_once 'includes/header.php'; ?>
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <img src="assets/img/how-work-section-2-main.png" alt="image" class="img-fluid">
+                    <img src="assets/images/about/our-workflow.webp" alt="image" class="img-fluid">
                 </div>
             </div>
             <img src="assets/img/how-work-section-2-line.png" alt="image" class="img-fluid how-work-2-wrapper-line">
