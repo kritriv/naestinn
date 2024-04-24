@@ -5,39 +5,36 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <title><?php if (isset($title)) {
-        echo $title;
-    } else {
-        echo "Næstinn | Best Software Development Company";
-    } ?></title>
+                echo $title;
+            } else {
+                echo "Næstinn | Best Software Development Company";
+            } ?></title>
 
-    <link rel="canonical"
-        href="<?php if (isset($canonical)) {
-            echo $canonical;
-        } else {
-            echo "https://www.naestinn.com";
-        } ?>" />
-    
+    <link rel="canonical" href="<?php if (isset($canonical)) {
+                                    echo $canonical;
+                                } else {
+                                    echo "https://www.naestinn.com";
+                                } ?>" />
+
     <!-- ------- Meta Tags ------------- -->
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, maximum-scale=5.0">
 
-    <meta name="description"
-        content="<?php if (isset($description)) {
-            echo $description;
-        } else {
-            echo "Naestinn Pvt Ltd is a leading software development and IT consulting company. We provide quality solutions for online businesses using cutting-edge web technologies and platforms. Our services are designed to transform your investment into revenue while providing you with the best for money.";
-        } ?>" />
-    
-    <meta name="keywords"
-        content="<?php if (isset($keywords)) {
-            echo $keywords;
-        } else {
-            echo "Naestinn Pvt Ltd, Website Development, Software Development, App Development, UI/UX Design, Graphics Design, CRM, ERP, LMS, CMS, IT Services, Consultancy,app development company, top app development companies, app development companies, top app development company, mobile app development company, mobile app development companies.";
-        } ?>" />
+    <meta name="description" content="<?php if (isset($description)) {
+                                            echo $description;
+                                        } else {
+                                            echo "Naestinn Pvt Ltd is a leading software development and IT consulting company. We provide quality solutions for online businesses using cutting-edge web technologies and platforms. Our services are designed to transform your investment into revenue while providing you with the best for money.";
+                                        } ?>" />
 
-    <meta name="allow-search" content="yes"/>
-    <meta property="og:locale" content="IT"/>
-    <meta property="og:type" content="website"/>
+    <meta name="keywords" content="<?php if (isset($keywords)) {
+                                        echo $keywords;
+                                    } else {
+                                        echo "Naestinn Pvt Ltd, Website Development, Software Development, App Development, UI/UX Design, Graphics Design, CRM, ERP, LMS, CMS, IT Services, Consultancy,app development company, top app development companies, app development companies, top app development company, mobile app development company, mobile app development companies.";
+                                    } ?>" />
+
+    <meta name="allow-search" content="yes" />
+    <meta property="og:locale" content="IT" />
+    <meta property="og:type" content="website" />
     <meta property="og:title" content="Naestinn Pvt Ltd is a Software Company" />
     <meta property="og:description" content="Naestinn Pvt Ltd is a leading software development and IT consulting company. We provide quality solutions for online businesses using cutting-edge web technologies and platforms." />
     <meta property="og:url" content="https://www.naestinn.com" />
@@ -58,6 +55,51 @@
     <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
     <script src="assets/js/custom.js"></script>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+
+    <script>
+        // Initialize Toastr options
+        toastr.options = {
+            closeButton: true,
+            progressBar: true,
+            positionClass: "toast-top-right"
+        }
+
+        document.addEventListener("DOMContentLoaded", function() {
+            const form = document.getElementById("contact-form");
+
+            form.addEventListener("submit", async function(event) {
+                event.preventDefault();
+
+                const formData = new FormData(form);
+
+                try {
+                    const response = await fetch("form/send_contact.php", {
+                        method: "POST",
+                        body: formData
+                    });
+                    // if (!response.ok) {
+                    //     throw new Error("Network response was not ok.");
+                    // }
+
+                    const data = await response.json();
+                    console.log(data);
+
+                    if (data.status === "success") {
+                        toastr.success(data.message);
+                        form.reset();
+                    } else {
+                        toastr.error(data.message);
+                    }
+                } catch (error) {
+                    console.error("Error:", error);
+                    toastr.error("An error occurred. Please try again later.");
+                }
+            });
+        });
+    </script>
 
     <style>
         #particles-js {
