@@ -1,5 +1,11 @@
 <?php include_once 'includes/head.php'; ?>
 
+
+<div id="scroll-here"></div>
+<a id="back-to-top" href="#scroll-here" >
+    <img src="assets/images/logo2.svg" alt="Back to Top"  width="50%" />
+</a>
+
 <body class="bg_back_dark_2">
 
     <!-- Custom Cursor  -->

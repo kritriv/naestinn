@@ -1,3 +1,4 @@
+
 <!-- Footer start -->
 <footer class="footer-1 position-relative overflow-hidden">
     <div
@@ -334,7 +335,6 @@
     <img src="assets/img/footer-1-shape.webp" alt="image" class="img-fluid footer-1__shape">
 </footer>
 <!-- /Footer End -->
-
 <!-- scrpts -->
 <script src="assets/js/app.js"></script>
 <script src="assets/js/plugins.js"></script>

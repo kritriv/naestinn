@@ -1,30 +1,76 @@
-
 /* ========================== New Updated Csss ===================== */
 
 :root {
-    --bg-black-900: #f2f2fc;
-    --bg-black-100: #fdf9ff;
-    --bg-black-50: #e8dfec;
-    --text-black-900: #060b1b;
-    --bg-black-500: #16202de6;
-    --bg-black-700: #10151D;
-  }
-  
-  .bg_back_dark_2 {
-    background-color: var(--bg-black-700);
-  }
-  .bg_back_dark_3 {
-    background: var(--bg-black-500);
-  }
-  .logo .half_logo {
+  --bg-black-900: #f2f2fc;
+  --bg-black-100: #fdf9ff;
+  --bg-black-50: #e8dfec;
+  --text-black-900: #060b1b;
+  --bg-black-500: #16202de6;
+  --bg-black-700: #10151D;
+}
+
+.bg_back_dark_2 {
+  background-color: var(--bg-black-700);
+}
+
+.bg_back_dark_3 {
+  background: var(--bg-black-500);
+}
+
+.logo .half_logo {
+  display: none !important;
+}
+
+@media (max-width: 500px) {
+  .logo .full_logo {
     display: none !important;
   }
-  @media (max-width: 500px) {
-    .logo .full_logo {
-        display: none !important;
-    }
-  
-    .logo .half_logo {
-        display: inline-block !important;
-    }
+
+  .logo .half_logo {
+    display: inline-block !important;
   }
+}
+
+/* Designing for scroll-bar */
+::-webkit-scrollbar {
+  width: 0.5rem;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #11151C;
+  border-radius: 5px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #FFA23E;
+  border-radius: 5px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #BBEDFF;
+}
+
+
+#back-to-top {
+  height: 50px;
+  width: 50px;
+  position: fixed;
+  right: 0;
+  z-index: 99;
+  border-radius: 50%;
+  box-shadow: 0px 0px 3px #fff;
+  margin: 17px;
+  /* background: #11151C; */
+  bottom: -150px;
+  opacity: 0;
+  transition: all .5s ease;
+}
+
+#back-to-top.show-btt {
+  bottom: 0;
+  opacity: 1;
+  transition: all .5s ease;
+}
