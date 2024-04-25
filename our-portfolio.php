@@ -10,9 +10,9 @@ include_once 'includes/header.php'; ?>
             <div class="col-lg-8">
                 <div class="text-center">
                     <span
-                        class="rounded-1 bg-primary-key bg-opacity-2 clr-white fs-12 fw-bold px-4 py-2 d-inline-block mb-4 fadeIn_bottom">Our
+                        class="rounded-1 bg-info-20 bg-opacity-2 clr-white fs-12 fw-bold px-4 py-2 d-inline-block mb-4 fadeIn_bottom">Our
                         Portfolio</span>
-                    <h3 class="clr-neutral-90 fw-bold animate-line-3d">WriteBot AI Feature list</h3>
+                    <h3 class="clr-neutral-90 fw-bold animate-line-3d">Discover Næstinn's Achievements</h3>
                 </div>
                 <ul class="nav nav-tabs feature-2-tabs justify-content-center py-4 px-6 mt-12 fadeIn_bottom"
                     role="tablist">
@@ -20,48 +20,48 @@ include_once 'includes/header.php'; ?>
                         <button class="nav-link active" id="feature-1-tab" data-bs-toggle="tab"
                             data-bs-target="#feature-1-tab-pane" type="button" role="tab"
                             aria-controls="feature-1-tab-pane" aria-selected="true">
-                            <i class="bi bi-stars"></i>
-                            <span class="nav-link-text">AI Smart Works</span>
+                            <i class="bi bi-laptop"></i>
+                            <span class="nav-link-text">Software Development</span>
                         </button>
                     </li>
                     <li class="nav-item" role="presentation">
                         <button class="nav-link" id="feature-2-tab" data-bs-toggle="tab"
                             data-bs-target="#feature-2-tab-pane" type="button" role="tab"
                             aria-controls="feature-2-tab-pane" aria-selected="false">
-                            <i class="bi bi-images"></i>
-                            <span class="nav-link-text">AI Image</span>
+                            <i class="bi bi-phone"></i>
+                            <span class="nav-link-text">App Development</span>
                         </button>
                     </li>
                     <li class="nav-item" role="presentation">
                         <button class="nav-link" id="feature-3-tab" data-bs-toggle="tab"
                             data-bs-target="#feature-3-tab-pane" type="button" role="tab"
                             aria-controls="feature-3-tab-pane" aria-selected="false">
-                            <i class="bi bi-textarea-t"></i>
-                            <span class="nav-link-text">AI Content</span>
+                            <i class="bi bi-globe"></i>
+                            <span class="nav-link-text">Web Development</span>
                         </button>
                     </li>
                     <li class="nav-item" role="presentation">
                         <button class="nav-link" id="feature-4-tab" data-bs-toggle="tab"
                             data-bs-target="#feature-4-tab-pane" type="button" role="tab"
                             aria-controls="feature-4-tab-pane" aria-selected="false">
-                            <i class="bi bi-music-note-beamed"></i>
-                            <span class="nav-link-text">AI Music</span>
+                            <i class="bi bi-lightbulb"></i>
+                            <span class="nav-link-text">AI & ML</span>
                         </button>
                     </li>
                     <li class="nav-item" role="presentation">
                         <button class="nav-link" id="feature-5-tab" data-bs-toggle="tab"
                             data-bs-target="#feature-5-tab-pane" type="button" role="tab"
                             aria-controls="feature-5-tab-pane" aria-selected="false">
-                            <i class="bi bi-code-slash"></i>
-                            <span class="nav-link-text">AI Code</span>
+                            <i class="bi bi-palette"></i>
+                            <span class="nav-link-text">Design</span>
                         </button>
                     </li>
                     <li class="nav-item" role="presentation">
                         <button class="nav-link" id="feature-6-tab" data-bs-toggle="tab"
                             data-bs-target="#feature-6-tab-pane" type="button" role="tab"
                             aria-controls="feature-6-tab-pane" aria-selected="false">
-                            <i class="bi bi-play-circle-fill"></i>
-                            <span class="nav-link-text">AI Video</span>
+                            <i class="bi bi-megaphone"></i>
+                            <span class="nav-link-text">Marketing</span>
                         </button>
                     </li>
                 </ul>

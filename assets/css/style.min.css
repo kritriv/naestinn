@@ -25175,7 +25175,7 @@ small {
 }
 @media (min-width: 992px) {
   .menu-nav {
-    background-color: transparent;
+    /* background-color: transparent; */
     position: relative;
     z-index: 1;
     visibility: visible;
@@ -31051,7 +31051,7 @@ html.lenis {
   }
 }
 .header--1 .menu-sub {
-  background-color: hsl(var(--neutral-10));
+  background-color: var(--bg-black-700);
   box-shadow: 0 0.5rem 1rem hsl(var(--black) / 0.25);
 }
 @media (min-width: 992px) {
@@ -33864,17 +33864,17 @@ html.lenis {
   inset-block-end: -60px;
   inset-inline-start: 50%;
   transform: translateX(-50%);
-  background-color: rgba(86, 26, 255, 0.12);
+  background-color: rgba(186, 237, 255, 0.12);
   border-radius: 12px;
   padding: 0.625rem 1.5rem;
-  color: #5c2bff;
+  color: #BAEDFF;
   font-size: 0.875rem;
   font-weight: 700;
   transition: all 0.3s;
 }
 .feature-2-tabs .nav-item .nav-link.active {
-  border-color: #4400d9;
-  background-color: rgba(86, 26, 255, 0.24);
+  border-color: #BAEDFF;
+  background-color: rgba(186, 237, 255, 0.24);
   color: #fff;
 }
 .feature-2-tabs .nav-item .nav-link.active .nav-link-text {
@@ -33954,10 +33954,10 @@ html.lenis {
   border-radius: 1.5rem;
 }
 .feature-2-card:hover .feature-2-card-thumb i::after {
-  background-color: #5c2bff;
+  background-color: #64D6FF;
 }
 .feature-2-card:hover .feature-2-card-content {
-  background-color: rgba(86, 26, 255, 0.12);
+  background-color: rgba(187, 237, 255, 0.25);
 }
 .feature-2-card.style-big .feature-2-card-thumb {
   height: 210px;

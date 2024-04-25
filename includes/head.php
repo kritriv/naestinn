@@ -59,54 +59,5 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
 
-    <script>
-        // Initialize Toastr options
-        toastr.options = {
-            closeButton: true,
-            progressBar: true,
-            positionClass: "toast-top-right"
-        }
-
-        document.addEventListener("DOMContentLoaded", function() {
-            const form = document.getElementById("contact-form");
-
-            form.addEventListener("submit", async function(event) {
-                event.preventDefault();
-
-                const formData = new FormData(form);
-
-                try {
-                    const response = await fetch("form/send_contact.php", {
-                        method: "POST",
-                        body: formData
-                    });
-                    // if (!response.ok) {
-                    //     throw new Error("Network response was not ok.");
-                    // }
-
-                    const data = await response.json();
-                    console.log(data);
-
-                    if (data.status === "success") {
-                        toastr.success(data.message);
-                        form.reset();
-                    } else {
-                        toastr.error(data.message);
-                    }
-                } catch (error) {
-                    console.error("Error:", error);
-                    toastr.error("An error occurred. Please try again later.");
-                }
-            });
-        });
-    </script>
-
-    <style>
-        #particles-js {
-            position: absolute;
-            width: 100%;
-            height: 100%;
-            z-index: -5;
-        }
-    </style>
+  
 </head>

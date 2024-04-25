@@ -2,6 +2,25 @@
 $title = 'Næstinn | Best Software Development Company';
 include_once 'includes/header.php'; ?>
 
+<style>
+    #particles-js {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        z-index: -5;
+    }
+</style>
+
+<script>
+    $(document).ready(function() {
+        if (typeof particlesJS !== 'undefined') {
+            particlesJS.load('particles-js', 'assets/js/particles.json', function() {});
+        } else {
+            console.error('particlesJS is not defined. Make sure you have included the Particles.js library.');
+        }
+    });
+</script>
+
 <!-- /Hero Section Start -->
 <div class="hero-6 overflow-hidden">
     <div class="hero-6__inner section-space-sm-y">
@@ -11,21 +30,16 @@ include_once 'includes/header.php'; ?>
                 <div class="row justify-content-center">
                     <div class="col-xl-8">
                         <h1 class="mb-6 clr-white text-center fw-extrabold animate-line-3d fs-1">
-                            <span class="d-inline-block ff-3 fw-normal">We <span
-                                    class="d-inline-block clr-grad-6">Næstinn, </span></span>
+                            <span class="d-inline-block ff-3 fw-normal">We <span class="d-inline-block clr-grad-6">Næstinn, </span></span>
                             are where innovative solutions <p class="text-underline">ignite endless possibilities</p>
                         </h1>
-                        <p
-                            class="mb-12 text-center ff-1 fs-18 fw-normal clr-neutral-90 max-text-50 mx-auto animate-text-from-right">
+                        <p class="mb-12 text-center ff-1 fs-18 fw-normal clr-neutral-90 max-text-50 mx-auto animate-text-from-right">
                             At Næstinn, we pioneer cutting-edge solutions, transforming ideas into limitless digital
                             possibilities for your success. </p>
                         <div class="d-flex justify-content-center align-items-center flex-wrap gap-8 fadeIn_bottom">
-                            <a href="#ourservices"
-                                class="link d-inline-block py-4 px-6 ff-1 bg-grad-6 clr-white fw-bold rounded"> Explore
+                            <a href="#ourservices" class="link d-inline-block py-4 px-6 ff-1 bg-grad-6 clr-white fw-bold rounded"> Explore
                                 Services </a>
-                            <a href="contact-us.php"
-                                class="link d-inline-block py-4 px-6 ff-1 gradient-btn-4 clr-white fw-bold rounded"
-                                data-cursor="We are waiting"> Get
+                            <a href="contact-us.php" class="link d-inline-block py-4 px-6 ff-1 gradient-btn-4 clr-white fw-bold rounded" data-cursor="We are waiting"> Get
                                 Quote </a>
                         </div>
                     </div>
@@ -36,13 +50,9 @@ include_once 'includes/header.php'; ?>
             <div class="row justify-content-center">
                 <div class="col-xl-10">
                     <div class="position-relative z-1 fadeIn_bottom">
-                        <a href="our-services.php" data-cursor="Explore Us"><img
-                                src="assets/images/Home/hero_banner_img.webp" alt="Naestinn"
-                                class="img-fluid rounded-4 border border-8x border-outline border-opacity-2"></a>
-                        <img src="assets/images/Home/hero-cartoon.webp" alt="image"
-                            class="img-fluid d-none d-lg-block hero-6__el hero-6__el-1" width="25%">
-                        <img src="assets/images/Home/hero-el-1.webp" alt="image"
-                            class="img-fluid d-none d-lg-block hero-6__el hero-6__el-2">
+                        <a href="our-services.php" data-cursor="Explore Us"><img src="assets/images/Home/hero_banner_img.webp" alt="Naestinn" class="img-fluid rounded-4 border border-8x border-outline border-opacity-2"></a>
+                        <img src="assets/images/Home/hero-cartoon.webp" alt="image" class="img-fluid d-none d-lg-block hero-6__el hero-6__el-1" width="25%">
+                        <img src="assets/images/Home/hero-el-1.webp" alt="image" class="img-fluid d-none d-lg-block hero-6__el hero-6__el-2">
                     </div>
                 </div>
             </div>
@@ -108,8 +118,7 @@ include_once 'includes/header.php'; ?>
                     <div class="d-flex align-items-center gap-4 flex-wrap">
                         <div class="w-30 subtitle-flush-x subtitle_line_1"></div>
                         <h3 class="mb-0 fs-18 clr-neutral-90 fw-extrabold animate-text-from-right"> Our Services </h3>
-                        <p class="mb-0 clr-neutral-90 fw-normal animate-line-3d fs-5"> Unleashing Innovation: <span
-                                class="clr-grad-6">Næstinn's </span> Digital Excellence Solutions Redefining Your
+                        <p class="mb-0 clr-neutral-90 fw-normal animate-line-3d fs-5"> Unleashing Innovation: <span class="clr-grad-6">Næstinn's </span> Digital Excellence Solutions Redefining Your
                             Business Success. </p>
                     </div>
                 </div>
@@ -154,9 +163,7 @@ include_once 'includes/header.php'; ?>
                                 and extraordinary.</p>
                         </div>
                         <div class="todo-img">
-                            <a href="software-development.php"><img
-                                    src="assets/images/Services/software-development-service-home.webp"
-                                    alt="Software Development" class="img-fluid rounded-1 parallax-image "></a>
+                            <a href="software-development.php"><img src="assets/images/Services/software-development-service-home.webp" alt="Software Development" class="img-fluid rounded-1 parallax-image "></a>
                         </div>
                     </div>
                     <div id="applicationdevelopment">
@@ -167,9 +174,7 @@ include_once 'includes/header.php'; ?>
                                 lasting impression. </p>
                         </div>
                         <div class="todo-img">
-                            <a href="app-development.php"><img
-                                    src="assets/images/Services/app-development-service-home.webp"
-                                    alt="Application Development" class="img-fluid rounded-1 parallax-image "></a>
+                            <a href="app-development.php"><img src="assets/images/Services/app-development-service-home.webp" alt="Application Development" class="img-fluid rounded-1 parallax-image "></a>
                         </div>
                     </div>
                     <div id="webdevelopment">
@@ -180,9 +185,7 @@ include_once 'includes/header.php'; ?>
                                 tailored just for you. </p>
                         </div>
                         <div class="todo-img">
-                            <a href="website-development.php"><img
-                                    src="assets/images/Services/website-development-service-home.webp"
-                                    alt=" Web Development" class="img-fluid rounded-1 parallax-image "></a>
+                            <a href="website-development.php"><img src="assets/images/Services/website-development-service-home.webp" alt=" Web Development" class="img-fluid rounded-1 parallax-image "></a>
                         </div>
                     </div>
                     <div id="aiml">
@@ -193,9 +196,7 @@ include_once 'includes/header.php'; ?>
                                 empower your path to intelligence and innovation. </p>
                         </div>
                         <div class="todo-img">
-                            <a href="aiml-development.php"><img
-                                    src="assets/images/Services/aiml-service-home.webp" alt="AI & ML"
-                                    class="img-fluid rounded-1 parallax-image "></a>
+                            <a href="aiml-development.php"><img src="assets/images/Services/aiml-service-home.webp" alt="AI & ML" class="img-fluid rounded-1 parallax-image "></a>
                         </div>
                     </div>
                     <div id="designing">
@@ -206,9 +207,7 @@ include_once 'includes/header.php'; ?>
                                 boundaries, we craft visual experiences that captivate and inspire. </p>
                         </div>
                         <div class="todo-img">
-                            <a href="desiging.php"><img
-                                    src="assets/images/Services/designing-service-home.webp" alt="Designing"
-                                    class="img-fluid rounded-1 parallax-image "></a>
+                            <a href="desiging.php"><img src="assets/images/Services/designing-service-home.webp" alt="Designing" class="img-fluid rounded-1 parallax-image "></a>
                         </div>
                     </div>
                     <div id="digitalmarketing">
@@ -219,9 +218,7 @@ include_once 'includes/header.php'; ?>
                                 where innovation meets real, measurable success. </p>
                         </div>
                         <div class="todo-img">
-                            <a href="digital-marketing.php"><img
-                                    src="assets/images/Services/digital-marketing-service-home.webp"
-                                    alt="Digital Marketing" class="img-fluid rounded-1 parallax-image "></a>
+                            <a href="digital-marketing.php"><img src="assets/images/Services/digital-marketing-service-home.webp" alt="Digital Marketing" class="img-fluid rounded-1 parallax-image "></a>
                         </div>
                     </div>
                 </div>
@@ -249,8 +246,7 @@ include_once 'includes/header.php'; ?>
         <div class="row justify-content-center">
             <div class="col-lg-7 col-xxl-5">
                 <div class="text-center">
-                    <span
-                        class="rounded-1 bg-primary-key bg-opacity-2 clr-white fs-12 fw-bold px-4 py-2 d-inline-block mb-4 fadeIn_bottom">Custom
+                    <span class="rounded-1 bg-primary-key bg-opacity-2 clr-white fs-12 fw-bold px-4 py-2 d-inline-block mb-4 fadeIn_bottom">Custom
                         Software</span>
                     <h4 class="clr-neutral-90 fs-2 fw-normal animate-line-3d">Unleashing the Power of Custom Software
                     </h4>
@@ -291,8 +287,7 @@ include_once 'includes/header.php'; ?>
                 </div>
                 <div class="col-sm-6 col-lg-4 col-xxl-3">
                     <div class="ai-app-item text-center fadeIn_bottom">
-                        <img src="assets/images/Home/Software-Integration/social-integration.svg" alt="image"
-                            class="img-fluid">
+                        <img src="assets/images/Home/Software-Integration/social-integration.svg" alt="image" class="img-fluid">
                         <h4 class="fs-18 fw-bold clr-neutral-90 mt-4 mb-3">Social App Fusion: Unified Engagement</h4>
                         <p class="mb-0 clr-neutral-80">"Merge social apps seamlessly, enhancing digital collaboration."
                         </p>
@@ -306,10 +301,8 @@ include_once 'includes/header.php'; ?>
             </div>
         </div>
     </div>
-    <img src="assets/img/ai-application-shape-line-left.png" alt="image"
-        class="img-fluid ai-application-shape ai-application-shape-left">
-    <img src="assets/img/ai-application-shape-line-right.png" alt="image"
-        class="img-fluid ai-application-shape ai-application-shape-right">
+    <img src="assets/img/ai-application-shape-line-left.png" alt="image" class="img-fluid ai-application-shape ai-application-shape-left">
+    <img src="assets/img/ai-application-shape-line-right.png" alt="image" class="img-fluid ai-application-shape ai-application-shape-right">
 </section>
 <!-- /Integration software Section -->
 

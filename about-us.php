@@ -210,7 +210,7 @@ include_once 'includes/header.php'; ?>
             <div class="row g-4">
                 <div class="col-lg-4 col-sm-6">
                     <div class="key-feature-card d-flex flex-column">
-                        <img src="assets/img/key-feature-1.png" alt="image" class="img-fluid key-feature-card__img">
+                        <img src="assets/images/about/tailored-solutions.webp" alt="image" class="img-fluid key-feature-card__img">
                         <h4 class="clr-neutral-90 fs-18 fw-700 mb-3 mt-6">Tailored Solutions</h4>
                         <p class="clr-neutral-80 mb-0">Customized IT and marketing services designed to meet your unique
                             business needs.
@@ -219,7 +219,7 @@ include_once 'includes/header.php'; ?>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="key-feature-card">
-                        <img src="assets/img/key-feature-2.png" alt="image" class="img-fluid key-feature-card__img">
+                        <img src="assets/images/about/cutting-edge-technology.webp" alt="image" class="img-fluid key-feature-card__img">
                         <h4 class="clr-neutral-90 fs-18 fw-700 mb-3 mt-6">Cutting-Edge Technology</h4>
                         <p class="clr-neutral-80 mb-0">Leveraging the latest advancements in technology to drive
                             innovation and stay ahead of the curve.
@@ -228,7 +228,7 @@ include_once 'includes/header.php'; ?>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="key-feature-card">
-                        <img src="assets/img/key-feature-3.png" alt="image" class="img-fluid key-feature-card__img">
+                        <img src="assets/images/about/data-driven-strategies.webp" alt="image" class="img-fluid key-feature-card__img">
                         <h4 class="clr-neutral-90 fs-18 fw-700 mb-3 mt-6">Data-Driven Strategies</h4>
                         <p class="clr-neutral-80 mb-0">Utilizing analytics and insights to develop targeted marketing
                             campaigns and optimize digital initiatives.
@@ -237,7 +237,7 @@ include_once 'includes/header.php'; ?>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="key-feature-card">
-                        <img src="assets/img/key-feature-4.png" alt="image" class="img-fluid key-feature-card__img">
+                        <img src="assets/images/about/responsive-support.webp" alt="image" class="img-fluid key-feature-card__img">
                         <h4 class="clr-neutral-90 fs-18 fw-700 mb-3 mt-6">Responsive Support</h4>
                         <p class="clr-neutral-80 mb-0">Dedicated support team ready to assist you every step of the way,
                             ensuring seamless implementation and ongoing success.
@@ -246,7 +246,7 @@ include_once 'includes/header.php'; ?>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="key-feature-card">
-                        <img src="assets/img/key-feature-5.png" alt="image" class="img-fluid key-feature-card__img">
+                        <img src="assets/images/about/strategic-partnerships.webp" alt="image" class="img-fluid key-feature-card__img">
                         <h4 class="clr-neutral-90 fs-18 fw-700 mb-3 mt-6">Strategic Partnerships</h4>
                         <p class="clr-neutral-80 mb-0">Collaborating with industry leaders and trusted partners to
                             deliver comprehensive solutions and maximize value.
@@ -255,7 +255,7 @@ include_once 'includes/header.php'; ?>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="key-feature-card">
-                        <img src="assets/img/key-feature-6.png" alt="image" class="img-fluid key-feature-card__img">
+                        <img src="assets/images/about/continuous-improvement.webp" alt="image" class="img-fluid key-feature-card__img">
                         <h4 class="clr-neutral-90 fs-18 fw-700 mb-3 mt-6">Continuous Improvement</h4>
                         <p class="clr-neutral-80 mb-0">Committed to staying agile and adaptable, constantly evolving our
                             offerings to deliver unparalleled results in a rapidly changing digital landscape.

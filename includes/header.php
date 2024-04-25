@@ -54,39 +54,39 @@
                                     <a href="" class="link menu-link has-sub">Services</a>
                                     <ul class="list menu-sub">
                                         <li class="menu-sub-list">
-                                            <a href="services/software-development.php" class="link menu-sub-link gap-4">
+                                            <a href="software-development.php" class="link menu-sub-link gap-4">
                                                 <span class="d-none d-lg-inline-block">
-                                                    <img src="assets/img/ai-image-icon.png" alt="image" class="img-fluid">
+                                                    <img src="assets/images/icons/software.svg" alt="image" class="img-fluid">
                                                 </span> Software Development </a>
                                         </li>
                                         <li class="menu-sub-list">
-                                            <a href="services/app-development.php" class="link menu-sub-link gap-3">
+                                            <a href="app-development.php" class="link menu-sub-link gap-3">
                                                 <span class="d-none d-lg-inline-block">
-                                                    <img src="assets/img/ai-saas-icon.png" alt="image" class="img-fluid">
+                                                    <img src="assets/images/icons/app.svg" alt="image" class="img-fluid">
                                                 </span> App Development </a>
                                         </li>
                                         <li class="menu-sub-list">
-                                            <a href="services/web-development.php" class="link menu-sub-link gap-3">
+                                            <a href="web-development.php" class="link menu-sub-link gap-3">
                                                 <span class="d-none d-lg-inline-block">
-                                                    <img src="assets/img/ai-chatbot-icon.png" alt="image" class="img-fluid">
+                                                    <img src="assets/images/icons/web.svg" alt="image" class="img-fluid">
                                                 </span> Web Development </a>
                                         </li>
                                         <li class="menu-sub-list">
-                                            <a href="services/aiml-development.php" class="link menu-sub-link gap-3">
+                                            <a href="aiml-development.php" class="link menu-sub-link gap-3">
                                                 <span class="d-none d-lg-inline-block">
-                                                    <img src="assets/img/ai-content-icon.png" alt="image" class="img-fluid">
+                                                    <img src="assets/images/icons/aiml.svg" alt="image" class="img-fluid">
                                                 </span> AI & ML</a>
                                         </li>
                                         <li class="menu-sub-list">
-                                            <a href="services/designing.php" class="link menu-sub-link gap-3">
+                                            <a href="designing.php" class="link menu-sub-link gap-3">
                                                 <span class="d-none d-lg-inline-block">
-                                                    <img src="assets/img/ai-video-icon.png" alt="image" class="img-fluid">
+                                                    <img src="assets/images/icons/design.svg" alt="image" class="img-fluid">
                                                 </span> Designing </a>
                                         </li>
                                         <li class="menu-sub-list">
-                                            <a href="services/digital-marketing.php" class="link menu-sub-link gap-3">
+                                            <a href="digital-marketing.php" class="link menu-sub-link gap-3">
                                                 <span class="d-none d-lg-inline-block">
-                                                    <img src="assets/img/ai-saas-icon-2.png" alt="image" class="img-fluid">
+                                                    <img src="assets/images/icons/marketing.svg" alt="image" class="img-fluid">
                                                 </span>Digital Marketing</a>
                                         </li>
                                     </ul>

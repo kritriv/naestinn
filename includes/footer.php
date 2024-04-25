@@ -63,32 +63,32 @@
                                 <p class="mb-6 fs-18 clr-neutral-90 animate-text-from-bottom"> Services </p>
                                 <ul class="list gap-1">
                                     <li>
-                                        <a href="services/web-development.php"
+                                        <a href="web-development.php"
                                             class="link d-inline-block clr-neutral-80 :clr-secondary-key animate-text-from-bottom">
                                             Web Development</a>
                                     </li>
                                     <li>
-                                        <a href="services/app-development.php"
+                                        <a href="app-development.php"
                                             class="link d-inline-block clr-neutral-80 :clr-secondary-key animate-text-from-bottom">
                                             App Development</a>
                                     </li>
                                     <li>
-                                        <a href="services/software-development.php"
+                                        <a href="software-development.php"
                                             class="link d-inline-block clr-neutral-80 :clr-secondary-key animate-text-from-bottom">
                                             Software Development</a>
                                     </li>
                                     <li>
-                                        <a href="services/aiml-development.php"
+                                        <a href="aiml-development.php"
                                             class="link d-inline-block clr-neutral-80 :clr-secondary-key animate-text-from-bottom">
                                             AI & ML</a>
                                     </li>
                                     <li>
-                                        <a href="services/designing.php"
+                                        <a href="designing.php"
                                             class="link d-inline-block clr-neutral-80 :clr-secondary-key animate-text-from-bottom">
                                             Designing</a>
                                     </li>
                                     <li>
-                                        <a href="services/digital-marketing.php"
+                                        <a href="digital-marketing.php"
                                             class="link d-inline-block clr-neutral-80 :clr-secondary-key animate-text-from-bottom">
                                             Digital Marketing</a>
                                     </li>
