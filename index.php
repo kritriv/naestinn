@@ -50,7 +50,7 @@ include_once 'includes/header.php'; ?>
             <div class="row justify-content-center">
                 <div class="col-xl-10">
                     <div class="position-relative z-1 fadeIn_bottom">
-                        <a href="our-services.php" data-cursor="Explore Us"><img src="assets/images/Home/hero_banner_img.webp" alt="Naestinn" class="img-fluid rounded-4 border border-8x border-outline border-opacity-2"></a>
+                        <a href="contact-us.php" data-cursor="Get Quote"><img src="assets/images/Home/hero_banner_img.webp" alt="Naestinn" class="img-fluid rounded-4 border border-8x border-outline border-opacity-2"></a>
                         <img src="assets/images/Home/hero-cartoon.webp" alt="image" class="img-fluid d-none d-lg-block hero-6__el hero-6__el-1" width="25%">
                         <img src="assets/images/Home/hero-el-1.webp" alt="image" class="img-fluid d-none d-lg-block hero-6__el hero-6__el-2">
                     </div>

@@ -163,8 +163,7 @@
                             </div>
                         </div>
                         <p class="fs-18 clr-neutral-80 mb-0 mt-6">"Næstinn's holistic approach to digital solutions has
-                            transformed our operations. Their comprehensive services make them an invaluable partner for
-                            organizational success."</p>
+                            transformed our operations. Their comprehensive services make them an invaluable partner"</p>
                     </div>
                 </li>
                 <li>

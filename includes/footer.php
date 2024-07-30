@@ -14,7 +14,7 @@
                             stories through cutting-edge solutions. Join us in a transformative journey where success is
                             a continuous experience, not just a destination.</p>
                         <div class="fadein_bottom_15" data-cursor="We are waiting">
-                            <a href="contact.php"
+                            <a href="contact-us.php"
                                 class="bg-grad-6 clr-white position-relative link d-inline-flex justify-content-center align-items-center gap-2 px-6 py-3 rounded fw-bold text-center">
                                 <span class="d-inline-block"> Request Quotes </span>
                                 <span class="d-inline-block">
@@ -139,24 +139,24 @@
                                 <p class="mb-6 fs-18 clr-neutral-90 animate-text-from-bottom"> Review us</p>
                                 <ul class="list gap-1">
                                     <li>
-                                        <a href="https://www.google.com/"
+                                        <a href="https://www.google.com/search?q=naestinn+best+software+development+company" target="_blank"
                                             class="link d-inline-block clr-neutral-80 :clr-secondary-key animate-text-from-bottom">
                                             Google </a>
                                     </li>
                                     <li>
-                                        <a href="https://www.clutch.co/"
+                                        <a href="https://clutch.co/profile/naestinn#reviews" target="_blank"
                                             class="link d-inline-block clr-neutral-80 :clr-secondary-key animate-text-from-bottom">
                                             Clutch </a>
                                     </li>
                                     <li>
-                                        <a href="https://www.goodfirm.co/"
+                                        <a href="https://www.goodfirms.co/company/naestinn#reviews" target="_blank"
                                             class="link d-inline-block clr-neutral-80 :clr-secondary-key animate-text-from-bottom">
                                             GoodFirm </a>
                                     </li>
                                     <li>
-                                        <a href="https://www.trustpilot.com/"
+                                        <a href="https://www.designrush.com/agency/profile/naestinn#reviews" target="_blank"
                                             class="link d-inline-block clr-neutral-80 :clr-secondary-key animate-text-from-bottom">
-                                            Trustpilot </a>
+                                            Designrush </a>
                                     </li>
                                 </ul>
                             </div>
@@ -194,13 +194,13 @@
                     <p class="clr-neutral-90 fs-18"> Subscribe Our Newsletter 👍 </p>
                     <div
                         class="newsletter-1 d-inline-block w-100 max-text-60 mx-auto position-relative z-1 overflow-hidden rounded-pill">
+                        <form action="">
                         <div class="d-flex p-3 bg_back_dark_3  rounded ">
                             <input type="text" class="form-control newsletter-1__input bg-transparent clr-neutral-60"
-                                placeholder="Enter  Email Address">
-                            <a href="#"
-                                class="bg-grad-6 position-relative z-1 link d-inline-flex justify-content-center align-items-center gap-2 px-5 py-2 rounded-pill clr-white fs-14 fw-bold text-center">
-                                Subscribe </a>
+                                placeholder="Enter  Email Address" required>
+                            <button type="submit" class="bg-grad-6 position-relative z-1 link d-inline-flex justify-content-center align-items-center gap-2 px-5 py-2 rounded-pill clr-white fs-14 fw-bold text-center border-outline-none">Subscribe</button>
                         </div>
+                    </form>
                     </div>
                 </div>
                 <div class="col-md-6 col-xl-7">
@@ -208,55 +208,55 @@
                     <ul class="list list-row gap-4 flex-wrap">
                         <li>
                             <a href="https://linkedin.com/company/naestinn"
-                                class="link d-grid place-content-center w-12 h-12 bg_back_dark_3  :bg-grad-6 rounded-circle clr-white fs-20">
+                                class="link d-grid place-content-center w-12 h-12 bg_back_dark_3  :bg-grad-6 rounded-circle clr-white fs-20" target="__blank">
                                 <i class="bi bi-linkedin"></i>
                             </a>
                         </li>
                         <li>
                             <a href="https://instagram.com/naestinn"
-                                class="link d-grid place-content-center w-12 h-12 bg_back_dark_3  :bg-grad-6 rounded-circle clr-white fs-20">
+                                class="link d-grid place-content-center w-12 h-12 bg_back_dark_3  :bg-grad-6 rounded-circle clr-white fs-20" target="__blank">
                                 <i class="bi bi-instagram"></i>
                             </a>
                         </li>
                         <li>
                             <a href="https://www.facebook.com/naestinn"
-                                class="link d-grid place-content-center w-12 h-12 bg_back_dark_3  :bg-grad-6 rounded-circle clr-white fs-20">
+                                class="link d-grid place-content-center w-12 h-12 bg_back_dark_3  :bg-grad-6 rounded-circle clr-white fs-20" target="__blank">
                                 <i class="bi bi-facebook"></i>
                             </a>
                         </li>
                         <li>
                             <a href="https://youtube.com/@naestinn"
-                                class="link d-grid place-content-center w-12 h-12 bg_back_dark_3  :bg-grad-6 rounded-circle clr-white fs-20">
+                                class="link d-grid place-content-center w-12 h-12 bg_back_dark_3  :bg-grad-6 rounded-circle clr-white fs-20" target="__blank">
                                 <i class="bi bi-youtube"></i>
                             </a>
                         </li>
                         <li>
                             <a href="https://twitter.com/naestinn"
-                                class="link d-grid place-content-center w-12 h-12 bg_back_dark_3  :bg-grad-6 rounded-circle clr-white fs-20">
+                                class="link d-grid place-content-center w-12 h-12 bg_back_dark_3  :bg-grad-6 rounded-circle clr-white fs-20" target="__blank">
                                 <i class="bi bi-twitter"></i>
                             </a>
                         </li>
                         <li>
                             <a href="https://github.com/naestinn"
-                                class="link d-grid place-content-center w-12 h-12 bg_back_dark_3  :bg-grad-6 rounded-circle clr-white fs-20">
+                                class="link d-grid place-content-center w-12 h-12 bg_back_dark_3  :bg-grad-6 rounded-circle clr-white fs-20" target="__blank">
                                 <i class="bi bi-github"></i>
                             </a>
                         </li>
                         <li>
                             <a href="https://discord.com/naestinn"
-                                class="link d-grid place-content-center w-12 h-12 bg_back_dark_3  :bg-grad-6 rounded-circle clr-white fs-20">
+                                class="link d-grid place-content-center w-12 h-12 bg_back_dark_3  :bg-grad-6 rounded-circle clr-white fs-20" target="__blank">
                                 <i class="bi bi-discord"></i>
                             </a>
                         </li>
                         <li>
                             <a href="https://dribbble.com/naestinn"
-                                class="link d-grid place-content-center w-12 h-12 bg_back_dark_3  :bg-grad-6 rounded-circle clr-white fs-20">
+                                class="link d-grid place-content-center w-12 h-12 bg_back_dark_3  :bg-grad-6 rounded-circle clr-white fs-20" target="__blank">
                                 <i class="bi bi-dribbble"></i>
                             </a>
                         </li>
                         <li>
                             <a href="https://www.behance.net/naestinn"
-                                class="link d-grid place-content-center w-12 h-12 bg_back_dark_3  :bg-grad-6 rounded-circle clr-white fs-20">
+                                class="link d-grid place-content-center w-12 h-12 bg_back_dark_3  :bg-grad-6 rounded-circle clr-white fs-20" target="__blank">
                                 <i class="bi bi-behance"></i>
                             </a>
                         </li>

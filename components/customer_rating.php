@@ -144,46 +144,82 @@
                             <div class="col-sm-6 col-md-4 fadein_bottom_32">
                                 <div
                                     class="d-flex flex-column align-items-start justify-content-between rounded-1 bg_back_dark_3 border border-neutral-17 p-4 px-md-6 h-100">
+                                    <p class="mb-10 clr-neutral-92 fw-extrabold fs-1"> 5.0 </p>
+                                    <div class="mt-auto">
+                                        <ul class="list list-row gap-1 mb-4">
+                                            <li>
+                                                <span class="d-inline-block clr-warning-50 fs-14">
+                                                    <i class="bi bi-star-fill"></i>
+                                                </span>
+                                            </li>
+                                            <li>
+                                                <span class="d-inline-block clr-warning-50 fs-14">
+                                                    <i class="bi bi-star-fill"></i>
+                                                </span>
+                                            </li>
+                                            <li>
+                                                <span class="d-inline-block clr-warning-50 fs-14">
+                                                    <i class="bi bi-star-fill"></i>
+                                                </span>
+                                            </li>
+                                            <li>
+                                                <span class="d-inline-block clr-warning-50 fs-14">
+                                                    <i class="bi bi-star-fill"></i>
+                                                </span>
+                                            </li>
+                                            <li>
+                                                <span class="d-inline-block clr-warning-50 fs-14">
+                                                    <i class="bi bi-star-fill"></i>
+                                                </span>
+                                            </li>
+                                        </ul>
+                                        <a href="https://clutch.co/profile/naestinn" target="__blank"><img src="assets/images/Home/clutch-review.png" alt="Naestinn Clutch" class="img-fluid"></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 col-md-4 fadein_bottom_32">
+                                <div
+                                    class="d-flex flex-column align-items-start justify-content-between rounded-1 bg_back_dark_3 border border-neutral-17 p-4 px-md-6 h-100">
+                                    <p class="mb-10 clr-neutral-92 fw-extrabold fs-1"> 5.0 </p>
+                                    <div class="mt-auto">
+                                        <ul class="list list-row gap-1 mb-4">
+                                            <li>
+                                                <span class="d-inline-block text-primary fs-14">
+                                                    <i class="bi bi-star-fill"></i>
+                                                </span>
+                                            </li>
+                                            <li>
+                                                <span class="d-inline-block text-primary fs-14">
+                                                    <i class="bi bi-star-fill"></i>
+                                                </span>
+                                            </li>
+                                            <li>
+                                                <span class="d-inline-block text-primary fs-14">
+                                                    <i class="bi bi-star-fill"></i>
+                                                </span>
+                                            </li>
+                                            <li>
+                                                <span class="d-inline-block text-primary fs-14">
+                                                    <i class="bi bi-star-fill"></i>
+                                                </span>
+                                            </li>
+                                            <li>
+                                                <span class="d-inline-block text-primary fs-14">
+                                                    <i class="bi bi-star-fill"></i>
+                                                </span>
+                                            </li>
+                                        </ul>
+                                        <a href="https://www.goodfirms.co/company/naestinn" target="__blank"><img src="assets/images/Home/goodfirm-review.png" alt="Naestinn Goodfirm" class="img-fluid"></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 col-md-4 fadein_bottom_32">
+                                <div
+                                    class="d-flex flex-column align-items-start justify-content-between rounded-1 bg_back_dark_3 border border-neutral-17 p-4 px-md-6 h-100">
                                     <p class="mb-10 clr-neutral-92 fw-extrabold fs-1"> 4.8 </p>
                                     <div class="mt-auto">
                                         <ul class="list list-row gap-1 mb-4">
                                             <li>
-                                                <span class="d-inline-block clr-warning-50 fs-14">
-                                                    <i class="bi bi-star-fill"></i>
-                                                </span>
-                                            </li>
-                                            <li>
-                                                <span class="d-inline-block clr-warning-50 fs-14">
-                                                    <i class="bi bi-star-fill"></i>
-                                                </span>
-                                            </li>
-                                            <li>
-                                                <span class="d-inline-block clr-warning-50 fs-14">
-                                                    <i class="bi bi-star-fill"></i>
-                                                </span>
-                                            </li>
-                                            <li>
-                                                <span class="d-inline-block clr-warning-50 fs-14">
-                                                    <i class="bi bi-star-fill"></i>
-                                                </span>
-                                            </li>
-                                            <li>
-                                                <span class="d-inline-block clr-warning-50 fs-14">
-                                                    <i class="bi bi-star-fill"></i>
-                                                </span>
-                                            </li>
-                                        </ul>
-                                        <img src="assets/images/Home/clutch-review.png" alt="image" class="img-fluid">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-sm-6 col-md-4 fadein_bottom_32">
-                                <div
-                                    class="d-flex flex-column align-items-start justify-content-between rounded-1 bg_back_dark_3 border border-neutral-17 p-4 px-md-6 h-100">
-                                    <p class="mb-10 clr-neutral-92 fw-extrabold fs-1"> 4.2 </p>
-                                    <div class="mt-auto">
-                                        <ul class="list list-row gap-1 mb-4">
-                                            <li>
                                                 <span class="d-inline-block text-info fs-14">
                                                     <i class="bi bi-star-fill"></i>
                                                 </span>
@@ -209,43 +245,7 @@
                                                 </span>
                                             </li>
                                         </ul>
-                                        <img src="assets/images/Home/goodfirm-review.png" alt="image" class="img-fluid">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-sm-6 col-md-4 fadein_bottom_32">
-                                <div
-                                    class="d-flex flex-column align-items-start justify-content-between rounded-1 bg_back_dark_3 border border-neutral-17 p-4 px-md-6 h-100">
-                                    <p class="mb-10 clr-neutral-92 fw-extrabold fs-1"> 4.5 </p>
-                                    <div class="mt-auto">
-                                        <ul class="list list-row gap-1 mb-4">
-                                            <li>
-                                                <span class="d-inline-block text-success fs-14">
-                                                    <i class="bi bi-star-fill"></i>
-                                                </span>
-                                            </li>
-                                            <li>
-                                                <span class="d-inline-block text-success fs-14">
-                                                    <i class="bi bi-star-fill"></i>
-                                                </span>
-                                            </li>
-                                            <li>
-                                                <span class="d-inline-block text-success fs-14">
-                                                    <i class="bi bi-star-fill"></i>
-                                                </span>
-                                            </li>
-                                            <li>
-                                                <span class="d-inline-block text-success fs-14">
-                                                    <i class="bi bi-star-fill"></i>
-                                                </span>
-                                            </li>
-                                            <li>
-                                                <span class="d-inline-block text-success fs-14">
-                                                    <i class="bi bi-star-fill"></i>
-                                                </span>
-                                            </li>
-                                        </ul>
-                                        <img src="assets/img/customer-logo-2.png" alt="image" class="img-fluid">
+                                        <a href="https://www.designrush.com/agency/profile/naestinn" target="__blank"><img src="assets/images/Home/designrush-review.png" alt="Naestinn Designrush" class="img-fluid"></a>
                                     </div>
                                 </div>
                             </div>
